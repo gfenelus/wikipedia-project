@@ -9,6 +9,8 @@ xmlM = 'deities.xml'
 xmlS = "wikiSmall.xml"
 xmlH = "hindu-deities2.xml"
 count = 0
+deityList=[]
+file_name = "deities.json"
 #iterate through elements of each page 
 for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/export-0.10/}text"):
     
@@ -109,7 +111,8 @@ for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/e
                     children = re.sub(r"{*efn\||{*unbulleted list\||{*ubl\||\((\w*\s?)*\)|}}","", children)
                     children = re.sub(r"{*cite\s?book\s?\|(.*)","", children)
                     # print("Children: ", children)
-
+            
+            #CREATE deity profile in JSON
             my_json = {
                 "name": name.strip(),
                 "god": god.strip(),
@@ -120,20 +123,31 @@ for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/e
                 "children": children.strip()
             }
             # print(json.dumps(my_json, indent=4))
-         
+            
+            #UPDATE deity to list of deities
+            deityList.append(my_json)
+            # print("list: ", deityList)
             #Create json file   
-            file_name = name + ".json"
-            file_name = "greek-gods.json"
-            file = open("deity-profiles\\" + file_name, 'a')
-            json.dump(my_json, file, indent=2)
-            file.write(",")
-            file.close()
-            print(count, "Files Done")
+            
+            # file = open("deity-profiles\\" + file_name, 'a')
+            # json.dump(my_json, file, indent=2)
+            # file.write(",")
+            # file.close()
+
+            # print(count, "Files Done")
             element.clear()
             #MAKE SURE BEGINNING AND END OF FILE HAS BRACKETS ex. "[{"key": "value1"}, {"key": "vale2"}]" AND REMOVE THE TRAILING COMMA BEFORE IMPORTING
-    
+            
+
     #catches error when an infobox for a deity isn't found    
     except Exception as e:
-        # print(e)
-        print("deity not found") 
+        print(e)
+        # print("deity not found")
+         
     element.clear()
+    # file_name = "deities.json"
+file = open("deity-profiles\\" + file_name, 'a')
+json.dump(deityList, file, indent=1)
+file.close()
+# print(count, "Files Done")
+  
