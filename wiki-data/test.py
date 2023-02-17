@@ -126,9 +126,11 @@ for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/e
             file_name = "greek-gods.json"
             file = open("deity-profiles\\" + file_name, 'a')
             json.dump(my_json, file, indent=2)
+            file.write(",")
             file.close()
             print(count, "Files Done")
             element.clear()
+            #MAKE SURE BEGINNING AND END OF FILE HAS BRACKETS ex. "[{"key": "value1"}, {"key": "vale2"}]" AND REMOVE THE TRAILING COMMA BEFORE IMPORTING
     
     #catches error when an infobox for a deity isn't found    
     except Exception as e:
