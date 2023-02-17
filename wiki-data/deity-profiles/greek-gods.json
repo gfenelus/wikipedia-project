@@ -1,0 +1,633 @@
+{
+  "name": "Anteros",
+  "god": "God of love|requited love, avenger of unrequited love",
+  "abode": "Mount Olympus",
+  "symbol": "golden club with arrows of lead",
+  "parent": "Ares and Aphrodite or Poseidon and Nerites |Nerites",
+  "sibling": "{{hlistErosHimerosPhobos PhobosDeimos DeimosHarmonia Harmonia",
+  "children": ""
+}{
+  "name": "Geras",
+  "god": "Personification of Old age",
+  "abode": "Erebus",
+  "symbol": "golden club with arrows of lead",
+  "parent": "Nyx |Nyx",
+  "sibling": "Moros, Keres Keres, Thanatos, Hypnos, Oneiroi, Oizys, Hesperides, Moirai, Nemesis Nemesis, Apate Apate, Philotes, Momus, Eris Eris, Styx, Dolos Dolos, Ponos, Euphrosyne, Epiphron, SophrosyneContinentia, Hybris Petulantia, EleosMisericordia, Pertinacia",
+  "children": ""
+}{
+  "name": "Astraeus",
+  "god": "God of the Dusk",
+  "abode": "Sky",
+  "symbol": "golden club with arrows of lead",
+  "parent": "Eurybia |Eurybia and Crius",
+  "sibling": "Perses Perses, Pallas Pallas",
+  "children": ""
+}{
+  "name": "Astraeus",
+  "god": "God of Wealth",
+  "abode": "Sky",
+  "symbol": "Cornucopia",
+  "parent": "Demeter and Iasion",
+  "sibling": "Persephone, Despoina, Arion Arion, Philomelus, Eubuleus, Iacchus",
+  "children": ""
+}{
+  "name": "Phanes",
+  "god": "God of Creation",
+  "abode": "",
+  "symbol": "In Orphic cosmogony, Phanes is often equated with Eros (god)|Eros or Mithras, and has been depicted as a deity emerging from a cosmic egg, entwined with a serpent (symbolism)|serpent. He had a helmet and had broad,",
+  "parent": "None/Orphic Egg or Chronos and Ananke |Ananke or Chaos |Chaos",
+  "sibling": "Chaos Chaos, Moirai, Horae",
+  "children": ""
+}{
+  "name": "Phthonos",
+  "god": "Personification of Envy and Jealousy",
+  "abode": "",
+  "symbol": "In Orphic cosmogony, Phanes is often equated with Eros (god)|Eros or Mithras, and has been depicted as a deity emerging from a cosmic egg, entwined with a serpent (symbolism)|serpent. He had a helmet and had broad,",
+  "parent": "None/Orphic Egg or Chronos and Ananke |Ananke or Chaos |Chaos",
+  "sibling": "Chaos Chaos, Moirai, Horae",
+  "children": ""
+}{
+  "name": "Ponos",
+  "god": "Personification of Toil",
+  "abode": "",
+  "symbol": "",
+  "parent": "Eris",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Philomelus",
+  "god": "Inventor of the chariot",
+  "abode": "",
+  "symbol": "",
+  "parent": "Iasion and Demeter",
+  "sibling": "Plutus, Corybas Corybas, Despoina, Persephone, Iacchus, Arion Arion",
+  "children": "Parias |Parias"
+}{
+  "name": "Aristaeus",
+  "god": "culture hero",
+  "abode": "Libya, Boeotia",
+  "symbol": "",
+  "parent": "Apollo and Cyrene |Cyrene",
+  "sibling": "",
+  "children": "Actaeon and Macris"
+}{
+  "name": "Epiphron",
+  "god": "Personification of Prudence",
+  "abode": "Greek underworld|Underworld (possibly)",
+  "symbol": "",
+  "parent": "Nyx |Nyx and Erebus",
+  "sibling": "Moros, Keres Keres, Thanatos, Hypnos, Oneiroi, Momus, Oizys, Moirai, Nemesis Nemesis, Apate Apate, Philotes, Geras, Eris Eris, Hesperides, Styx, Dolos Dolos, Ponos, Euphrosyne, Hybris Petulantia, SophrosyneContinentia, EleosMisericordia, Pertinacia",
+  "children": "Actaeon and Macris"
+}{
+  "name": "Epiphron",
+  "god": "Personification of Prudence",
+  "abode": "",
+  "symbol": "",
+  "parent": "{{Infobox deity|abode=Mount OlympusAres and Aphrodite|siblings=Erotes |Erotes, Phobos |Phobos, Phlegyas, Harmonia |Harmonia, Enyalios, Thrax |Thrax, Oenomaus, and Amazons|type=Greek|deity_of=Personification of terror|roman_equivalent=Formido or Metus",
+  "sibling": "{{Infobox deityabode=Mount Olympusparents=Ares and AphroditeErotes Erotes, Phobos Phobos, Phlegyas, Harmonia Harmonia, Enyalios, Thrax Thrax, Oenomaus, and Amazonstype=Greekdeity_of=Personification of terrorroman_equivalent=Formido or Metus",
+  "children": "Actaeon and Macris"
+}{
+  "name": "The Phonoi",
+  "god": "Personifications of Murder",
+  "abode": "Greek underworld|Underworld (possibly)",
+  "symbol": "",
+  "parent": "Eris |Eris",
+  "sibling": "Hesiod in the Theogony named the Phonoi's mother as Eris Eris (\"Discord\"), and their siblings as: the Hysminai , the Makhai , the Androktasiai  and other malevolent Daimondaemons.",
+  "children": "Actaeon and Macris"
+}{
+  "name": "The Neikea",
+  "god": "Personifications of Quarrel",
+  "abode": "Greek underworld|Underworld (possibly)",
+  "symbol": "",
+  "parent": "Eris",
+  "sibling": "In Hesiod's Theogony identifies the Neikea as children of Eris Eris  through parthenogenesis",
+  "children": "In Hesiod's Theogony identifies the Neikea as children of Eris |Eris  through parthenogenesis<ref>Hesiod, Theogony 229</ref> and siblings of Hysminai (\"Battles\"), Makhai (\"Wars\"), Phonoi (\"Murders\") and Androctasiai|Androktasiai (Manslaughters\").<ref>Richard Caldwell, Hesiod's Theogony, Focus Publishing/R. Pullins Company (June 1, 1987). {{ISBN|978-0-941051-00-2.</ref>"
+}{
+  "name": "Horcus",
+  "god": "Personifications of Oath",
+  "abode": "Greek underworld|Underworld (possibly)",
+  "symbol": "",
+  "parent": "Eris",
+  "sibling": "",
+  "children": "In Hesiod's Theogony identifies the Neikea as children of Eris |Eris  through parthenogenesis<ref>Hesiod, Theogony 229</ref> and siblings of Hysminai (\"Battles\"), Makhai (\"Wars\"), Phonoi (\"Murders\") and Androctasiai|Androktasiai (Manslaughters\").<ref>Richard Caldwell, Hesiod's Theogony, Focus Publishing/R. Pullins Company (June 1, 1987). {{ISBN|978-0-941051-00-2.</ref>"
+}{
+  "name": "Eleos",
+  "god": "Personification of Mercy and compassion",
+  "abode": "",
+  "symbol": "",
+  "parent": "Nyx |Nyx and Erebus",
+  "sibling": "Moros, Keres Keres, Thanatos, Hypnos, Oneiroi, Momus, Oizys, Hesperides, Moirai, Nemesis Nemesis, Apate Apate,  Geras, Eris Eris, Philotes, Styx, Dolos Dolos, Ponos, Euphrosyne, Epiphron, SophrosyneContinentia, Hybris Petulantia, Pertinacia",
+  "children": "In Hesiod's Theogony identifies the Neikea as children of Eris |Eris  through parthenogenesis<ref>Hesiod, Theogony 229</ref> and siblings of Hysminai (\"Battles\"), Makhai (\"Wars\"), Phonoi (\"Murders\") and Androctasiai|Androktasiai (Manslaughters\").<ref>Richard Caldwell, Hesiod's Theogony, Focus Publishing/R. Pullins Company (June 1, 1987). {{ISBN|978-0-941051-00-2.</ref>"
+}{
+  "name": "Homados",
+  "god": "Personification of Battle-noise",
+  "abode": "Greek underworld|Underworld (possibly)",
+  "symbol": "",
+  "parent": "Eris |Eris",
+  "sibling": "Moros, Keres Keres, Thanatos, Hypnos, Oneiroi, Momus, Oizys, Hesperides, Moirai, Nemesis Nemesis, Apate Apate,  Geras, Eris Eris, Philotes, Styx, Dolos Dolos, Ponos, Euphrosyne, Epiphron, SophrosyneContinentia, Hybris Petulantia, Pertinacia",
+  "children": "In Hesiod's Theogony identifies the Neikea as children of Eris |Eris  through parthenogenesis<ref>Hesiod, Theogony 229</ref> and siblings of Hysminai (\"Battles\"), Makhai (\"Wars\"), Phonoi (\"Murders\") and Androctasiai|Androktasiai (Manslaughters\").<ref>Richard Caldwell, Hesiod's Theogony, Focus Publishing/R. Pullins Company (June 1, 1987). {{ISBN|978-0-941051-00-2.</ref>"
+}{
+  "name": "Alexiares and Anticetus",
+  "god": "Personification of Battle-noise",
+  "abode": "Mount Olympus",
+  "symbol": "",
+  "parent": "Heracles and Hebe |Hebe",
+  "sibling": "Moros, Keres Keres, Thanatos, Hypnos, Oneiroi, Momus, Oizys, Hesperides, Moirai, Nemesis Nemesis, Apate Apate,  Geras, Eris Eris, Philotes, Styx, Dolos Dolos, Ponos, Euphrosyne, Epiphron, SophrosyneContinentia, Hybris Petulantia, Pertinacia",
+  "children": "In Hesiod's Theogony identifies the Neikea as children of Eris |Eris  through parthenogenesis<ref>Hesiod, Theogony 229</ref> and siblings of Hysminai (\"Battles\"), Makhai (\"Wars\"), Phonoi (\"Murders\") and Androctasiai|Androktasiai (Manslaughters\").<ref>Richard Caldwell, Hesiod's Theogony, Focus Publishing/R. Pullins Company (June 1, 1987). {{ISBN|978-0-941051-00-2.</ref>"
+}{
+  "name": "Priapus",
+  "god": "God of fertility, vegetables, nature, livestock, fruit, beekeeping, sex, genitals, masculinity, and gardens",
+  "abode": "",
+  "symbol": "Donkey, flowers, fruit, vegetables, fish, bees",
+  "parent": "Aphrodite and Dionysus;,Hermes and Aphrodite;,Dionysus and Chione |Chione;,Zeus and Aphrodite,Pan |Pan",
+  "sibling": "Charites, Eros, Hermaphroditos, Hymenaios, Pan Pan, satyrs",
+  "children": ""
+}{
+  "name": "Phobos",
+  "god": "Personification of fear",
+  "abode": "| abodes = Mount Olympus",
+  "symbol": "Donkey, flowers, fruit, vegetables, fish, bees",
+  "parent": "Ares and Aphrodite",
+  "sibling": "Erotes, Deimos Deimos, Phlegyas, Harmonia, EnyaliusEnyalios, Thrax Thrax, Oenomaus, and Amazons",
+  "children": ""
+}{
+  "name": "Castor and Pollux",
+  "god": "Twin gods, patrons of sailors, associated with horsemanship",
+  "abode": "| abodes = Mount Olympus",
+  "symbol": "Donkey, flowers, fruit, vegetables, fish, bees",
+  "parent": "{{plainlist|",
+  "sibling": "Timandra Timandra, Phoebe, Philonoe, Helen of Troy and Clytemnestra",
+  "children": ""
+}{
+  "name": "Melicertes",
+  "god": "Prince of Boeotia",
+  "abode": "Boeotia",
+  "symbol": "Donkey, flowers, fruit, vegetables, fish, bees",
+  "parent": "Athamas and Ino |Ino",
+  "sibling": "Learchus",
+  "children": ""
+}{
+  "name": "Penthus",
+  "god": "Personification of grief",
+  "abode": "",
+  "symbol": "Donkey, flowers, fruit, vegetables, fish, bees",
+  "parent": "Aether |Aether and Gaia",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Theandrios, Theandrites",
+  "god": "",
+  "abode": "",
+  "symbol": "",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Coeus",
+  "god": "",
+  "abode": "Tartarus",
+  "symbol": "",
+  "parent": "Uranus |Uranus and Gaia",
+  "sibling": "title=Half-siblings",
+  "children": ""
+}{
+  "name": "Hyperion",
+  "god": "",
+  "abode": "Tartarus",
+  "symbol": "",
+  "parent": "Uranus |Uranus and Gaia",
+  "sibling": "title = Half-siblings",
+  "children": "In Greek mythology, 'Hyperion' ({{IPAc-en|h|a\u026a|\u02c8|p|\u026a\u0259r|i|\u0259|n; {{lang-grc-gre|\u1f59\u03c0\u03b5\u03c1\u03af\u03c9\u03bd, 'he who goes before')<ref>Grimal, s.v. Hyperion; Smith,  [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DH%3Aentry+group%3D18%3Aentry%3Dhyperion-bio-1 s.v. Hyperion].</ref> was one of the twelve Titan |Titan children of Gaia  and Uranus |Uranus (the"
+}{
+  "name": "Iapetus",
+  "god": "The Titans|Titan of Mortality",
+  "abode": "Tartarus",
+  "symbol": "",
+  "parent": "Uranus |Uranus and Gaia",
+  "sibling": "title= Other siblings",
+  "children": "In Greek mythology, 'Hyperion' ({{IPAc-en|h|a\u026a|\u02c8|p|\u026a\u0259r|i|\u0259|n; {{lang-grc-gre|\u1f59\u03c0\u03b5\u03c1\u03af\u03c9\u03bd, 'he who goes before')<ref>Grimal, s.v. Hyperion; Smith,  [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DH%3Aentry+group%3D18%3Aentry%3Dhyperion-bio-1 s.v. Hyperion].</ref> was one of the twelve Titan |Titan children of Gaia  and Uranus |Uranus (the"
+}{
+  "name": "Hypnos",
+  "god": "Personification of sleep",
+  "abode": "Greek Underworld|Underworld",
+  "symbol": "Poppy, Lethe|River Lethe, Populus|Cottonwood",
+  "parent": "Nyx |Nyx alone,",
+  "sibling": "Thanatos , Moros, Keres Keres, Oneiroi, Momus, Oizys, Hesperides, Moirai, Nemesis Nemesis, Apate Apate, Philotes, Geras, Eris Eris, Styx, Dolos Dolos, Ponos, Euphrosyne, Epiphron, SophrosyneContinentia, Hybris Petulantia, EleosMisericordia, Pertinacia",
+  "children": ""
+}{
+  "name": "Aion or Aeon",
+  "god": "God of Perpetual Time, Eternity, and Zodiac",
+  "abode": "beyond the celestial sphere",
+  "symbol": "hoop, wheel, ouroboros, other circled Snakes in mythology|snakes",
+  "parent": "",
+  "sibling": "",
+  "children": "| caption      = Aion, god of the ages, in a celestial sphere decorated with zodiacal signs, between a green and a dismantled tree . Before him is the mother-earth Tellus  with four children, the four seasons personified"
+}{
+  "name": "Eros",
+  "god": "God of love, lust, desire and sexPrimordial god and personification of Love",
+  "abode": "Mount Olympus",
+  "symbol": "Bow and arrows",
+  "parent": "",
+  "sibling": "",
+  "children": "| caption      = Aion, god of the ages, in a celestial sphere decorated with zodiacal signs, between a green and a dismantled tree . Before him is the mother-earth Tellus  with four children, the four seasons personified"
+}{
+  "name": "Crius",
+  "god": "God of love, lust, desire and sexPrimordial god and personification of Love",
+  "abode": "Tartarus",
+  "symbol": "Bow and arrows",
+  "parent": "Uranus |Uranus and Gaia",
+  "sibling": "title = Half-siblings",
+  "children": "| caption      = Aion, god of the ages, in a celestial sphere decorated with zodiacal signs, between a green and a dismantled tree . Before him is the mother-earth Tellus  with four children, the four seasons personified"
+}{
+  "name": "Aether",
+  "god": "Primordial god and personification of the Upper Sky",
+  "abode": "Tartarus",
+  "symbol": "",
+  "parent": "Erebus and Nyx |Nyx ,Chronos",
+  "sibling": "Hemera ,Chaos Chaos and Erebus",
+  "children": ""
+}{
+  "name": "Uranus",
+  "god": "Primordial god and personification of the Sky and Aether (classical element)|Heavens",
+  "abode": "",
+  "symbol": "",
+  "parent": "Gaia",
+  "sibling": "",
+  "children": "The Titans, the Cyclopes, the Hecatoncheires,  the Erinyes , the Giants |Giants, the Meliae, and Aphrodite<ref>According to Hesiod, Theogony [https://www.perseus.tufts.edu/hopper/text?doc=Hes.+Th.+183 183\u2013200], Aphrodite was born from Uranus' severed genitals, but according to Homer, Aphrodite was the daughter of Zeus (Iliad [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:3.374 3.374], [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:20.105 20.105]; Odyssey [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng1:8.308 8.308], [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng1:8.320 320]) and Dione |Dione (Iliad [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:5.370 5.370\u201371]), see Gantz, pp. 99\u2013100.</ref>"
+}{
+  "name": "Cronus",
+  "god": "God of the harvest<!--please do not add Time as that refers to Chronos, which is a different figure as per disambig and name / comp-mythology section-->",
+  "abode": "",
+  "symbol": "Grain, sickle, scythe",
+  "parent": "Uranus |Uranus and Gaia",
+  "sibling": "title = Half-siblings",
+  "children": "The Titans, the Cyclopes, the Hecatoncheires,  the Erinyes , the Giants |Giants, the Meliae, and Aphrodite<ref>According to Hesiod, Theogony [https://www.perseus.tufts.edu/hopper/text?doc=Hes.+Th.+183 183\u2013200], Aphrodite was born from Uranus' severed genitals, but according to Homer, Aphrodite was the daughter of Zeus (Iliad [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:3.374 3.374], [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:20.105 20.105]; Odyssey [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng1:8.308 8.308], [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng1:8.320 320]) and Dione |Dione (Iliad [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:5.370 5.370\u201371]), see Gantz, pp. 99\u2013100.</ref>"
+}{
+  "name": "Adonis",
+  "god": "Mortal lover of Aphrodite",
+  "abode": "",
+  "symbol": "anemones, as well as lettuce, fennel, and other fast-growing plants",
+  "parent": "Cinyras and Myrrha , Phoenix |Phoenix and Alphesiboea",
+  "sibling": "title = Half-siblings",
+  "children": "Golgos, Beroe |Beroe"
+}{
+  "name": "Atlas",
+  "god": "",
+  "abode": "Western edge of Gaia (''the Earth'')",
+  "symbol": "",
+  "parent": "{{plainlist|",
+  "sibling": "",
+  "children": "{{plainlist|"
+}{
+  "name": "Asclepius",
+  "god": "God of medicine, healing, rejuvenation and physicians",
+  "abode": "Mount Olympus",
+  "symbol": "Rod of Asclepius|Serpent-entwined staff",
+  "parent": "Apollo and Coronis |Coronis",
+  "sibling": "Apollo#Consorts and children: extended listhalf-siblings of Asclepius",
+  "children": "{{hlist|Hygeia|Iaso|Aceso|Aglaia |Aglaea|Panacea|Machaon |Machaon|Podalirius|Telesphorus |Telesphoros|[https://en.wiktionary.org/wiki/Aratus Aratus]"
+}{
+  "name": "Hymenaios",
+  "god": "God of weddings, reception, marriage",
+  "abode": "Mount Olympus",
+  "symbol": "Bridal torch",
+  "parent": "Magnes |Magnes and Calliope,Apollo and one of the Muses, Dionysiaca 33.67</ref>' Rhesus, 895 (ed. Dindorf)</ref>'s Pythian Odes 4.313</ref>, Epistles 1.13.3</ref>. Chiliades 8.599</ref>,Dionysus and unknown mother,Dionysus and Ariadne.",
+  "sibling": "Apollo#Consorts and children: extended listhalf-siblings of Asclepius",
+  "children": ""
+}{
+  "name": "Moros",
+  "god": "Personification of Doom",
+  "abode": "Mount Olympus",
+  "symbol": "Bridal torch",
+  "parent": "Nyx |Nyx<ref name=\"theo 211\">Hesiod, Theogony 211</ref> and Erebus",
+  "sibling": "Aether Aether, Hemera, the Keres Keres, Thanatos, Hypnos, the Oneiroi, Momus, Oizys, the Hesperides, the Moirai, Nemesis Nemesis, Apate Apate, Philotes, Geras, Eris Eris, Styx, Dolos Dolos, Ponos, Euphrosyne, Epiphron, SophrosyneContinentia, Hybris Petulantia, EleosMisericordia, Pertinacia",
+  "children": ""
+}{
+  "name": "Chronos",
+  "god": "Personification of time",
+  "abode": "Mount Olympus",
+  "symbol": "scythe, zodiac wheel , Wheel of time",
+  "parent": "None, self-created",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Kratos",
+  "god": "Personification of Strength",
+  "abode": "Mount Olympus",
+  "symbol": "scythe, zodiac wheel , Wheel of time",
+  "parent": "Pallas |Pallas and Styx |Styx",
+  "sibling": "In Greek mythology, 'Kratos', also known as 'Cratus' or 'Cratos',Ancient Greek languageAncient Greek: {{langgrc\u039a\u03c1\u03ac\u03c4\u03bf\u03c2, usually Transliterationtransliterated as Kr\u00e1tos, but sometimes Romanization of GreekLatinized as Cratus or Cratos. The name literally means \"Power\"{{sfnRuffell2012page=25{{sfnMartin2016page=163 or \"Strength\".{{sfnLowe2009page=82 Kratos is first mentioned alongside his siblings in Hesiod's Theogony. According to Hesiod, Kratos and his siblings dwell with Zeus because their mother Styx came to him first to request a position in his regime, so he ho",
+  "children": ""
+}{
+  "name": "Apollo",
+  "god": "God of oracles, healing, archery, music and arts, sunlight, knowledge, herds and flocks, and protection of the young",
+  "abode": "Mount Olympus",
+  "symbol": "Lyre, laurel wreath, Python (mythology)|python, bow and arrows",
+  "parent": "Zeus and Leto",
+  "sibling": "Artemis , Aeacus, Angelos Angelos, Aphrodite, Ares, Athena, Dionysus, Eileithyia, Enyo, Eris Eris, Ersa, Hebe Hebe, Helen of Troy, Hephaestus, Heracles, Hermes, Minos, Pandia, Persephone, Perseus, Rhadamanthus, the Graces, the Horae, the Litae, the Muses, the Moirai",
+  "children": "Asclepius, Aristaeus, Corybantes, Hymen |Hymenaeus, Apollonis, Amphiaraus, Anius, Apis |Apis, Cycnus of Aetolia|Cycnus, Eurydice, Hector, Linus of Thrace, Lycomedes, Melaneus, Melite |Melite, Miletus |Miletus, Mopsus |Mopsus, Oaxes, Oncius, Orpheus, Troilus, Phemonoe, Philammon, Tenerus |Tenerus, Trophonius, and Apollo#Children|various others"
+}{
+  "name": "Pan",
+  "god": "God of nature, the wild, shepherds, flocks, and mountain wilds",
+  "abode": "Arcadia (ancient region)|Arcadia",
+  "symbol": "Pan flute, goat",
+  "parent": "many variations including: Hermes and Dryope|Driope, Aphrodite, or Penelope |Penelope",
+  "sibling": "Artemis , Aeacus, Angelos Angelos, Aphrodite, Ares, Athena, Dionysus, Eileithyia, Enyo, Eris Eris, Ersa, Hebe Hebe, Helen of Troy, Hephaestus, Heracles, Hermes, Minos, Pandia, Persephone, Perseus, Rhadamanthus, the Graces, the Horae, the Litae, the Muses, the Moirai",
+  "children": "Silenos, Iynx, Krotos, Xanthus"
+}{
+  "name": "Cydoemus",
+  "god": "Personification of Confusion",
+  "abode": "Greek underworld|Underworld (possibly)",
+  "symbol": "Pan flute, goat",
+  "parent": "Eris |Eris",
+  "sibling": "Artemis , Aeacus, Angelos Angelos, Aphrodite, Ares, Athena, Dionysus, Eileithyia, Enyo, Eris Eris, Ersa, Hebe Hebe, Helen of Troy, Hephaestus, Heracles, Hermes, Minos, Pandia, Persephone, Perseus, Rhadamanthus, the Graces, the Horae, the Litae, the Muses, the Moirai",
+  "children": "Silenos, Iynx, Krotos, Xanthus"
+}{
+  "name": "Thanatos",
+  "god": "Personification of Peaceful Death",
+  "abode": "Greek Underworld|Underworld",
+  "symbol": "Theta, Poppy, Butterfly, Xiphos|Sword, Torch|Inverted Torch",
+  "parent": "Nyx |Nyx alone",
+  "sibling": "Moros, Keres Keres, Hypnos, Oneiroi, Momus, Oizys, Hesperides, Moirai, Nemesis Nemesis, Apate Apate, Philotes, Geras, Eris Eris, Styx, Dolos Dolos, Ponos, Euphrosyne, Epiphron, SophrosyneContinentia, Hybris Petulantia, EleosMisericordia, Pertinacia",
+  "children": ""
+}{
+  "name": "Hermes",
+  "god": "God of boundaries, roads and travelers, thieves, athletes, shepherds, commerce, speed, cunning, wit, and sleep  Psychopomp and divine messenger",
+  "abode": "Mount Olympus",
+  "symbol": "Talaria, caduceus, tortoise, lyre, rooster, Petasos (Winged helmet)",
+  "parent": "Zeus and Maia,Uranus |Uranus and Hemera",
+  "sibling": "Aeacus, Angelos Angelos, Aphrodite, Apollo, Ares, Artemis, Athena, Dionysus, Eileithyia, Enyo, Eris Eris, Ersa, Hebe Hebe, Helen of Troy, Hephaestus, Heracles, Minos, Pandia, Persephone, Perseus, Rhadamanthus, the Charites, the Horae, the Litae, the Muses, the Moirai",
+  "children": "Evander of"
+}{
+  "name": "Perses",
+  "god": "",
+  "abode": "",
+  "symbol": "",
+  "parent": "Crius and Eurybia |Eurybia",
+  "sibling": "Pallas Pallas and Astraeus",
+  "children": "Hecate, Chariclo"
+}{
+  "name": "Epimetheus",
+  "god": "",
+  "abode": "",
+  "symbol": "",
+  "parent": "Iapetus and Clymene |Clymene",
+  "sibling": "Prometheus, Menoetius, Atlas Atlas",
+  "children": "Prophasis, Pyrrha"
+}{
+  "name": "Dionysus{{pb}}<small>(Bacchus)</small>",
+  "god": "God of wine, vegetation, fertility, festivity, ritual madness, religious ecstasy, and theatre",
+  "abode": "Mount Olympus",
+  "symbol": "Thyrsus, grapevine,  ivy, Comedy and tragedy masks|theatrical masks, phallus",
+  "parent": "Zeus and Semele|Zeus and Demeter |Zeus and Persephone |Amun|Ammon and Amaltheia",
+  "sibling": "Aeacus,",
+  "children": "Priapus, Hymenaios|Hymen, Thoas |Thoas, Staphylus, Oenopion, Comus, Phthonus, the Graces, Deianira"
+}{
+  "name": "Helios",
+  "god": "Personification of the Sun",
+  "abode": "Sky",
+  "symbol": "Sun, Quadriga|chariot, horses, aureole, whip, heliotropium, globe, cornucopia,<ref name=\":howm\">Alexander Stuart Murray and William H. Klapp, Handbook of World Mythology, p. [https://books.google.com/books?id=BOFzYThPlk8C&pg=PA117 117]</ref> ripened fruit<ref name=\":howm\"/>",
+  "parent": "Hyperion |Hyperion and Theia",
+  "sibling": "Selene and Eos",
+  "children": "Achelous, Acheron, Actis |Actis, Ae\u00ebtes, Aega |Aex, Aegiale |Aegiale, Aegle |Aegle, Heliades|Aetheria, Aethon, Aloeus, Astris, Augeas, Bisaltes, Candalus, Cercaphus, the Charites, Chrysus, Horae|Cheimon, Circe, Clymenus, the Korybantes|Corybantes, Cos, Dioxippe, Dirce, Horae|Eiar, Alectrona|Electryone, Heliades|Helia, Hemera, Ichnaea, Lampetia, Lelex |Lelex, Macareus of"
+}{
+  "name": "Nerites",
+  "god": "Sea god",
+  "abode": "Sea",
+  "symbol": "Sun, Quadriga|chariot, horses, aureole, whip, heliotropium, globe, cornucopia,<ref name=\":howm\">Alexander Stuart Murray and William H. Klapp, Handbook of World Mythology, p. [https://books.google.com/books?id=BOFzYThPlk8C&pg=PA117 117]</ref> ripened fruit<ref name=\":howm\"/>",
+  "parent": "Nereus and Doris |Doris",
+  "sibling": "Nereids",
+  "children": "Achelous, Acheron, Actis |Actis, Ae\u00ebtes, Aega |Aex, Aegiale |Aegiale, Aegle |Aegle, Heliades|Aetheria, Aethon, Aloeus, Astris, Augeas, Bisaltes, Candalus, Cercaphus, the Charites, Chrysus, Horae|Cheimon, Circe, Clymenus, the Korybantes|Corybantes, Cos, Dioxippe, Dirce, Horae|Eiar, Alectrona|Electryone, Heliades|Helia, Hemera, Ichnaea, Lampetia, Lelex |Lelex, Macareus of"
+}{
+  "name": "Limos",
+  "god": "Personification of",
+  "abode": "Greek underworld|Underworld",
+  "symbol": "",
+  "parent": "Eris",
+  "sibling": "According to Hesiod's Theogony, Limos is the child of the goddess Eris Eris (\"Discord\"), who was the daughter of Nyx Nyx (\"Night\"). Limos' siblings include Toil , Forgetfulness , Stories , Lies , Oaths , Quarrels , Disputes , Manslaughters ,  Battles  and Wars , Anarchy (Dysnomia Dysnomia), Pains (AlgosAlgea), and Ruin (At\u00ebAte).",
+  "children": "Achelous, Acheron, Actis |Actis, Ae\u00ebtes, Aega |Aex, Aegiale |Aegiale, Aegle |Aegle, Heliades|Aetheria, Aethon, Aloeus, Astris, Augeas, Bisaltes, Candalus, Cercaphus, the Charites, Chrysus, Horae|Cheimon, Circe, Clymenus, the Korybantes|Corybantes, Cos, Dioxippe, Dirce, Horae|Eiar, Alectrona|Electryone, Heliades|Helia, Hemera, Ichnaea, Lampetia, Lelex |Lelex, Macareus of"
+}{
+  "name": "Hades",
+  "god": "{{unbulleted list|King of the underworld|God of the dead and riches}}",
+  "abode": "Greek underworld",
+  "symbol": "<!--bident, cap of invisibility, neither association is clearly shown according to reliable scholarly sources-->Cornucopia, Cypress, Narcissus (plant)|Narcissus, keys, serpent, Mentha|mint plant, white poplar, dog, pomegranate, sheep, cattle, screech owl, horse, chariot",
+  "parent": "Cronus and Rhea |Rhea",
+  "sibling": "Poseidon, Demeter, Hestia, Hera, Zeus; Chiron (half-siblinghalf)",
+  "children": "Macaria#Goddess|Macaria, and in some cases Melino\u00eb, Zagreus and the Erinyes"
+}{
+  "name": "Dolos",
+  "god": "Personification of Trickery",
+  "abode": "",
+  "symbol": "",
+  "parent": "Aether |Aether and Gaia",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Oceanus",
+  "god": "The Titans|Titan god of the river Oceanos",
+  "abode": "",
+  "symbol": "",
+  "parent": "Uranus |Uranus and Gaia |Gaia",
+  "sibling": "title=Half-siblings",
+  "children": ""
+}{
+  "name": "Hephaestus",
+  "god": "God of fire, metalworking, stone masonry, forges, the art of sculpture, ancient technology|technology, and blacksmiths",
+  "abode": "Mount Olympus",
+  "symbol": "hammer, anvil, tongs",
+  "parent": "Zeus and Hera, or Hera alone",
+  "sibling": "Aeacus, Angelos Angelos, Aphrodite, Apollo, Ares, Artemis, Athena, Dionysus, Eileithyia, Enyo, Eris Eris, Ersa, Hebe Hebe, Helen of Troy, Heracles, Hermes, Minos, Pandia, Persephone, Perseus, Rhadamanthus, the Graces, the Horae, the Litae, the Muses, the Moirai",
+  "children": "Thalia |Thalia, Erichthonius of Athens|Erichthonius, Eucleia, Eupheme |Eupheme, Philophrosyne, Cabeiri and Euthenia"
+}{
+  "name": "Serritor",
+  "god": "Minor god of FieldsGod of hoeing and weeding",
+  "abode": "",
+  "symbol": "",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Serritor",
+  "god": "Minor god of FieldsGod of hoeing and weeding",
+  "abode": "Italy, gardens and orchards",
+  "symbol": "gardening tools",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Orcus",
+  "god": "God of the underworld, punisher of broken oaths",
+  "abode": "",
+  "symbol": "gardening tools",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Vervactor",
+  "god": "Minor god of FieldsGod of ploughing",
+  "abode": "",
+  "symbol": "",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Sol Invictus",
+  "god": "Sun god",
+  "abode": "The sky",
+  "symbol": "Sunburst, Halo (religious iconography)|halo, radiate crown",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Quirinus",
+  "god": "God of the Roman state",
+  "abode": "Quirinal Hill",
+  "symbol": "beard, religious and military clothing",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Faunus",
+  "god": "God of the forest, plains, and fields",
+  "abode": "Quirinal Hill",
+  "symbol": "beard, religious and military clothing",
+  "parent": "Picus and Canens |Canens",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Liber",
+  "god": "God of wine-making, wine, male fertility, freedom. Member of the Aventine Triad",
+  "abode": "",
+  "symbol": "",
+  "parent": "Picus and Canens |Canens",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Mors",
+  "god": "Personification of Death",
+  "abode": "",
+  "symbol": "",
+  "parent": "Nox |Nox and Erebus|Scotus",
+  "sibling": "Somnus, Invidia, Discordia, Keres Tenebrae, OneiroiSomnia, Charon Charon, Dirae, Parcae, Dies Dies, and many others",
+  "children": ""
+}{
+  "name": "Silvanus",
+  "god": "Tutelary god of woods and uncultivated lands, protector of field boundaries and cattle, protector against wolves",
+  "abode": "The forest",
+  "symbol": "Pan flute, Cupressus sempervirens|cypress",
+  "parent": "Nox |Nox and Erebus|Scotus",
+  "sibling": "Somnus, Invidia, Discordia, Keres Tenebrae, OneiroiSomnia, Charon Charon, Dirae, Parcae, Dies Dies, and many others",
+  "children": ""
+}{
+  "name": "Caelus",
+  "god": "Personification of the heavens",
+  "abode": "The sky",
+  "symbol": "",
+  "parent": "Aether |Aether and Dies |Dies",
+  "sibling": "",
+  "children": "Saturn |Saturn, Ops, Janus"
+}{
+  "name": "Mercury",
+  "god": "God of financial gain, commerce, eloquence, messages, communication, travelers, boundaries, luck, trickery, merchants, thieves",
+  "abode": "",
+  "symbol": "Caduceus, winged sandals, winged hat, tortoise, ram and rooster",
+  "parent": "Maia |Maia and Jupiter |Jupiter or Caelus and Dies |Dies , De natura Deorum 3.56; also Arnobius, Adversus Nationes 4.14.</ref>",
+  "sibling": "",
+  "children": "Lares"
+}{
+  "name": "Mars",
+  "god": "God of war, guardian of agriculture and the Roman people",
+  "abode": "",
+  "symbol": "Spear, Sword, Shield",
+  "parent": "Jupiter |Jupiter and Juno |Juno",
+  "sibling": "Vulcan Vulcan, Minerva, Hercules, Bellona Bellona, Apollo, Diana Diana, DionysusBacchus, etc.",
+  "children": "Romulus and Remus, Cupid"
+}{
+  "name": "Saturn",
+  "god": "God of the Capitol, time, wealth, agriculture, and liberation",
+  "abode": "Capitoline Hill",
+  "symbol": "Sickle, scythe, veil",
+  "parent": "Caelus and Terra |Terra",
+  "sibling": "Janus, Ops",
+  "children": "Jupiter |Jupiter, Neptune |Neptune, Pluto |Pluto, Juno |Juno, Ceres |Ceres and Vesta |Vesta"
+}{
+  "name": "D\u012bs Pater",
+  "god": "God of soil fertility and mineral wealth, later associated with the Underworld",
+  "abode": "Hades",
+  "symbol": "Sickle, scythe, veil",
+  "parent": "Saturn |Saturn and Ops",
+  "sibling": "",
+  "children": "Jupiter |Jupiter, Neptune |Neptune, Pluto |Pluto, Juno |Juno, Ceres |Ceres and Vesta |Vesta"
+}{
+  "name": "Vulcan",
+  "god": "God of fire, metalworking, and the forge",
+  "abode": "under the island of Vulcano",
+  "symbol": "Blacksmiths hammer",
+  "parent": "Jupiter |Jupiter and Juno |Juno",
+  "sibling": "Mars Mars, Minerva, Hercules, Bellona Bellona, Apollo, Diana Diana, DionysusBacchus, etc.",
+  "children": ""
+}{
+  "name": "Janus",
+  "god": "God of all beginnings, gates, transitions, time, duality, doorways, passages, and ending",
+  "abode": "at the limits of Earth, at the extremity of Heaven",
+  "symbol": "two faces",
+  "parent": "",
+  "sibling": "Camese, Saturn Saturn, Ops",
+  "children": "Canens |Canens, Aithex, Olistene, Tiberinus |Tiberinus, Fontus"
+}{
+  "name": "Sol",
+  "god": "God of the Sun",
+  "abode": "Sky",
+  "symbol": "Chariot, solar disk",
+  "parent": "",
+  "sibling": "Luna Luna, Aurora Aurora",
+  "children": ""
+}{
+  "name": "Jupiter",
+  "god": "King of the Gods  Sky god|God of the sky and God of Thunder|lightning",
+  "abode": "the heavens",
+  "symbol": "Thunderbolt|Lightning bolt, eagle, oak tree",
+  "parent": "Saturn |Saturn and Ops",
+  "sibling": "'Roman tradition:' Juno Juno, Ceres Ceres, Vesta Vesta,'Greco-Roman:' Pluto Pluto, and Neptune Neptune",
+  "children": "Mars |Mars, Minerva |Minerva, Vulcan |Vulcan, Bellona |Bellona, Juventas, Hercules"
+}{
+  "name": "Somnus",
+  "god": "God of Sleep",
+  "abode": "Underworld",
+  "symbol": "Thunderbolt|Lightning bolt, eagle, oak tree",
+  "parent": "Nyx |Nox and Erebus|Scotus",
+  "sibling": "Mors Mors, Invidia, Eris Discordia, Keres Tenebrae, Charon Charon, Dirae, Parcae",
+  "children": "Oneiroi|Somnia, Morpheus, Phobetor|Icelos, Phantasos"
+}{
+  "name": "Cupid",
+  "god": "God of desire, erotic love, attraction, and affection",
+  "abode": "",
+  "symbol": "Bow and arrow",
+  "parent": "Mars |Mars and Venus |Venus",
+  "sibling": "",
+  "children": "Voluptas"
+}{
+  "name": "Neptune",
+  "god": "God of the Sea",
+  "abode": "Sea",
+  "symbol": "Horse, trident, dolphin",
+  "parent": "Saturn |Saturn and Ops",
+  "sibling": "Jupiter Jupiter, Pluto Pluto, Juno Juno, Ceres Ceres, Vesta Vesta",
+  "children": "Voluptas"
+}{
+  "name": "Hercules",
+  "god": "God of strength and heroes",
+  "abode": "Rome",
+  "symbol": "Club, Nemean Lion, bow and arrows",
+  "parent": "Jupiter |Jupiter and Alcmene",
+  "sibling": "",
+  "children": ""
+}{
+  "name": "Glycon",
+  "god": "",
+  "abode": "Rome",
+  "symbol": "",
+  "parent": "",
+  "sibling": "",
+  "children": ""
+}

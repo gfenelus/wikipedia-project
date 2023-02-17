@@ -10,7 +10,7 @@ xmlS = "wikiSmall.xml"
 xmlH = "hindu-deities2.xml"
 count = 0
 #iterate through elements of each page 
-for event, element in etree.iterparse(xmlB, tag="{http://www.mediawiki.org/xml/export-0.10/}text"):
+for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/export-0.10/}text"):
     
     print("--------------------------------------------------------")
     try:
@@ -27,90 +27,105 @@ for event, element in etree.iterparse(xmlB, tag="{http://www.mediawiki.org/xml/e
             for each in splitInfo:
                 
                 if "| name" in each:
-                    name = re.sub("\|\s*(name)\s*=", "", each)
-                    name = re.sub("<ref>(.)*</ref>", "", name)
+                    name = re.sub(r"\|\s*(name)\s*=", "", each)
+                    name = re.sub(r"<ref>(.)*</ref>", "", name)
                     name = re.sub(r"{{(.)*}}>", "", name)
                     name = re.sub("'", "", name)
-                    name = re.sub("<br/>", "", name)
+                    name = re.sub(r"<br\s*\/*>", "", name)
                     # print("Name: ",name)
 
                 if "god_of "in each:
-                    god = re.sub("\|\s*(god_of|goddess_of)\s*=\s*", "", each)
-                    god = re.sub("<ref>(.)*</ref>", "", god)
+                    god = re.sub(r"\|\s*(god_of|goddess_of)\s*=\s*", "", each)
+                    god = re.sub(r"<ref>(.)*</ref>", "", god)
                     god = re.sub(r"{{(.)*}}>", "", god)
                     god = re.sub(r"(\[\[|\]\]|''|''')", "", god)
                     god = re.sub("'", "", god)
-                    god = re.sub("<br/>", "", god)
+                    god = re.sub(r"<br\s*\/*>", "", god)
                     # print("God: ", god)
 
                 if "deity_of " in each:
-                    god = re.sub("\|\s*(deity_of)\s*=\s*","", each)
-                    god = re.sub("<ref>(.)*</ref>", "", god)
+                    god = re.sub(r"\|\s*(deity_of)\s*=\s*","", each)
+                    god = re.sub(r"<ref>(.)*</ref>", "", god)
                     god = re.sub(r"{{(.)*}}", "", god)
                     god = re.sub(r"(\[\[|\]\]|''|''')", "", god)
                     god = re.sub("'", "", god)
-                    god = re.sub("<br/>", "", god)
+                    god = re.sub(r"<br\s*\/*>", "", god)
                     # print("Deity: ", god)
 
                 if "abode" in each:
-                    abode = each.replace("| abode            =", "").replace("[[", "").replace("]]", "").replace("\n","")
-                    abode = re.sub("\|\s*(abode\s*=)\s*", "",abode)
-                    abode = re.sub("<ref>(.)*</ref>", "", abode)
-                    abode = re.sub("^\*", "", abode)
-                    abode = re.sub("{{(.)*}}", "", abode)
-                    abode = re.sub("{{(\w*\||\w*)*", "", abode)
+                    abode = each.replace("[[", "").replace("]]", "").replace("\n","")
+                    abode = re.sub(r"\|\s*(abode\s*=)\s*", "",abode)
+                    abode = re.sub(r"<ref>(.)*</ref>", "", abode)
+                    abode = re.sub(r"^\*", "", abode)
+                    abode = re.sub(r"{{(.)*}}", "", abode)
+                    abode = re.sub(r"{{(\w*\||\w*)*", "", abode)
                     abode = re.sub("'''", "", abode)
-                    abode = re.sub("\(\)", "", abode)
-                    abode = re.sub("<br/>", "", abode)
+                    abode = re.sub(r"\(\)", "", abode)
+                    abode = re.sub(r"<br\s*\/*>", "", abode)
                     # print("Abode: ", abode)
 
                 if "symbol" in each:
-                    # symbol = each.replace("| symbol           =", "").replace("[[", "").replace("]]", "").replace("\n","")
-                    symbol = re.sub("\|\s*(symbol(s?)\s*=)\s*", "",each)
-                    symbol = re.sub("<ref>(.)*</ref>", "", symbol)
+                    symbol = re.sub(r"\|\s*(symbol(s?)\s*=)\s*", "",each)
+                    symbol = re.sub(r"<ref>(.)*</ref>", "", symbol)
                     symbol = re.sub(r"{{(.)*}}", "", symbol)
-                    symbol = re.sub(r"(\[\[|\]\]|'')", "", symbol)
+                    symbol = re.sub(r"(\[\[|\]\]|'*)", "", symbol)
+                    symbol = re.sub(r"<br\s*\/*>", "", symbol)
                     # print("Symbol: ", symbol)
 
                 if "parents" in each:
-                    parent = each.replace("| parents          =", "").replace("[[", "").replace("]]", "").replace("\n","")
-                    parent = re.sub("\|\s*(parent(s?)\s*=)\s*", "",parent)
-                    parent = re.sub("<ref>(.)*</ref>", "", parent)
+                    parent = re.sub(r"\|\s*(parent(s?)\s*=)\s*", "", each)
+                    parent = re.sub(r"<ref>(.)*</ref>", "", parent)
                     parent = re.sub(r"{{(.)*}}>", "", parent)
+                    parent = re.sub(r"(\[\[|\]\]|'')", "", parent)
+                    parent = re.sub(r"\(mythology\)w*", "", parent)
+                    parent = re.sub(r"<br\s*\/*>", ",", parent)
+                    parent = re.sub(r"<ref(\s*\w*\s*\=\s*\\*\"*\w*\\*\"*\s*\/*)>\s?(\w*\s?|,|\(|\))*", "", parent)
+                    parent = re.sub(r"{*efn\||{*unbulleted list\||{*ubl\||\((\w*\s?)*\)|}}","", parent)
                     # print("Parent: ", parent)
 
                 if "siblings" in each:
-                    # sibling = each.replace("[[", "").replace("]]", "").replace("\n","").replace("{{", "").replace("|", "").replace("}}", "")
-                    sibling = re.sub(r"\|\s*(siblings\s*=)\s*", "", each)
+                    sibling = each.replace("\n","")
+                    sibling = re.sub(r"\|\s*(siblings\s*=)\s*", "", sibling)
                     sibling = re.sub(r"(\[\[|\]\]|''|''')", "", sibling)
-                    sibling = re.sub("<ref>(.)*</ref>", "", sibling)
+                    sibling = re.sub(r"<ref>(.)*</ref>", "", sibling)
                     sibling = re.sub(r"{{(.)*}}>", "", sibling)
+                    sibling = re.sub(r"{*efn\||{*unbulleted list\||{*ubl\||\((\w*\s?)*\)|}}","", sibling)
+                    sibling = re.sub(r"\|(w*|,|\s|\(|\)|\|)","", sibling )
+                    sibling = re.sub(r"\(mythology\)w*", "", sibling)
+                    sibling = re.sub(r"<br\s*\/*>", ",", sibling)
+                    sibling = re.sub(r"{{Collapsible list", "", sibling)
+                    sibling = re.sub(r"(\\\w*)","", sibling)
+                    
                     # print("Siblings: ", sibling)
                 
                 if "children" in each:
-                    # children = each.replace("| children         =", "").replace("[[", "").replace("]]", "").replace("\n", "").replace("{{", "").replace("|", "").replace("}}", "")
                     children = re.sub(r"\|\s*(children\s*=)\s*", "", each)
                     children = re.sub(r"(\[\[|\]\]|''|''')", "", children)
-                    children = re.sub("<ref>(.)*</ref>", "", children)
+                    # children = re.sub(r"<ref>(.)*</ref>", "", children)
+                    children = re.sub(r"<ref(\s*\w*\s*\=\s*\\*\"*\w*\\*\"*\s*\/*)>\s?(\w*\s?|,|\(|\))*", "", children)
                     children = re.sub(r"{{(.)*}}>", "", children)
-
+                    children = re.sub(r"\(mythology\)w*", "", children)
+                    children = re.sub(r"<br\s*\/*>", ",", children)
+                    children = re.sub(r"{*efn\||{*unbulleted list\||{*ubl\||\((\w*\s?)*\)|}}","", children)
+                    children = re.sub(r"{*cite\s?book\s?\|(.*)","", children)
                     # print("Children: ", children)
 
             my_json = {
                 "name": name.strip(),
-                "god": god,
-                "abode": abode,
-                "symbol": symbol,
-                "parent": parent,
-                "sibling": sibling,
-                "children": children
+                "god": god.strip(),
+                "abode": abode.strip(),
+                "symbol": symbol.strip(),
+                "parent": parent.strip(),
+                "sibling": sibling.strip(),
+                "children": children.strip()
             }
             # print(json.dumps(my_json, indent=4))
          
             #Create json file   
             file_name = name + ".json"
-            file = open(file_name, 'w')
-            json.dump(my_json, file)
+            file_name = "greek-gods.json"
+            file = open("deity-profiles\\" + file_name, 'a')
+            json.dump(my_json, file, indent=2)
             file.close()
             print(count, "Files Done")
             element.clear()
