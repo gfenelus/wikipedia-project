@@ -9,12 +9,15 @@ xmlM = 'deities.xml'
 xmlS = "wikiSmall.xml"
 xmlH = "hindu-deities2.xml"
 count = 0
+pageCount = 0
 deityList=[]
 file_name = "deities.json"
 #iterate through elements of each page 
-for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/export-0.10/}text"):
-    
-    print("--------------------------------------------------------")
+for event, element in etree.iterparse(xmlB, tag="{http://www.mediawiki.org/xml/export-0.10/}text"):
+    pageCount += 1
+    print("Page: ", pageCount)
+    print("-----------------------")
+
     try:
         #match a wiki page for a deity
         getInfo = element.text[element.text.find("{{Infobox deity"): 2000]
@@ -24,7 +27,7 @@ for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/e
         if len(deitySearchInfo) > 0:
             splitInfo = deitySearchInfo.split("\n")
             count += 1
-            
+
             #parse wiki text in to readable format
             for each in splitInfo:
                 
@@ -103,7 +106,6 @@ for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/e
                 if "children" in each:
                     children = re.sub(r"\|\s*(children\s*=)\s*", "", each)
                     children = re.sub(r"(\[\[|\]\]|''|''')", "", children)
-                    # children = re.sub(r"<ref>(.)*</ref>", "", children)
                     children = re.sub(r"<ref(\s*\w*\s*\=\s*\\*\"*\w*\\*\"*\s*\/*)>\s?(\w*\s?|,|\(|\))*", "", children)
                     children = re.sub(r"{{(.)*}}>", "", children)
                     children = re.sub(r"\(mythology\)w*", "", children)
@@ -126,7 +128,7 @@ for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/e
             
             #UPDATE deity to list of deities
             deityList.append(my_json)
-            # print("list: ", deityList)
+            
             #Create json file   
             
             # file = open("deity-profiles\\" + file_name, 'a')
@@ -136,16 +138,15 @@ for event, element in etree.iterparse(xmlM, tag="{http://www.mediawiki.org/xml/e
 
             # print(count, "Files Done")
             element.clear()
-            #MAKE SURE BEGINNING AND END OF FILE HAS BRACKETS ex. "[{"key": "value1"}, {"key": "vale2"}]" AND REMOVE THE TRAILING COMMA BEFORE IMPORTING
             
 
     #catches error when an infobox for a deity isn't found    
     except Exception as e:
         print(e)
-        # print("deity not found")
+        print("deity not found")
          
     element.clear()
-    # file_name = "deities.json"
+    
 file = open("deity-profiles\\" + file_name, 'a')
 json.dump(deityList, file, indent=1)
 file.close()
