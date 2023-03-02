@@ -1,5 +1,6 @@
 [
 {
+"type": "Greek",
 "name": "Apollo",
 "god": "God of oracles, healing, archery, music and arts, sunlight, knowledge, herds and flocks, and protection of the young",
 "abode": "Mount Olympus",
@@ -9,6 +10,7 @@
 "children": "Asclepius, Aristaeus, Corybantes, Hymen |Hymenaeus, Apollonis, Amphiaraus, Anius, Apis |Apis, Cycnus of Aetolia|Cycnus, Eurydice, Hector, Linus of Thrace, Lycomedes, Melaneus, Melite |Melite, Miletus |Miletus, Mopsus |Mopsus, Oaxes, Oncius, Orpheus, Troilus, Phemonoe, Philammon, Tenerus |Tenerus, Trophonius, and Apollo#Children|various others"
 },
 {
+"type": "Greek",
 "name": "Aphrodite",
 "god": "Goddess of love, beauty, and sexuality",
 "abode": "Mount Olympus",
@@ -18,6 +20,7 @@
 "children": "Eros, Phobos |Phobos, Deimos |Deimos, Harmon"
 },
 {
+"type": "Greek",
 "name": "Athena",
 "god": "Goddess of wisdom, warfare, and handicraft<ref name=\"Merriam-Webster\"></ref>",
 "abode": "Mount Olympus",
@@ -27,6 +30,7 @@
 "children": "Erichthonius of Athens|Erichthonius"
 },
 {
+"type": "Roman",
 "name": "Aeneas",
 "god": "Founder of Rome",
 "abode": "Rome",
@@ -36,6 +40,7 @@
 "children": "In Greco-Roman mythology, 'Aeneas' (</ref> His father was a first cousin of King Priam of Troy (both being grandsons of Ilus |Ilus, founder of Troy), making Aeneas a second cousin to Priam's List of children of Priam|children (such as Hector and Paris |Paris). He is a minor character in Greek mythology and is mentioned in Homer's Iliad. Aeneas receives full treatment in Roman mythology, most extensively in Virgil's Aeneid, where he is cast as an ancestor of Romulu"
 },
 {
+"type": "Greek",
 "name": "Ajax the Great",
 "god": "Prince of Salamis Island|Salamis",
 "abode": "Phthia",
@@ -45,6 +50,7 @@
 "children": "In Greco-Roman mythology, 'Aeneas' (</ref> His father was a first cousin of King Priam of Troy (both being grandsons of Ilus |Ilus, founder of Troy), making Aeneas a second cousin to Priam's List of children of Priam|children (such as Hector and Paris |Paris). He is a minor character in Greek mythology and is mentioned in Homer's Iliad. Aeneas receives full treatment in Roman mythology, most extensively in Virgil's Aeneid, where he is cast as an ancestor of Romulu"
 },
 {
+"type": "Greek",
 "name": "Alcmene",
 "god": "Princess of Mycenae",
 "abode": "Mycenae, later Thebes, Greece|Thebes",
@@ -54,6 +60,7 @@
 "children": "In Greek mythology, 'Alcmene' (; Ancient Greek: \u1f08\u03bb\u03ba\u03bc\u03ae\u03bd\u03b7 or Doric Greek: \u1f08\u03bb\u03ba\u03bc\u03ac\u03bd\u03b1, Latin: Alcumena means \"strong in wrath\"<ref>Robert Graves. The Greek Myths </ref>) was the wife of Amphitryon by whom she bore two children, Iphicles and Laonome. She is best known as the mother of Heracles, whose father was the god Zeus. Alcmene was also referred to as 'Electryone' , a patronymic name as a daughter of Electryon.<ref>Hesiod, Shield of Heracles 16</ref>"
 },
 {
+"type": "Greek",
 "name": "Andromeda",
 "god": "Princess of Aethiopia",
 "abode": "Mycenae, later Thebes, Greece|Thebes",
@@ -63,6 +70,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Ares",
 "god": "God of war and courage",
 "abode": "Mount Olympus, temples in mainland Greece, Crete and Asia minor",
@@ -72,6 +80,7 @@
 "children": "Erotes |Erotes , Phobos |Phobos, Deimos |Deimos, Phlegyas, Harmonia |Harmonia, Enyalios, Thrax |Thrax , Oenomaus, Cycnus |Cycnus, and Amazons"
 },
 {
+"type": "Greek",
 "name": "Aeacus",
 "god": "King of Aegina",
 "abode": "Aegina",
@@ -81,6 +90,7 @@
 "children": "Erotes |Erotes , Phobos |Phobos, Deimos |Deimos, Phlegyas, Harmonia |Harmonia, Enyalios, Thrax |Thrax , Oenomaus, Cycnus |Cycnus, and Amazons"
 },
 {
+"type": "Greek",
 "name": "Aegeus",
 "god": "King of Athens",
 "abode": "Megara, then Athens",
@@ -90,6 +100,7 @@
 "children": "Theseus, Medus,  Pallas"
 },
 {
+"type": "Greek",
 "name": "Artemis",
 "god": "Goddess of nature, childbirth, wildlife, the Moon, the hunt, sudden death, animals, virginity, young women, and archery",
 "abode": "Mount Olympus",
@@ -99,6 +110,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Circe",
 "god": "Goddess of sorcery",
 "abode": "Aeaea",
@@ -108,6 +120,7 @@
 "children": "Latinus, Telegonus |Telegonus, Rhomos, Ardeas, Anteias"
 },
 {
+"type": "Greek",
 "name": "Demeter",
 "god": "Goddess of the harvest, agriculture, fertility, and sacred law",
 "abode": "Mount Olympus",
@@ -117,6 +130,7 @@
 "children": "Persephone, Despoina, Eubuleus, Arion |Arion, Plutus, Philomelus, Iacchus, Acheron, Hecate"
 },
 {
+"type": "Greek",
 "name": "Daedalus",
 "god": "Athenian craftsmen and inventor",
 "abode": "Crete",
@@ -126,6 +140,7 @@
 "children": "Persephone, Despoina, Eubuleus, Arion |Arion, Plutus, Philomelus, Iacchus, Acheron, Hecate"
 },
 {
+"type": "Roman",
 "name": "Diana",
 "god": "Goddess of the hunt, wild animals, fertility, and the Moon",
 "abode": "",
@@ -135,6 +150,7 @@
 "children": "* Early Roman: N/A"
 },
 {
+"type": "Greek",
 "name": "Eris",
 "god": "Goddess of strife and discord",
 "abode": "Erebus",
@@ -144,6 +160,7 @@
 "children": "Dysnomia |Dysnomia, Ponos, At\u00eb, Lethe, Limos |Limos, Algos, Hysminai, Makhai, Phonoi, Androktasiai, Neikea, Amphilogiai, Horkos, Pseudea, Logoi"
 },
 {
+"type": "Greek",
 "name": "Eos",
 "god": "Personification of the Dawn",
 "abode": "Sky",
@@ -153,6 +170,7 @@
 "children": "The Anemoi|Winds (Boreas, Eurus, Notus and Zephyrus), the Astra Planeta|Stars (Eosphorus/Hesperus, Pyroeis, Stilbon |Stilbon, Phaethon of Syria|Phaethon, and Phaenon), Memnon |Memnon, Emathion, and Astraea |Astraea"
 },
 {
+"type": "Greek",
 "name": "Hector",
 "god": "Elder Prince of Troy",
 "abode": "Troy",
@@ -162,6 +180,7 @@
 "children": "| siblings=Paris |Paris, Cassandra, Helenus, Polyxena, Creusa of Troy|Creusa, Troilus,<BR>and List of children of Priam|others"
 },
 {
+"type": "Greek",
 "name": "Hera",
 "god": "",
 "abode": "Mount Olympus",
@@ -171,6 +190,7 @@
 "children": "Angelos |Angelos, Arge, Ares, the Charites, Eileithyia, Eleutheria, Enyo, Eris |Eris, Hebe |Hebe, Hephaestus"
 },
 {
+"type": "Greek",
 "name": "Hades",
 "god": "",
 "abode": "Greek underworld",
@@ -180,6 +200,7 @@
 "children": "Macaria#Goddess|Macaria, and in some cases Melino\u00eb, Zagreus and the Erinyes"
 },
 {
+"type": "Greek",
 "name": "Hypnos",
 "god": "Personification of sleep",
 "abode": "Greek Underworld|Underworld",
@@ -189,6 +210,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Hercules",
 "god": "God of strength and heroes",
 "abode": "Rome",
@@ -198,6 +220,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Heracles",
 "god": "Divine protector of mankind, patron of gymnasium (ancient Greece)|gymnasium",
 "abode": "Mount Olympus",
@@ -207,6 +230,7 @@
 "children": "Alexiares and Anicetus, Telephus, Hyllus, Tlepolemus"
 },
 {
+"type": "Greek",
 "name": "Hecate",
 "god": "Goddess of boundaries, crossroads, witchcraft, the Moon, necromancy, and ghosts",
 "abode": "Greek Underworld|Underworld",
@@ -216,6 +240,7 @@
 "children": "Alexiares and Anicetus, Telephus, Hyllus, Tlepolemus"
 },
 {
+"type": "Greek",
 "name": "Hephaestus",
 "god": "God of fire, metalworking, stone masonry, forges, the art of sculpture, ancient technology|technology, and blacksmiths",
 "abode": "Mount Olympus",
@@ -225,6 +250,7 @@
 "children": "Thalia |Thalia, Erichthonius of Athens|Erichthonius, Eucleia, Eupheme |Eupheme, Philophrosyne, Cabeiri and Euthenia"
 },
 {
+"type": "Greek",
 "name": "Hermes",
 "god": "God of boundaries, roads and travelers, thieves, athletes, shepherds, commerce, speed, cunning, wit, and sleep  Psychopomp and divine messenger",
 "abode": "Mount Olympus",
@@ -234,6 +260,7 @@
 "children": "Evander of"
 },
 {
+"type": "Greek",
 "name": "Leto",
 "god": "Childhood goddess",
 "abode": "Delos, Mount Olympus|Olympus",
@@ -243,6 +270,7 @@
 "children": "Evander of"
 },
 {
+"type": "Roman",
 "name": "Minerva",
 "god": "Goddess of poetry, medicine, commerce,  weaving, the crafts, wisdom, courage, inspiration, victory, war, law, civilization, bravery, heroism, protection, city state, family, justice, mathematics, science, technology, strength, strategy, the arts, and skill",
 "abode": "",
@@ -252,6 +280,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Minotaur",
 "god": "Goddess of poetry, medicine, commerce,  weaving, the crafts, wisdom, courage, inspiration, victory, war, law, civilization, bravery, heroism, protection, city state, family, justice, mathematics, science, technology, strength, strategy, the arts, and skill",
 "abode": "Labyrinth, Crete",
@@ -261,6 +290,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Nereus",
 "god": "",
 "abode": "Aegean Sea",
@@ -270,6 +300,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Narcissus",
 "god": "",
 "abode": "Thespiae",
@@ -279,6 +310,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Poseidon",
 "god": "",
 "abode": "Mount Olympus, or the sea",
@@ -288,6 +320,7 @@
 "children": "Theseus, Triton |Triton, Polyphemus, Orion |Orion, Belus |Belus, Agenor, Neleus, Atlas #King of Atlantis|Atlas, Pegasus, Chrysaor, Kymopoleia|Cymopolea"
 },
 {
+"type": "Greek",
 "name": "Pegasus",
 "god": "",
 "abode": "Hippocrene, Mount Helicon",
@@ -297,6 +330,7 @@
 "children": "Theseus, Triton |Triton, Polyphemus, Orion |Orion, Belus |Belus, Agenor, Neleus, Atlas #King of Atlantis|Atlas, Pegasus, Chrysaor, Kymopoleia|Cymopolea"
 },
 {
+"type": "Greek",
 "name": "Persephone",
 "god": "",
 "abode": "The Greek underworld|underworld, Sicily, Mount Olympus",
@@ -306,6 +340,7 @@
 "children": "<!-- please do not add Macaria/Makaria as daughte"
 },
 {
+"type": "Greek",
 "name": "Pasipha\u00eb",
 "god": "Sorceress goddess",
 "abode": "Crete",
@@ -315,6 +350,7 @@
 "children": "Acacallis |Acacallis, Ariadne, Androgeus |Androgeus, Glaucus of Crete|Glaucus, Deucalion of Crete|Deucalion, Phaedra |Phaedra, Xenodice |Xenodice, Catreus and the Minotaur."
 },
 {
+"type": "Greek",
 "name": "Styx",
 "god": "Personification of Hatred and",
 "abode": "Greek underworld|Underworld",
@@ -324,6 +360,7 @@
 "children": "Acacallis |Acacallis, Ariadne, Androgeus |Androgeus, Glaucus of Crete|Glaucus, Deucalion of Crete|Deucalion, Phaedra |Phaedra, Xenodice |Xenodice, Catreus and the Minotaur."
 },
 {
+"type": "Hindu",
 "name": "Styx",
 "god": "God of Destruction",
 "abode": "* Mount Kailash=124\u2013126",
@@ -333,6 +370,7 @@
 "children": "Kartikeya ,Ganesha"
 },
 {
+"type": "Hindu",
 "name": "Varuna",
 "god": "God of Water, Oceans, and Sky",
 "abode": "Ocean",
@@ -342,6 +380,7 @@
 "children": "Sushena, Vandi, Manu |Dakshasavarni Manu, Vasishtha, Pushkara, Bala, Sura, Andharmaka  and Varuni#Varuna's daughter|Varuni <ref name=\"Mani 1975\" />"
 },
 {
+"type": "Greek",
 "name": "Zeus",
 "god": "",
 "abode": "Mount Olympus",
@@ -351,6 +390,7 @@
 "children": "Aeacus, Agdistis, Angelos |Angelos, Aphrodite, Apollo, Ares, Artemis, Athena, Britomartis, Dionysus, Eileithyia, Enyo, Epaphus Eris |Eris, Ersa, Hebe |Hebe, Helen of Troy, Hephaestus, Heracles, Hermes, Lacedaemon |Lacedaemon, Melino\u00eb, Minos, Pandia, Persephone, Perseus, Castor and Pollux|Pollux, Rhadamanthus, Zagreus, the Graces, the Horae, the Litae, the Muses, the Moirai"
 },
 {
+"type": "Greek",
 "name": "Atalanta",
 "god": "Princess of Arcadia (utopia)|Arcadia",
 "abode": "Arcadia (regional unit)|Arcadia",
@@ -360,6 +400,7 @@
 "children": "Aeacus, Agdistis, Angelos |Angelos, Aphrodite, Apollo, Ares, Artemis, Athena, Britomartis, Dionysus, Eileithyia, Enyo, Epaphus Eris |Eris, Ersa, Hebe |Hebe, Helen of Troy, Hephaestus, Heracles, Hermes, Lacedaemon |Lacedaemon, Melino\u00eb, Minos, Pandia, Persephone, Perseus, Castor and Pollux|Pollux, Rhadamanthus, Zagreus, the Graces, the Horae, the Litae, the Muses, the Moirai"
 },
 {
+"type": "Greek",
 "name": "Hestia",
 "god": "Goddess of the domestic and civic hearth, sacred and sacrificial fire, virginity, family, and the state",
 "abode": "Delphi and Mount Olympus",
@@ -369,6 +410,7 @@
 "children": "According to ancient Greek tradition, Hestia was along with four of her five siblings devoured by her own father Cronus as an infant due to his fear of being overthrown by one of his offspring, and was only freed when her youngest brother Zeus forced their father to disgorge the children he had eaten. Cronus and the rest of the Titans were cast down, and Hestia then became one of the Olympian gods, the new rulers of the cosmos, alongside her brothers and sisters. After the establishment of the new order and in spite of her status, Hestia withdraws from prominence in mythology, with few and sparse appearances in tales."
 },
 {
+"type": "Roman",
 "name": "Mercury",
 "god": "God of financial gain, commerce, eloquence, messages, communication, travelers, boundaries, luck, trickery, merchants, thieves",
 "abode": "",
@@ -378,6 +420,7 @@
 "children": "Lares"
 },
 {
+"type": "Greek",
 "name": "Thetis",
 "god": "God of financial gain, commerce, eloquence, messages, communication, travelers, boundaries, luck, trickery, merchants, thieves",
 "abode": "the Sea",
@@ -387,6 +430,7 @@
 "children": "Achilles"
 },
 {
+"type": "Roman",
 "name": "Thetis",
 "god": "Goddess of love, beauty, desire, sex, fertility, prosperity and victory",
 "abode": "the Sea",
@@ -396,6 +440,7 @@
 "children": "Cupid ; Aeneas (fathered by Anchises in Virgil's Aeneas)"
 },
 {
+"type": "Greek",
 "name": "Peleus",
 "god": "King of Phthia",
 "abode": "Phthia",
@@ -405,6 +450,7 @@
 "children": "Cupid ; Aeneas (fathered by Anchises in Virgil's Aeneas)"
 },
 {
+"type": "Greek",
 "name": "Tantalus",
 "god": "Mythological King",
 "abode": "Lydia or Phrygia or Paphlagonia",
@@ -414,6 +460,7 @@
 "children": "Pelops, Niobe, Broteas and Dascylus"
 },
 {
+"type": "Roman",
 "name": "Proserpina",
 "god": "Queen of the Underworld, goddess of female and agricultural fertility, and springtime growth",
 "abode": "Hades (in winter)",
@@ -423,6 +470,7 @@
 "children": "Pelops, Niobe, Broteas and Dascylus"
 },
 {
+"type": "Roman",
 "name": "Faunus",
 "god": "God of the forest, plains, and fields",
 "abode": "Hades (in winter)",
@@ -432,6 +480,7 @@
 "children": "Pelops, Niobe, Broteas and Dascylus"
 },
 {
+"type": "Greek",
 "name": "Medea",
 "god": "Princess and sorceress of Colchis",
 "abode": "",
@@ -441,6 +490,7 @@
 "children": "Vary according to tradition (names include Alcimenes, Thessalus, Tisander, Mermeros and Pheres|Mermeros, Mermeros and Pheres|Pheres, Eriopis, Medus)"
 },
 {
+"type": "Roman",
 "name": "Jupiter",
 "god": "King of the Gods  Sky god|God of the sky and God of Thunder|lightning",
 "abode": "the heavens",
@@ -450,6 +500,7 @@
 "children": "Mars |Mars, Minerva |Minerva, Vulcan |Vulcan, Bellona |Bellona, Juventas, Hercules"
 },
 {
+"type": "Greek",
 "name": "Echo",
 "god": "",
 "abode": "Cithaeron|Mount Cithaeron",
@@ -459,6 +510,7 @@
 "children": "Iynx, Translated by Ada Adler (1928\u20131938), Suda. Available at [http://www.stoa.org/sol/ stoa.org/sol/]</ref> and Iambe, Simon; Spawforth, Antony and Eidinow, Esther . The Oxford Classical Dictionary. Oxford University Press. Page 720, \"Iambe\". .</ref>"
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "",
 "abode": "Cithaeron|Mount Cithaeron",
@@ -468,6 +520,7 @@
 "children": "Iynx, Translated by Ada Adler (1928\u20131938), Suda. Available at [http://www.stoa.org/sol/ stoa.org/sol/]</ref> and Iambe, Simon; Spawforth, Antony and Eidinow, Esther . The Oxford Classical Dictionary. Oxford University Press. Page 720, \"Iambe\". .</ref>"
 },
 {
+"type": "Hindu",
 "name": "Krishna",
 "god": "",
 "abode": "}}",
@@ -477,6 +530,7 @@
 "children": "Iynx, Translated by Ada Adler (1928\u20131938), Suda. Available at [http://www.stoa.org/sol/ stoa.org/sol/]</ref> and Iambe, Simon; Spawforth, Antony and Eidinow, Esther . The Oxford Classical Dictionary. Oxford University Press. Page 720, \"Iambe\". .</ref>"
 },
 {
+"type": "Greek",
 "name": "Chiron",
 "god": "",
 "abode": "Thessaly",
@@ -486,6 +540,7 @@
 "children": "Hippe,  Ende\u00efs, Ocyrhoe, Carystus |Carystus, Aristaeus"
 },
 {
+"type": "Hindu",
 "name": "Chiron",
 "god": "Lord of the Dance",
 "abode": "Thessaly",
@@ -495,6 +550,7 @@
 "children": "Hippe,  Ende\u00efs, Ocyrhoe, Carystus |Carystus, Aristaeus"
 },
 {
+"type": "Greek",
 "name": "Triton",
 "god": "",
 "abode": "Sea",
@@ -504,6 +560,7 @@
 "children": "Triteia, Pallas |Pallas, Calliste |Calliste"
 },
 {
+"type": "Greek",
 "name": "Metis",
 "god": "",
 "abode": "",
@@ -513,6 +570,7 @@
 "children": "Triteia, Pallas |Pallas, Calliste |Calliste"
 },
 {
+"type": "Hindu",
 "name": "Garuda",
 "god": "God of Strength and Vigilance",
 "abode": "",
@@ -522,6 +580,7 @@
 "children": "Sumukha <ref></ref>"
 },
 {
+"type": "Roman",
 "name": "Vesta",
 "god": "Goddess of the hearth, home, family, bakers and bread, donkeys",
 "abode": "Forum Romanum",
@@ -531,6 +590,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Europa",
 "god": "",
 "abode": "Crete",
@@ -540,6 +600,7 @@
 "children": "Minos, Rhadamanthys, Sarpedon |Sarpedon, Crete |Crete, Alagonia, Carnus"
 },
 {
+"type": "Greek",
 "name": "Io",
 "god": "",
 "abode": "Argos, Peloponnese|ArgosEgypt",
@@ -549,6 +610,7 @@
 "children": "Keroessa,Epaphus"
 },
 {
+"type": "Greek",
 "name": "Atlas",
 "god": "",
 "abode": "Western edge of Gaia (''the Earth'')",
@@ -558,6 +620,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Oceanus",
 "god": "The Titans|Titan god of the river Oceanos",
 "abode": "Western edge of Gaia (''the Earth'')",
@@ -567,6 +630,7 @@
 "children": ""
 },
 {
+"type": "Hinduism",
 "name": "Trimurti",
 "god": "Supreme Trinity of the UniverseThe Gods of Creation, Preservation, and DestructionPara Brahman, the Supreme Being",
 "abode": "(abode of Brahma)|Vaikuntha (abode of Vishnu)|Kailasha (abode of Shiva)}}",
@@ -576,6 +640,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Mnemosyne",
 "god": "Greek god|Goddess of memory and remembrance",
 "abode": "Mount Olympus",
@@ -585,6 +650,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Silenus",
 "god": "Minor rustic god of drunkenness and winemaking",
 "abode": "Nysa (mythology)|King of Nysa",
@@ -594,6 +660,7 @@
 "children": "foster father of Dionysus, Pholus |Pholos"
 },
 {
+"type": "Greek",
 "name": "Antigone",
 "god": "Minor rustic god of drunkenness and winemaking",
 "abode": "Thebes, Greece|Thebes, Ancient Greece",
@@ -603,6 +670,7 @@
 "children": "foster father of Dionysus, Pholus |Pholos"
 },
 {
+"type": "Greek",
 "name": "Rhea",
 "god": "Mother goddess",
 "abode": "Thebes, Greece|Thebes, Ancient Greece",
@@ -612,6 +680,7 @@
 "children": "foster father of Dionysus, Pholus |Pholos"
 },
 {
+"type": "Greek",
 "name": "Amphitrite",
 "god": "",
 "abode": "Mount Olympus, or the sea",
@@ -621,6 +690,7 @@
 "children": "Triton |Triton,Rhodos,Kymopoleia,Benthesikyme"
 },
 {
+"type": "Greek",
 "name": "Amphitryon",
 "god": "Prince of Tiryns",
 "abode": "Thebes (Greece)|Thebes",
@@ -630,6 +700,7 @@
 "children": "Laonome<BR>Iphicles"
 },
 {
+"type": "Greek",
 "name": "Castor and Pollux",
 "god": "Twin gods, patrons of sailors, associated with horsemanship",
 "abode": "Thebes (Greece)|Thebes",
@@ -639,6 +710,7 @@
 "children": "Laonome<BR>Iphicles"
 },
 {
+"type": "Greek",
 "name": "Dionysus<small>(Bacchus)</small>",
 "god": "God of wine, vegetation, fertility, festivity, ritual madness, religious ecstasy, and theatre",
 "abode": "Mount Olympus",
@@ -648,6 +720,7 @@
 "children": "Priapus, Hymenaios|Hymen, Thoas |Thoas, Staphylus, Oenopion, Comus, Phthonus, the Graces, Deianira"
 },
 {
+"type": "Greek",
 "name": "Paris",
 "god": "Prince of Troy in Greek mythology",
 "abode": "Mount Olympus",
@@ -657,6 +730,7 @@
 "children": "| siblings = Hector, Cassandra, Helenus, Polyxena, Creusa of Troy|Creusa, Troilus,<BR>and List of children of Priam|others"
 },
 {
+"type": "Greek",
 "name": "Helen",
 "god": "Queen of Sparta",
 "abode": "Sparta (modern-day Sparta, Laconia|Sparta, Greece)Troy (modern-day Hisarlik, Turkey)",
@@ -666,6 +740,7 @@
 "children": "| siblings = Hector, Cassandra, Helenus, Polyxena, Creusa of Troy|Creusa, Troilus,<BR>and List of children of Priam|others"
 },
 {
+"type": "Greek",
 "name": "Helios",
 "god": "Personification of the Sun",
 "abode": "Sky",
@@ -675,6 +750,7 @@
 "children": "Achelous, Acheron, Actis |Actis, Ae\u00ebtes, Aega |Aex, Aegiale |Aegiale, Aegle |Aegle, Heliades|Aetheria, Aethon, Aloeus, Astris, Augeas, Bisaltes, Candalus, Cercaphus, the Charites, Chrysus, Horae|Cheimon, Circe, Clymenus, the Korybantes|Corybantes, Cos, Dioxippe, Dirce, Horae|Eiar, Alectrona|Electryone, Heliades|Helia, Hemera, Ichnaea, Lampetia, Lelex |Lelex, Macareus of"
 },
 {
+"type": "Greek",
 "name": "Semele",
 "god": "Princess of Thebes, Greece|Thebes",
 "abode": "Thebes, Mount Olympus",
@@ -684,6 +760,7 @@
 "children": "Dionysus"
 },
 {
+"type": "Greek",
 "name": "Semele",
 "god": "Goddess of Lyric Poetry",
 "abode": "Mount Olympus",
@@ -693,6 +770,7 @@
 "children": "Rhesus of Thrace|Rhesus"
 },
 {
+"type": "Greek",
 "name": "Cadmus",
 "god": "",
 "abode": "Thebes (Greece)|Thebes",
@@ -702,6 +780,7 @@
 "children": "Polydorus of Thebes|Polydorus, Autono\u00eb of Thebes|Autono\u00eb, Ino |Ino, Agave |Agave, Semele"
 },
 {
+"type": "Greek",
 "name": "Melicertes",
 "god": "Prince of Boeotia",
 "abode": "Boeotia",
@@ -711,6 +790,7 @@
 "children": "Polydorus of Thebes|Polydorus, Autono\u00eb of Thebes|Autono\u00eb, Ino |Ino, Agave |Agave, Semele"
 },
 {
+"type": "Greek",
 "name": "Deianira",
 "god": "Princess of Calydon",
 "abode": "Calydon",
@@ -720,6 +800,7 @@
 "children": "Polydorus of Thebes|Polydorus, Autono\u00eb of Thebes|Autono\u00eb, Ino |Ino, Agave |Agave, Semele"
 },
 {
+"type": "Greek",
 "name": "Deianira",
 "god": "Princess of Calydon",
 "abode": "deity|type=Greek|name=Pentheus|image=Pompeii - Casa dei Vettii - Pentheus.jpg|caption=|deity_of=King of ThebesThebes|symbol=|consort=|parents=Echion and Agave (Theban princess)|Agave|siblings=Epirus (mythology)|Epeiros|children=|mount=}}In Greek mythology, Pentheus (-en|\u02c8|p|\u025b|n|\u03b8j|u\u02d0|s}}; -grc|\u03a0\u03b5\u03bd\u03b8\u03b5\u03cd\u03c2|Penthe\u00fas}}) was a king of Ancient Thebes (Boeotia)|Thebes. His father was Echion<!-- Echion links here -->, the wisest of the Spartoi. His mother was Agave (Theban princess)|Agave, the daughter of Cadmus, the founder of Thebes, and the goddess Harmonia (mythology)|Harmonia. His sister was Epirus (mythology)|Epeiros.",
@@ -729,6 +810,7 @@
 "children": ") was a king of Ancient Thebes |Thebes. His father was Echion<!-- Echion links here -->, the wisest of the Spartoi. His mother was Agave |Agave, the daughter of Cadmus, the founder of Thebes, and the goddess Harmonia |Harmonia. His sister was Epirus |Epeiros."
 },
 {
+"type": "Greek",
 "name": "Pelias",
 "god": "King of Iolcus",
 "abode": "Iolcus",
@@ -738,6 +820,7 @@
 "children": ") was a king of Ancient Thebes |Thebes. His father was Echion<!-- Echion links here -->, the wisest of the Spartoi. His mother was Agave |Agave, the daughter of Cadmus, the founder of Thebes, and the goddess Harmonia |Harmonia. His sister was Epirus |Epeiros."
 },
 {
+"type": "Greek",
 "name": "Adonis",
 "god": "Mortal lover of Aphrodite",
 "abode": "",
@@ -747,6 +830,7 @@
 "children": "Golgos, Beroe |Beroe"
 },
 {
+"type": "Greek",
 "name": "Oedipus",
 "god": "King of Thebes, Greece|Thebes",
 "abode": "Thebes, Greece|Thebes",
@@ -756,6 +840,7 @@
 "children": "Golgos, Beroe |Beroe"
 },
 {
+"type": "Greek",
 "name": "Oedipus",
 "god": "King of Thebes, Greece|Thebes",
 "abode": "Athamantis in Boeotia later Colchis",
@@ -765,6 +850,7 @@
 "children": "Golgos, Beroe |Beroe"
 },
 {
+"type": "Greek",
 "name": "Nephele",
 "god": "Cloud Goddess of hospitality, generosity, loyalty, peace and shyness",
 "abode": "Ancient Thessaly|Thessaly, then Boeotia",
@@ -774,6 +860,7 @@
 "children": "Golgos, Beroe |Beroe"
 },
 {
+"type": "Greek",
 "name": "Ino",
 "god": "Queen of Boeotia",
 "abode": "Thebes, later Athamantia in Boeotia",
@@ -783,6 +870,7 @@
 "children": "Golgos, Beroe |Beroe"
 },
 {
+"type": "Greek",
 "name": "The Hesperides",
 "god": "Nymphs of the West",
 "abode": "Hesperia",
@@ -792,6 +880,7 @@
 "children": "Golgos, Beroe |Beroe"
 },
 {
+"type": "Greek",
 "name": "Astraeus",
 "god": "God of the Dusk",
 "abode": "Sky",
@@ -801,6 +890,7 @@
 "children": "Golgos, Beroe |Beroe"
 },
 {
+"type": "Greek",
 "name": "Agave",
 "god": "Princess of Thebes, Greece|Boiotian Thebes",
 "abode": "Thebes",
@@ -810,6 +900,7 @@
 "children": "Pentheus and Epirus |Epirus"
 },
 {
+"type": "Greek",
 "name": "Agenor",
 "god": "King of Tyre, Lebanon|Tyre or Sidon",
 "abode": "Ancient Egypt|Egypt, later Phoenicia",
@@ -819,6 +910,7 @@
 "children": "(1,2) Europa |Europa, Cadmus, Phoenix and Cilix, Cadmus, Phoenix and Cilix, Europa, Cadmus, Phoenix, Cilix and Syrus|Syros, Phoenix, Isaia |Isaie and Melia |Melia, Europa, Cadmus, Cilix, Thasus and Cepheus |Cepheus, Phoenix, Cilix and Thasus, Phineus, Eidothea |Eidothea, Taygete"
 },
 {
+"type": "Greek",
 "name": "Pandrosus",
 "god": "Princess of Athens",
 "abode": "Athens",
@@ -828,6 +920,7 @@
 "children": "(1,2) Europa |Europa, Cadmus, Phoenix and Cilix, Cadmus, Phoenix and Cilix, Europa, Cadmus, Phoenix, Cilix and Syrus|Syros, Phoenix, Isaia |Isaie and Melia |Melia, Europa, Cadmus, Cilix, Thasus and Cepheus |Cepheus, Phoenix, Cilix and Thasus, Phineus, Eidothea |Eidothea, Taygete"
 },
 {
+"type": "Roman",
 "name": "Ceres",
 "god": "Goddess of agriculture, fertility, grains, the harvest, motherhood, the earth, and cultivated crops <!-- Please dont add \"planet\". No planet was named after her until 1801 or so. She may have been in various constellations relevant to ancient agricultural calendars but those are not fixed to planetary movements -->",
 "abode": "",
@@ -837,6 +930,7 @@
 "children": "Liber/Bacchus, Proserpina|Libera/Proserpina"
 },
 {
+"type": "Greek",
 "name": "Megaera",
 "god": "Goddess of jealousy and envy",
 "abode": "",
@@ -846,6 +940,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Aloadae",
 "god": "Twin Giants (Greek mythology)|giants of Ancient Thessaly|Thessaly",
 "abode": "Thessaly",
@@ -855,6 +950,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Enarete",
 "god": "Queen of Ancient Thessaly|Aeolia",
 "abode": "Ancient Thessaly|Aeolia",
@@ -864,6 +960,7 @@
 "children": "Enarete was the daughter of De\u00efmachus |Deimachus and wife of King Aeolus |Aeolus of Thessaly, son of the Greeks|Greek progenitor Hellen.<ref>Enarete is the form found in the manuscripts of Bibliotheca (Pseudo-Apollodorus)|Bibliotheca [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+1.7.1 1.7.1], which )\u2014is found.</ref> By the latter, she became the mother of his children including Cretheus, Sisyphus, Athamas, Salmoneus, De"
 },
 {
+"type": "Greek",
 "name": "Penthesilea",
 "god": "Queen of Ancient Thessaly|Aeolia",
 "abode": "Ancient Thessaly|Aeolia",
@@ -873,6 +970,7 @@
 "children": "Enarete was the daughter of De\u00efmachus |Deimachus and wife of King Aeolus |Aeolus of Thessaly, son of the Greeks|Greek progenitor Hellen.<ref>Enarete is the form found in the manuscripts of Bibliotheca (Pseudo-Apollodorus)|Bibliotheca [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+1.7.1 1.7.1], which )\u2014is found.</ref> By the latter, she became the mother of his children including Cretheus, Sisyphus, Athamas, Salmoneus, De"
 },
 {
+"type": "Greek",
 "name": "Antaeus",
 "god": "Giant King of Ancient Libya|Libya",
 "abode": "Libya",
@@ -882,6 +980,7 @@
 "children": "Alceis or Barce |Barce,,Iphinoe |Iphinoe"
 },
 {
+"type": "Greek",
 "name": "Iobates",
 "god": "King of Lycia",
 "abode": "Lycia",
@@ -891,6 +990,7 @@
 "children": "Alceis or Barce |Barce,,Iphinoe |Iphinoe"
 },
 {
+"type": "Greek",
 "name": "Anteros",
 "god": "God of love|requited love, avenger of unrequited love",
 "abode": "Mount Olympus",
@@ -900,6 +1000,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Anteros",
 "god": "Goddess of Erotic And Lyrical Poetry",
 "abode": "Mount Olympus",
@@ -909,6 +1010,7 @@
 "children": "Cleophema"
 },
 {
+"type": "Greek",
 "name": "Anteros",
 "god": "Goddess of Tragedy",
 "abode": "Mount Olympus",
@@ -918,6 +1020,7 @@
 "children": "the Siren |Sirens"
 },
 {
+"type": "Greek",
 "name": "Anteros",
 "god": "Goddess of Hymns",
 "abode": "Mount Olympus",
@@ -927,6 +1030,7 @@
 "children": "the Siren |Sirens"
 },
 {
+"type": "Greek",
 "name": "Anteros",
 "god": "Goddess of Dancing and Chorus",
 "abode": "Mount Olympus",
@@ -936,6 +1040,7 @@
 "children": "Linus of Thrace|Linus, Biston, the Siren |Sirens"
 },
 {
+"type": "Greek",
 "name": "Anteros",
 "god": "Goddess of Astronomy",
 "abode": "Mount Olympus",
@@ -945,6 +1050,7 @@
 "children": "Linus of Thrace|Linus, Hymen |Hymen"
 },
 {
+"type": "Greek",
 "name": "Anteros",
 "god": "Goddess of Comedy",
 "abode": "Mount Olympus",
@@ -954,6 +1060,7 @@
 "children": "the Corybantes"
 },
 {
+"type": "Greek",
 "name": "Pan",
 "god": "God of nature, the wild, shepherds, flocks, and mountain wilds",
 "abode": "Arcadia (ancient region)|Arcadia",
@@ -963,6 +1070,7 @@
 "children": "Silenos, Iynx, Krotos, Xanthus"
 },
 {
+"type": "Greek",
 "name": "Apate",
 "god": "Personification of Deceit",
 "abode": "Crete",
@@ -972,6 +1080,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Eileithyia",
 "god": "Goddess of childbirth",
 "abode": "Mount Olympus",
@@ -981,6 +1090,7 @@
 "children": "Sosipolis |Sosipolis"
 },
 {
+"type": "Greek",
 "name": "Daphne",
 "god": "The Laurel Nymph",
 "abode": "Thessaly or Arcadia (region)|Arcadia or Laconia",
@@ -990,6 +1100,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Cyrene",
 "god": "The Laurel Nymph",
 "abode": "Thessaly or Arcadia (region)|Arcadia or Laconia",
@@ -999,6 +1110,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Aristaeus",
 "god": "culture hero",
 "abode": "Libya, Boeotia",
@@ -1008,6 +1120,7 @@
 "children": "Actaeon and Macris"
 },
 {
+"type": "Greek",
 "name": "Hecuba",
 "god": "Queen of Troy",
 "abode": "Phrygia or Thrace, later Troy",
@@ -1017,6 +1130,7 @@
 "children": "Actaeon and Macris"
 },
 {
+"type": "Greek",
 "name": "Asclepius",
 "god": "God of medicine, healing, rejuvenation and physicians",
 "abode": "Mount Olympus",
@@ -1026,6 +1140,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Stheno (Gorgon)",
 "god": "",
 "abode": "",
@@ -1035,6 +1150,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Chrysaor",
 "god": "",
 "abode": "",
@@ -1044,6 +1160,7 @@
 "children": "Geryon and Echidna |Echidna"
 },
 {
+"type": "Greek",
 "name": "Asia",
 "god": "",
 "abode": "",
@@ -1053,6 +1170,7 @@
 "children": "Atlas |Atlas, Epimetheus, Menoetius, Prometheus"
 },
 {
+"type": "Greek",
 "name": "Themis",
 "god": "List of Greek mythological figures#Immortals|Goddess of divine law and order",
 "abode": "Mount Olympus",
@@ -1062,6 +1180,7 @@
 "children": "Atlas |Atlas, Epimetheus, Menoetius, Prometheus"
 },
 {
+"type": "Greek",
 "name": "At\u00eb",
 "god": "Personification of Ruin",
 "abode": "Mount Olympus orGreek underworld|Underworld",
@@ -1071,6 +1190,7 @@
 "children": "Atlas |Atlas, Epimetheus, Menoetius, Prometheus"
 },
 {
+"type": "Greek",
 "name": "The Litae",
 "god": "Personifications of Prayers",
 "abode": "Mount Olympus (possibly)",
@@ -1080,6 +1200,7 @@
 "children": "This is supported by Quintus Smyrnaeus, who attests that they were the children of the king of the gods:<blockquote>(Paris |Paris addresses his former wife Oenone|Oinone): \u2018Remember not those pangs of jealousy, nor leave me by a cruel doom to die low fallen at thy feet! This should offend the Litai , the daughters of the Thunderer Zeus, whose anger followeth unrelenting pride with vengeance, and the Erinyes|Erinnys  executes their wrath.\u2019<ref>Quintus Smyrnaeus, Posthomerica [https://archive.org/details/falloftroy00quin/page/440/mode/2up?view=theater 10.301 (pp. 440, 441)]. </ref></blockquote>"
 },
 {
+"type": "Greek",
 "name": "Enyo",
 "god": "Goddess of war",
 "abode": "Mount Olympus",
@@ -1089,6 +1210,7 @@
 "children": "Enyalios"
 },
 {
+"type": "Greek",
 "name": "Bia",
 "god": "Personification of Force",
 "abode": "Mount Olympus",
@@ -1098,6 +1220,7 @@
 "children": "Enyalios"
 },
 {
+"type": "Roman",
 "name": "Liber",
 "god": "God of wine-making, wine, male fertility, freedom. Member of the Aventine Triad",
 "abode": "",
@@ -1107,6 +1230,7 @@
 "children": "Enyalios"
 },
 {
+"type": "Greek",
 "name": "Catreus",
 "god": "King of Crete",
 "abode": "Crete",
@@ -1116,6 +1240,7 @@
 "children": "Enyalios"
 },
 {
+"type": "Greek",
 "name": "Apemosyne",
 "god": "Princess of Crete",
 "abode": "Crete, later Rhodes",
@@ -1125,6 +1250,7 @@
 "children": "Apemosyne was mentioned in the account of Bibliotheca (Pseudo-Apollodorus)|Apollodorus.<ref>Apollodorus, [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+3.2 3.2]</ref> According to Apollodorus, Catreus received an oracle saying that he would be killed by one of his children, and although Catreus hid the oracles, his son Althaemenes found out. Fearing that he would be the one to kill Catreus, Althaemenes took Apemosyne and fled with her to Rhodes."
 },
 {
+"type": "Greek",
 "name": "Althaemenes",
 "god": "Prince of Crete",
 "abode": "Crete",
@@ -1134,6 +1260,7 @@
 "children": "Apemosyne was mentioned in the account of Bibliotheca (Pseudo-Apollodorus)|Apollodorus.<ref>Apollodorus, [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+3.2 3.2]</ref> According to Apollodorus, Catreus received an oracle saying that he would be killed by one of his children, and although Catreus hid the oracles, his son Althaemenes found out. Fearing that he would be the one to kill Catreus, Althaemenes took Apemosyne and fled with her to Rhodes."
 },
 {
+"type": "Greek",
 "name": "Cecrops",
 "god": "King of Cecropia (i.e. Athens)",
 "abode": "Athens",
@@ -1143,6 +1270,7 @@
 "children": "Apemosyne was mentioned in the account of Bibliotheca (Pseudo-Apollodorus)|Apollodorus.<ref>Apollodorus, [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+3.2 3.2]</ref> According to Apollodorus, Catreus received an oracle saying that he would be killed by one of his children, and although Catreus hid the oracles, his son Althaemenes found out. Fearing that he would be the one to kill Catreus, Althaemenes took Apemosyne and fled with her to Rhodes."
 },
 {
+"type": "Greek",
 "name": "Deucalion",
 "god": "King of Ancient Thessaly|Thessaly",
 "abode": "Phthia, Thessaly",
@@ -1152,6 +1280,7 @@
 "children": "Hellen, Pandora of Thessaly|Pandora and Thyia of Thessaly|Thyia, Hellen, Protogeneia and Amphictyon, Orestheus, Marathonius and Pronous |Pronoos, Melantho, Candybus"
 },
 {
+"type": "Greek",
 "name": "Pyrrha",
 "god": "Queen of Ancient Thessaly|Thessaly",
 "abode": "Phthia, Thessaly",
@@ -1161,6 +1290,7 @@
 "children": "(1.i) Hellen, Pandora of Thessaly|Pandora and Thyia of Thessaly|Thyia,(1.ii) Hellen, Protogeneia and Amphictyon,(1.iii) Orestheus, Marathonius and Pronous |Pronoos,(1.iv) Melantho,(1.v) Candybus, Hellen or Helmetheus"
 },
 {
+"type": "Greek",
 "name": "Ceryx",
 "god": "Athens|Athenian messenger orEleusis|Eleusinian priest",
 "abode": "Athens or Eleusis",
@@ -1170,6 +1300,7 @@
 "children": "(1.i) Hellen, Pandora of Thessaly|Pandora and Thyia of Thessaly|Thyia,(1.ii) Hellen, Protogeneia and Amphictyon,(1.iii) Orestheus, Marathonius and Pronous |Pronoos,(1.iv) Melantho,(1.v) Candybus, Hellen or Helmetheus"
 },
 {
+"type": "Greek",
 "name": "Phorcys",
 "god": "Greek sea gods|Sea god",
 "abode": "Sea",
@@ -1179,6 +1310,7 @@
 "children": "In Greek mythology, 'Phorcys' or 'Phorcus'  is a Primordial Greek gods|primordial Greek sea gods|sea god, generally cited  as the son of Pontus |Pontus and Gaia . Classical scholar Karl Kerenyi conflated Phorcys with the similar sea gods Nereus and Proteus.<ref>Kerenyi pp. 42\u201343.</ref> His wife was Ceto, and he is most notable in myth for fathering by Ceto a host of monstrous children.  In extant Hellenistic-Roman mosaics, Phorcys was depicted as a fish-tailed merman with crab-claw legs and red, spiky skin."
 },
 {
+"type": "Greek",
 "name": "Chronos",
 "god": "Personification of time",
 "abode": "Sea",
@@ -1188,6 +1320,7 @@
 "children": "In Greek mythology, 'Phorcys' or 'Phorcus'  is a Primordial Greek gods|primordial Greek sea gods|sea god, generally cited  as the son of Pontus |Pontus and Gaia . Classical scholar Karl Kerenyi conflated Phorcys with the similar sea gods Nereus and Proteus.<ref>Kerenyi pp. 42\u201343.</ref> His wife was Ceto, and he is most notable in myth for fathering by Ceto a host of monstrous children.  In extant Hellenistic-Roman mosaics, Phorcys was depicted as a fish-tailed merman with crab-claw legs and red, spiky skin."
 },
 {
+"type": "Greek",
 "name": "Telephassa",
 "god": "Queen of Phoenicia",
 "abode": "Phoenicia",
@@ -1197,6 +1330,7 @@
 "children": "In Greek mythology, 'Phorcys' or 'Phorcus'  is a Primordial Greek gods|primordial Greek sea gods|sea god, generally cited  as the son of Pontus |Pontus and Gaia . Classical scholar Karl Kerenyi conflated Phorcys with the similar sea gods Nereus and Proteus.<ref>Kerenyi pp. 42\u201343.</ref> His wife was Ceto, and he is most notable in myth for fathering by Ceto a host of monstrous children.  In extant Hellenistic-Roman mosaics, Phorcys was depicted as a fish-tailed merman with crab-claw legs and red, spiky skin."
 },
 {
+"type": "Greek",
 "name": "Cilix",
 "god": "Eponym of Cilicia",
 "abode": "Phoenicia, later Cilicia",
@@ -1206,6 +1340,7 @@
 "children": "Thasus and Thebe |Thebe"
 },
 {
+"type": "Greek",
 "name": "Coeus",
 "god": "Eponym of Cilicia",
 "abode": "Tartarus",
@@ -1215,6 +1350,7 @@
 "children": "Thasus and Thebe |Thebe"
 },
 {
+"type": "Greek",
 "name": "Kratos",
 "god": "Personification of Strength",
 "abode": "Mount Olympus",
@@ -1224,6 +1360,7 @@
 "children": "Thasus and Thebe |Thebe"
 },
 {
+"type": "Greek",
 "name": "Zelus",
 "god": "Personification of Zeal",
 "abode": "Mount Olympus",
@@ -1233,6 +1370,7 @@
 "children": "Thasus and Thebe |Thebe"
 },
 {
+"type": "Greek",
 "name": "Crius",
 "god": "Personification of Zeal",
 "abode": "Tartarus",
@@ -1242,6 +1380,7 @@
 "children": "Thasus and Thebe |Thebe"
 },
 {
+"type": "Greek",
 "name": "Dardanus",
 "god": "Eponymous king of Dardanus (city)|Dardania",
 "abode": "(1) Arcadia (region)|Arcadia, then Samothrace and Troad or(2) Hesperia (mythology)|Hesperia (or Italy), then Troad",
@@ -1251,6 +1390,7 @@
 "children": "Idaeus and Deimas, &  Erichthonius, Ilus I, Idaea |Idaea and Zacynthus |Zacynthus"
 },
 {
+"type": "Greek",
 "name": "Dardanus",
 "god": "Eponymous king of Dardanus (city)|Dardania",
 "abode": "deityMount Olympus|parents=Ares and Aphrodite|siblings=Erotes (mythology)|Erotes, Phobos (mythology)|Phobos, Phlegyas, Harmonia (mythology)|Harmonia, Enyalios, Thrax (mythology)|Thrax, Oenomaus, and Amazons|type=Greek|deity_of=Personification of terror|roman_equivalent=Formido or Metus}}",
@@ -1260,6 +1400,7 @@
 "children": "Idaeus and Deimas, &  Erichthonius, Ilus I, Idaea |Idaea and Zacynthus |Zacynthus"
 },
 {
+"type": "Greek",
 "name": "Phobos",
 "god": "Personification of fear",
 "abode": "Mount Olympus",
@@ -1269,6 +1410,7 @@
 "children": "Idaeus and Deimas, &  Erichthonius, Ilus I, Idaea |Idaea and Zacynthus |Zacynthus"
 },
 {
+"type": "Greek",
 "name": "Triptolemus",
 "god": "Prince of Eleusis",
 "abode": "Eleusis",
@@ -1278,6 +1420,7 @@
 "children": "Idaeus and Deimas, &  Erichthonius, Ilus I, Idaea |Idaea and Zacynthus |Zacynthus"
 },
 {
+"type": "Greek",
 "name": "L\u00f4tis",
 "god": "Lotus-nymph",
 "abode": "Dryopia",
@@ -1287,6 +1430,7 @@
 "children": "Idaeus and Deimas, &  Erichthonius, Ilus I, Idaea |Idaea and Zacynthus |Zacynthus"
 },
 {
+"type": "Greek",
 "name": "Aerope",
 "god": "Queen of Mycenae",
 "abode": "Crete then Mycenae",
@@ -1296,6 +1440,7 @@
 "children": "Idaeus and Deimas, &  Erichthonius, Ilus I, Idaea |Idaea and Zacynthus |Zacynthus"
 },
 {
+"type": "Greek",
 "name": "Selene",
 "god": "Personification of the Moon",
 "abode": "Sky",
@@ -1305,6 +1450,7 @@
 "children": "Fifty daughters to Endymion; Pandia and Ersa to Zeus; four Horae to Helios; Musaeus of Athens|Musaeus"
 },
 {
+"type": "Greek",
 "name": "Tyro",
 "god": "Queen of Iolcus",
 "abode": "Salmone (Elis)|Salmone, Pisa, Greece|Pisa later Iolcus",
@@ -1314,6 +1460,7 @@
 "children": "Pelias and Neleus, Aeson, Pheres of Pherae|Pheres, Amythaon,and ?Phalanna |Phalanna"
 },
 {
+"type": "Greek",
 "name": "Iolaus",
 "god": "Charioteer of Heracles",
 "abode": "Thebes, Greece|Thebes",
@@ -1323,6 +1470,7 @@
 "children": "Pelias and Neleus, Aeson, Pheres of Pherae|Pheres, Amythaon,and ?Phalanna |Phalanna"
 },
 {
+"type": "Greek",
 "name": "Tithonus",
 "god": "Charioteer of Heracles",
 "abode": "Thebes, Greece|Thebes",
@@ -1332,6 +1480,7 @@
 "children": "Memnon |Memnon, Emathion"
 },
 {
+"type": "Greek",
 "name": "Acastus",
 "god": "King of Iolcus",
 "abode": "Iolcus",
@@ -1341,6 +1490,7 @@
 "children": "Memnon |Memnon, Emathion"
 },
 {
+"type": "Greek",
 "name": "Laomedon",
 "god": "King of Troy",
 "abode": "Troy",
@@ -1350,6 +1500,7 @@
 "children": "Tithonus, Priam, Lampus, Hicetaon, Clytius, Hesione, Cilla |Cilla, Astyoche, Proclia, Aethilla, Medesicaste and Clytodora, Bucolion"
 },
 {
+"type": "Greek",
 "name": "Tros",
 "god": "Eponym of Troad",
 "abode": "Troy",
@@ -1359,6 +1510,7 @@
 "children": "Ilus II, Assaracus, Ganymede |Ganymede, Cleopatra |Cleopatra and Cleomestra"
 },
 {
+"type": "Greek",
 "name": "Iasion",
 "god": "Founder of the Mystic rites",
 "abode": "(1) Samothrace or(2) Italy",
@@ -1368,6 +1520,7 @@
 "children": "Plutus and Philomelus, Corybas |Corybas"
 },
 {
+"type": "Greek",
 "name": "Neoptolemus",
 "god": "Prince of Scyros",
 "abode": "Skyros",
@@ -1377,6 +1530,7 @@
 "children": "| offspring =  Molossus |Molossus, Pielus |Pielus, Pergamus and Amphialus, eight children"
 },
 {
+"type": "Greek",
 "name": "Lycomedes",
 "god": "Dolopian king of Skyros",
 "abode": "Skyros",
@@ -1386,6 +1540,7 @@
 "children": "| offspring =  Molossus |Molossus, Pielus |Pielus, Pergamus and Amphialus, eight children"
 },
 {
+"type": "Greek",
 "name": "Lycomedes",
 "god": "Princess of Scyros",
 "abode": "Skyros",
@@ -1395,6 +1550,7 @@
 "children": "| offspring =  Molossus |Molossus, Pielus |Pielus, Pergamus and Amphialus, eight children"
 },
 {
+"type": "Greek",
 "name": "Diomedes",
 "god": "King of Argos, Peloponnese|Argos",
 "abode": "Argos, Peloponnese|Argos",
@@ -1404,6 +1560,7 @@
 "children": "| offspring =  Molossus |Molossus, Pielus |Pielus, Pergamus and Amphialus, eight children"
 },
 {
+"type": "Greek",
 "name": "Phaedra",
 "god": "Queen of Athens",
 "abode": "Crete, later Athens",
@@ -1413,6 +1570,7 @@
 "children": "| offspring =  Molossus |Molossus, Pielus |Pielus, Pergamus and Amphialus, eight children"
 },
 {
+"type": "Greek",
 "name": "Idomeneus",
 "god": "King of Crete",
 "abode": "Crete",
@@ -1422,6 +1580,7 @@
 "children": "| offspring =  Molossus |Molossus, Pielus |Pielus, Pergamus and Amphialus, eight children"
 },
 {
+"type": "Greek",
 "name": "Rhodos",
 "god": "Goddess of Rhodes",
 "abode": "Rhodes",
@@ -1431,6 +1590,7 @@
 "children": "Actis |Actis, Candalus, Cercaphus, Alectrona|Electryone, Macareus of Rhodes|Macareus, Ochimus, Tenages and Triopas"
 },
 {
+"type": "Greek",
 "name": "Hemera",
 "god": "Personification of day",
 "abode": "Sky and Tartarus",
@@ -1440,6 +1600,7 @@
 "children": "Actis |Actis, Candalus, Cercaphus, Alectrona|Electryone, Macareus of Rhodes|Macareus, Ochimus, Tenages and Triopas"
 },
 {
+"type": "Greek",
 "name": "Nyx",
 "god": "Personification of the Night",
 "abode": "Tartarus",
@@ -1449,6 +1610,7 @@
 "children": "Aether |Aether, Hemera, Moros, Apate |Apate, Dolos |Dolos, Nemesis |Nemesis, the Keres |Keres, the Moirai, the Hesperides, the Erinyes, Oizys, Momus, the Oneiroi, Hypnos, Thanatos, Philotes |Philotes, Geras, Eris |Eris, Eros <small></small>"
 },
 {
+"type": "Greek",
 "name": "Hermaphroditus",
 "god": "God of Hermaphroditism and Effeminacy",
 "abode": "Mount Ida (Turkey)|Mount Ida",
@@ -1458,6 +1620,7 @@
 "children": "Aether |Aether, Hemera, Moros, Apate |Apate, Dolos |Dolos, Nemesis |Nemesis, the Keres |Keres, the Moirai, the Hesperides, the Erinyes, Oizys, Momus, the Oneiroi, Hypnos, Thanatos, Philotes |Philotes, Geras, Eris |Eris, Eros <small></small>"
 },
 {
+"type": "Greek",
 "name": "Ariadne",
 "god": "",
 "abode": "Crete, later Mount Olympus",
@@ -1467,6 +1630,7 @@
 "children": "Staphylus |Staphylus, Oenopion, Thoas |Thoas, Peparethus, Phanus |Phanus, Eurymedon |Eurymedon, Phlias|Phliasus, Ceramus, Maron |Maron, Evanthes|Euanthes, Latramys, Tauropolis, Enyeus and Eunous"
 },
 {
+"type": "Greek",
 "name": "Hygieia",
 "god": "Goddess of good health, cleanliness, and sanitation",
 "abode": "Mount Olympus",
@@ -1476,6 +1640,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Hymenaios",
 "god": "God of weddings, reception, marriage",
 "abode": "Mount Olympus",
@@ -1485,6 +1650,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Hymenaios",
 "god": "God of Wealth",
 "abode": "Mount Olympus",
@@ -1494,6 +1660,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Keres",
 "god": "Goddesses of violent death",
 "abode": "Erebus",
@@ -1503,6 +1670,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Pelops",
 "god": "King of Pisa, Greece|Pisa",
 "abode": "Pisa, Greece|Pisa",
@@ -1512,6 +1680,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Medus",
 "god": "Prince of Athens",
 "abode": "Athens, then Colchis",
@@ -1521,6 +1690,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Moros",
 "god": "Personification of Doom",
 "abode": "Athens, then Colchis",
@@ -1530,6 +1700,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Oeneus",
 "god": "Personification of Doom",
 "abode": "Calydon in Aetolia",
@@ -1539,6 +1710,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Eurybia",
 "god": "Personification of Doom",
 "abode": "the sea",
@@ -1548,6 +1720,7 @@
 "children": "Astraeus, Perses |Perses, Pallas |Pallas"
 },
 {
+"type": "Greek",
 "name": "Peitho",
 "god": "Personification of Persuasion",
 "abode": "Mount Olympus",
@@ -1557,6 +1730,7 @@
 "children": "Astraeus, Perses |Perses, Pallas |Pallas"
 },
 {
+"type": "Greek",
 "name": "Tyche",
 "god": "Goddess of Fortune",
 "abode": "Mount Olympus",
@@ -1566,6 +1740,7 @@
 "children": "Plutus"
 },
 {
+"type": "Greek",
 "name": "Penthus",
 "god": "Personification of grief",
 "abode": "",
@@ -1575,6 +1750,7 @@
 "children": "Plutus"
 },
 {
+"type": "Greek",
 "name": "Phthonos",
 "god": "Personification of Envy and Jealousy",
 "abode": "",
@@ -1584,6 +1760,7 @@
 "children": "Plutus"
 },
 {
+"type": "Greek",
 "name": "Taygete",
 "god": "The Laconian Pleiades (mythology)|Pleiad Nymph",
 "abode": "Mount Kyllini|Mt. Cyllene on Arcadia (region)|Arcadia, later Taygetus|Mt. Taygetos on Laconia",
@@ -1593,6 +1770,7 @@
 "children": "Lacedaemon and Eurotas, Himerus |Himerus"
 },
 {
+"type": "Greek",
 "name": "Thanatos",
 "god": "Personification of Peaceful Death",
 "abode": "Greek Underworld|Underworld",
@@ -1602,6 +1780,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Ogyges",
 "god": "King of Boeotia",
 "abode": "Boeotia",
@@ -1611,6 +1790,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Theia",
 "god": "Goddess of Sight and Brilliance",
 "abode": "Sky",
@@ -1620,6 +1800,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Dana\u00eb",
 "god": "",
 "abode": "",
@@ -1629,6 +1810,7 @@
 "children": "Perseus"
 },
 {
+"type": "Greek",
 "name": "Autono\u00eb",
 "god": "Princess of Thebes, Greece|Thebes",
 "abode": "Thebes",
@@ -1638,6 +1820,7 @@
 "children": "Actaeon and Macris"
 },
 {
+"type": "Greek",
 "name": "Meleager",
 "god": "Prince of Calydon",
 "abode": "Calydon",
@@ -1647,6 +1830,7 @@
 "children": "Actaeon and Macris"
 },
 {
+"type": "Greek",
 "name": "Assaracus",
 "god": "King of Dardanus (city)|Dardania",
 "abode": "Dardania",
@@ -1656,6 +1840,7 @@
 "children": "Capys and Ganymede"
 },
 {
+"type": "Greek",
 "name": "Geras",
 "god": "Personification of Old age",
 "abode": "Erebus",
@@ -1665,6 +1850,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Dolon",
 "god": "",
 "abode": "Troy",
@@ -1674,6 +1860,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Eumolpus",
 "god": "King of Thrace",
 "abode": "Thrace and later Eleusis",
@@ -1683,6 +1870,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Immaradus",
 "god": "Prince of Thracians|Thrace",
 "abode": "Thrace, later Eleusis",
@@ -1692,6 +1880,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Tethys",
 "god": "",
 "abode": "Thrace, later Eleusis",
@@ -1701,6 +1890,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Cynortas",
 "god": "King of Sparta",
 "abode": "Sparta",
@@ -1710,6 +1900,7 @@
 "children": "Oebalus and Perieres |Perieres"
 },
 {
+"type": "Greek",
 "name": "Omphale",
 "god": "Queen of Lydia",
 "abode": "Lydia",
@@ -1719,6 +1910,7 @@
 "children": "Sons by Heracles"
 },
 {
+"type": "Roman",
 "name": "D\u012bs Pater",
 "god": "God of soil fertility and mineral wealth, later associated with the Underworld",
 "abode": "Hades",
@@ -1728,6 +1920,7 @@
 "children": "Sons by Heracles"
 },
 {
+"type": "Roman",
 "name": "Orcus",
 "god": "God of the underworld, punisher of broken oaths",
 "abode": "",
@@ -1737,6 +1930,7 @@
 "children": "Sons by Heracles"
 },
 {
+"type": "Roman",
 "name": "Juventas",
 "god": "Goddess of youth and rejuvenation",
 "abode": "",
@@ -1746,6 +1940,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Somnus",
 "god": "God of Sleep",
 "abode": "Underworld",
@@ -1755,6 +1950,7 @@
 "children": "Oneiroi|Somnia, Morpheus, Phobetor|Icelos, Phantasos"
 },
 {
+"type": "Roman",
 "name": "Luna",
 "god": "Goddess of the Moon",
 "abode": "",
@@ -1764,6 +1960,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Silvanus",
 "god": "Tutelary god of woods and uncultivated lands, protector of field boundaries and cattle, protector against wolves",
 "abode": "The forest",
@@ -1773,6 +1970,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Abundantia",
 "god": "Abundance, money-flow, prosperity, fortune, valuables, and success",
 "abode": "The forest",
@@ -1782,6 +1980,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Rhea Silvia",
 "god": "Mother of the twins Romulus and Remus",
 "abode": "Tiber",
@@ -1791,6 +1990,7 @@
 "children": "Romulus and Remus"
 },
 {
+"type": "Roman",
 "name": "Rhea Silvia",
 "god": "Goddess who relieves pain and sorrow, prevents angina, protects Rome and its sacred name",
 "abode": "",
@@ -1800,6 +2000,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Rhea Silvia",
 "god": "Goddess of the wheel of the year",
 "abode": "A grove on the first milestone on the Via Flaminia",
@@ -1809,6 +2010,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Carmenta",
 "god": "Goddess of childbirth and prophecy, protector of mothers and children, patron of midwives, inventor of the alphabet",
 "abode": "A grove on the first milestone on the Via Flaminia",
@@ -1818,6 +2020,7 @@
 "children": "In Religion in ancient Rome|ancient Roman religion and Roman mythology|myth, 'Carmenta' was a goddess of childbirth and prophecy, associated with technological innovation  as well as the protection of mothers and children and a patron of midwife|midwives. She was also said to have invented the Latin alphabet."
 },
 {
+"type": "Roman",
 "name": "Dea Dia",
 "god": "Goddess of fertility and growth",
 "abode": "A grove on the first milestone on the Via Flaminia",
@@ -1827,6 +2030,7 @@
 "children": "In Religion in ancient Rome|ancient Roman religion and Roman mythology|myth, 'Carmenta' was a goddess of childbirth and prophecy, associated with technological innovation  as well as the protection of mothers and children and a patron of midwife|midwives. She was also said to have invented the Latin alphabet."
 },
 {
+"type": "Roman",
 "name": "Febris",
 "god": "Goddess of fevers",
 "abode": "",
@@ -1836,6 +2040,7 @@
 "children": "In Religion in ancient Rome|ancient Roman religion and Roman mythology|myth, 'Carmenta' was a goddess of childbirth and prophecy, associated with technological innovation  as well as the protection of mothers and children and a patron of midwife|midwives. She was also said to have invented the Latin alphabet."
 },
 {
+"type": "Roman",
 "name": "Imporcitor",
 "god": "Minor god of FieldsGod of ploughing land with a wide furrow",
 "abode": "",
@@ -1845,6 +2050,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Imporcitor",
 "god": "Minor god of FieldsGod of ploughing land with a wide furrow",
 "abode": "",
@@ -1854,6 +2060,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Ops",
 "god": "Goddess of earth and fertility",
 "abode": "Chthonic",
@@ -1863,6 +2070,7 @@
 "children": "Jupiter |Jupiter, Neptune |Neptune, Pluto |Pluto, Juno |Juno, Ceres |Ceres and Vesta |Vesta"
 },
 {
+"type": "Roman",
 "name": "Pomona",
 "god": "Goddess of fruit trees, gardens and orchards",
 "abode": "gardens and orchards",
@@ -1872,6 +2080,7 @@
 "children": "Jupiter |Jupiter, Neptune |Neptune, Pluto |Pluto, Juno |Juno, Ceres |Ceres and Vesta |Vesta"
 },
 {
+"type": "Roman",
 "name": "Pomona",
 "god": "Goddess of fruit trees, gardens and orchards",
 "abode": "Italy, gardens and orchards",
@@ -1881,6 +2090,7 @@
 "children": "Jupiter |Jupiter, Neptune |Neptune, Pluto |Pluto, Juno |Juno, Ceres |Ceres and Vesta |Vesta"
 },
 {
+"type": "Roman",
 "name": "Quirinus",
 "god": "God of the Roman state",
 "abode": "Quirinal Hill",
@@ -1890,6 +2100,7 @@
 "children": "Jupiter |Jupiter, Neptune |Neptune, Pluto |Pluto, Juno |Juno, Ceres |Ceres and Vesta |Vesta"
 },
 {
+"type": "Roman",
 "name": "Reparator",
 "god": "Minor god of FieldsGod of preparing the land for crops",
 "abode": "",
@@ -1899,6 +2110,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Serritor",
 "god": "Minor god of FieldsGod of hoeing and weeding",
 "abode": "",
@@ -1908,6 +2120,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Vervactor",
 "god": "Minor god of FieldsGod of ploughing",
 "abode": "",
@@ -1917,6 +2130,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Veritas",
 "god": "Goddess of truth",
 "abode": "",
@@ -1926,6 +2140,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Iris",
 "god": "Goddess of the Rainbow",
 "abode": "Mount Olympus (possibly)",
@@ -1935,6 +2150,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Chimera",
 "god": "Goddess of the Rainbow",
 "abode": "Lycia",
@@ -1944,6 +2160,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Chimera",
 "god": "Goddess of retribution",
 "abode": "Lycia",
@@ -1953,6 +2170,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Chimera",
 "god": "King of the Deva (Hinduism)|DevasKing of SvargaGod of Lightning, Thunder, Storms and Rain",
 "abode": "Amaravati (mythology)|Amar\u0101vati, the capital of loka|Indraloka in Svarga",
@@ -1962,6 +2180,7 @@
 "children": "Jayanta, Rishabha, Midhusha, Jayanti |Jayanti, Devasena , Vali |Vali and Arjuna"
 },
 {
+"type": "Hindu",
 "name": "Chimera",
 "god": "God of the Sky",
 "abode": "Dyuloka, Sky (}}, \u093e\u0936}})",
@@ -1971,6 +2190,7 @@
 "children": "Jayanta, Rishabha, Midhusha, Jayanti |Jayanti, Devasena , Vali |Vali and Arjuna"
 },
 {
+"type": "Hindu",
 "name": "Prithvi",
 "god": "Goddess of the earth",
 "abode": "Dyuloka",
@@ -1980,6 +2200,7 @@
 "children": "Indra, Surya, Ratri, Ushas and other Rigvedic deities|Rigvedic gods"
 },
 {
+"type": "Hindu",
 "name": "Shesha",
 "god": "King of the Serpents",
 "abode": "Kshira Sagara",
@@ -1989,6 +2210,7 @@
 "children": "Sulochana |Sulochana and Sunaina"
 },
 {
+"type": "Hindu",
 "name": "Shesha",
 "god": "God of Agriculture and Strength",
 "abode": "Vaikuntha, Patala, Vrindavan",
@@ -1998,6 +2220,7 @@
 "children": "Nishatha and"
 },
 {
+"type": "Hindu",
 "name": "Aditi",
 "god": "Goddess of the sky, consciousness, the past, the future, and fertility",
 "abode": "Vaikuntha, Patala, Vrindavan",
@@ -2007,6 +2230,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Aditi",
 "god": "Gods of Thunderstorms",
 "abode": "Midspace",
@@ -2016,6 +2240,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Aditi",
 "god": "God of Auspiciousness, the Wind, Death,  Destruction, the Time, and Animals",
 "abode": "Midspace",
@@ -2025,6 +2250,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Aditi",
 "god": "God of Auspiciousness, the Wind, Death,  Destruction, the Time, and Animals",
 "abode": "Midspace",
@@ -2034,6 +2260,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Brihaspati",
 "god": "Jupiter; guru of devas, adviser of sura, deva of the planet",
 "abode": "Svarga",
@@ -2043,6 +2270,7 @@
 "children": "Bharadvaja,"
 },
 {
+"type": "Hindu",
 "name": "Brihaspati",
 "god": "God of the Moon, Night and Vegetation",
 "abode": "Chandraloka",
@@ -2052,6 +2280,7 @@
 "children": "Budha, Varchas, Bhadra#Chandra's daughter|Bhadra, Jyotsnakali<ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Brihaspati",
 "god": "God of the Moon, Night and Vegetation",
 "abode": "Chandraloka",
@@ -2061,6 +2290,7 @@
 "children": "==Marriage and children=="
 },
 {
+"type": "Hindu",
 "name": "Brihaspati",
 "god": "Personification of drought",
 "abode": "Chandraloka",
@@ -2070,6 +2300,7 @@
 "children": "==Marriage and children=="
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "Personification of drought",
 "abode": "Chandraloka",
@@ -2079,6 +2310,7 @@
 "children": "==Marriage and children=="
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "",
 "abode": "Bharata Khanda, Vaikuntha",
@@ -2088,6 +2320,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "",
 "abode": "",
@@ -2097,6 +2330,7 @@
 "children": "Narakasura and Mangala"
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "God of Protection, Destruction, Yoga and K\u0101la|Kala (Time); The Destroyer of Evil and Fear",
 "abode": "Vaikuntha, Kshira Sagara",
@@ -2106,6 +2340,7 @@
 "children": "Narakasura and Mangala"
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "God of Protection, Destruction, Yoga and K\u0101la|Kala (Time); The Destroyer of Evil and Fear",
 "abode": "Vaikuntha, Kshira Sagara",
@@ -2115,6 +2350,7 @@
 "children": "Narakasura and Mangala"
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "",
 "abode": "Vaikuntha, Patala#Sutala|Satala",
@@ -2124,6 +2360,7 @@
 "children": "Brhatsloka ('Great Praise')"
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "",
 "abode": "Vaikuntha, Patala#Sutala|Satala",
@@ -2133,6 +2370,7 @@
 "children": "\u1e5auma\u1e47v\u0101n, Suhotra, Vasu, Vi\u015bv\u0101vasu, and Parashurama"
 },
 {
+"type": "Hindu",
 "name": "Kartavirya Arjuna",
 "god": "",
 "abode": "Vaikuntha, Patala#Sutala|Satala",
@@ -2142,6 +2380,7 @@
 "children": "\u1e5auma\u1e47v\u0101n, Suhotra, Vasu, Vi\u015bv\u0101vasu, and Parashurama"
 },
 {
+"type": "Hindu",
 "name": "Parvati",
 "god": "Mother Goddess<ref name=holt180></ref>Goddess of Power, Nourishment, Devotion, Motherhood, Fertility, and Harmony<ref name=\"David Kinsley 49\u201350\">{{cite book|author=David Kinsley|title=Hindu Goddesses: Visions of the Divine Feminine in the Hindu Religious Tradition|url=https://archive.org/details/hindugoddessesvi0000kins|url-access=registration|date=19 July 1988|publisher=University of California Press|isbn=978-0-520-90883-3|pages=[https://archive.org/details",
 "abode": "Vaikuntha, Patala#Sutala|Satala",
@@ -2151,6 +2390,7 @@
 "children": "\u1e5auma\u1e47v\u0101n, Suhotra, Vasu, Vi\u015bv\u0101vasu, and Parashurama"
 },
 {
+"type": "Hindu",
 "name": "Lakshmi",
 "god": "Mother GoddessGoddess of Prosperity, Fortune, Wealth, Power, Love, Abundance, Beauty<ref>",
 "abode": "Vaikuntha, Patala#Sutala|Satala",
@@ -2160,6 +2400,7 @@
 "children": "\u1e5auma\u1e47v\u0101n, Suhotra, Vasu, Vi\u015bv\u0101vasu, and Parashurama"
 },
 {
+"type": "Hindu",
 "name": "Durga",
 "god": "Mother Goddess; Goddess of Strength and Protection",
 "abode": "Vaikuntha, Patala#Sutala|Satala",
@@ -2169,6 +2410,7 @@
 "children": "\u1e5auma\u1e47v\u0101n, Suhotra, Vasu, Vi\u015bv\u0101vasu, and Parashurama"
 },
 {
+"type": "Hindu",
 "name": "Savitr",
 "god": "God of the Sunrays",
 "abode": "Sun",
@@ -2178,6 +2420,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Savitr",
 "god": "God of Wealth",
 "abode": "Sun",
@@ -2187,6 +2430,7 @@
 "children": "Mahiman, Vibhu and Prabhu ,\u0100\u015bis"
 },
 {
+"type": "Hindu",
 "name": "Virabhadra",
 "god": "God of Wealth",
 "abode": "Sun",
@@ -2196,6 +2440,7 @@
 "children": "Mahiman, Vibhu and Prabhu ,\u0100\u015bis"
 },
 {
+"type": "Hindu",
 "name": "Virabhadra",
 "god": "Goddess of Sacrifices",
 "abode": "Agniloka",
@@ -2205,6 +2450,7 @@
 "children": "Pavaka, Pavamana, Shuchi, Agneya, Kartikeya|Skanda</ref>"
 },
 {
+"type": "Hindu",
 "name": "Virabhadra",
 "god": "Goddess of Sacrifices",
 "abode": "Agniloka",
@@ -2214,6 +2460,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Virabhadra",
 "god": "Goddess of Sacrifices",
 "abode": "Agniloka",
@@ -2223,6 +2470,7 @@
 "children": "Balarama, Krishna, Subhadra, and #Wives and children|various other children"
 },
 {
+"type": "Hindu",
 "name": "Radha",
 "god": "Prak\u1e5bti|M\u016blaprakriti - Primordial Goddess,",
 "abode": "Agniloka",
@@ -2232,6 +2480,7 @@
 "children": "Balarama, Krishna, Subhadra, and #Wives and children|various other children"
 },
 {
+"type": "Hindu",
 "name": "Yashoda",
 "god": "Prak\u1e5bti|M\u016blaprakriti - Primordial Goddess,",
 "abode": "Vrindavana",
@@ -2241,6 +2490,7 @@
 "children": "Krishna (foster-son), Balarama (foster-son),Vindhyavasini|Yogamaya"
 },
 {
+"type": "Hindu",
 "name": "Hanuman",
 "god": "God of Wisdom, Strength, Courage, Devotion and Self-Discipline",
 "abode": "Kishkindha",
@@ -2250,6 +2500,7 @@
 "children": "Krishna (foster-son), Balarama (foster-son),Vindhyavasini|Yogamaya"
 },
 {
+"type": "Hindu",
 "name": "Kalki",
 "god": "God of Wisdom, Strength, Courage, Devotion and Self-Discipline",
 "abode": "Vaikuntha",
@@ -2259,6 +2510,7 @@
 "children": "Jaya and Vijaya  <ref>https://www.google.co.in/books/edition/Studies_in_the_Upapur%C4%81%E1%B9%87as/LYDRAAAAMAAJ?hl=en&gbpv=1&bsq=Jaya+Vijaya+sons+Kalki&dq=Jaya+Vijaya+sons+Kalki&printsec=frontcover</ref> Meghamala and Balahaka  <ref>http://om-aditya.ru/userfiles/ufiles/purany/sri_kalki_purana.pdf</ref>"
 },
 {
+"type": "Hindu",
 "name": "Kalki",
 "god": "God of Wisdom, Strength, Courage, Devotion and Self-Discipline",
 "abode": "Gautama's hermitage",
@@ -2268,6 +2520,7 @@
 "children": "#Children|Shatananda"
 },
 {
+"type": "Hindu",
 "name": "Kalki",
 "god": "God of Wealth",
 "abode": "Lanka and later Alaka",
@@ -2277,6 +2530,7 @@
 "children": "Nalakuvara, Manibhadra, Mayuraja, and Minakshi"
 },
 {
+"type": "Hindu",
 "name": "Kalki",
 "god": "God of Wind",
 "abode": "",
@@ -2286,6 +2540,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Kalki",
 "god": "Goddess of forests and wild animals",
 "abode": "",
@@ -2295,6 +2550,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Ardhanarishvar",
 "god": "",
 "abode": "",
@@ -2304,6 +2560,7 @@
 "children": ""
 },
 {
+"type": "<!--Wikipedia:WikiProject Hinduism--> Hindu <!-- This is template parameter used for internal classification and formatting; it does not display; please do not wiki-link it nor change it -->",
 "name": "Ayyappan",
 "god": "God of righteousness and celibacy",
 "abode": "Sabarimala",
@@ -2313,6 +2570,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Dhumavati",
 "god": "Goddess of strife, loneliness, unfulfilled desires and inauspicious things",
 "abode": "Cremation ground",
@@ -2322,6 +2580,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Bhavani",
 "god": "Goddess of Power, Justice, Motherhood  and Emotions",
 "abode": "Dev\u012b L\u014dk",
@@ -2331,6 +2590,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "V\u0101yu",
 "god": "God of Air, Wind, and Breath",
 "abode": "Vayu Loka, Brahmaloka|Satya Loka",
@@ -2340,6 +2600,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "V\u0101yu",
 "god": "God of Air, Wind, and Breath",
 "abode": "Rudraprayag",
@@ -2349,6 +2610,7 @@
 "children": "* Dhata, Vidhata, Bhargavi ,"
 },
 {
+"type": "Hindu",
 "name": "Brahmani",
 "god": "Shakti of Brahma",
 "abode": "Brahmaloka or Satyaloka",
@@ -2358,6 +2620,7 @@
 "children": "* Dhata, Vidhata, Bhargavi ,"
 },
 {
+"type": "Hindu",
 "name": "Rati",
 "god": "Goddess of Love, Carnal Desire and Passion",
 "abode": "Kamaloka",
@@ -2367,6 +2630,7 @@
 "children": "Harsha & Yasha <ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Chamunda",
 "god": "Goddess of war and \"epidemics of pestilent diseases, famines, and other disasters\".",
 "abode": "Cremation grounds or fig trees",
@@ -2376,6 +2640,7 @@
 "children": "Harsha & Yasha <ref></ref>"
 },
 {
+"type": "Greek",
 "name": "Iapetus",
 "god": "The Titans|Titan of Mortality",
 "abode": "Tartarus",
@@ -2385,6 +2650,7 @@
 "children": "Harsha & Yasha <ref></ref>"
 },
 {
+"type": "Greek",
 "name": "Byzas",
 "god": "",
 "abode": "",
@@ -2394,6 +2660,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Neptune",
 "god": "God of the Sea",
 "abode": "Sea",
@@ -2403,6 +2670,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Neptune",
 "god": "God of the Sea",
 "abode": "Athamantis in Boeotia later Colchis",
@@ -2412,6 +2680,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Phanes",
 "god": "God of Creation",
 "abode": "",
@@ -2421,6 +2690,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Janus",
 "god": "God of all beginnings, gates, transitions, time, duality, doorways, passages, and ending",
 "abode": "at the limits of Earth, at the extremity of Heaven",
@@ -2430,6 +2700,7 @@
 "children": "Canens |Canens, Aithex, Olistene, Tiberinus |Tiberinus, Fontus"
 },
 {
+"type": "Greek",
 "name": "Epimetheus",
 "god": "",
 "abode": "",
@@ -2439,6 +2710,7 @@
 "children": "Prophasis, Pyrrha"
 },
 {
+"type": "Hindu",
 "name": "Rukmini",
 "god": "Mother GoddessGoddess of Fortune<ref>{{cite book|title=Bhagavad Gita as it isThe Marriage of K\u1e5b\u1e63\u1e47a and Rukmi\u1e47\u012b|url=https://vedabase.io/en/library/sb/10/54/60/|author= A.C Bhakti",
 "abode": "Dv\u0101rak\u0101, Pandharpur",
@@ -2448,6 +2720,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Venkateswara",
 "god": "God of the Seven Hills",
 "abode": "Vaikuntha, Tirumala",
@@ -2457,6 +2730,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Hyperion",
 "god": "God of the Seven Hills",
 "abode": "Vaikuntha, Tirumala",
@@ -2466,6 +2740,7 @@
 "children": "In Greek mythology, 'Hyperion' (, 'he who goes before')<ref>Grimal, s.v. Hyperion; Smith,  [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DH%3Aentry+group%3D18%3Aentry%3Dhyperion-bio-1 s.v. Hyperion].</ref> was one of the twelve Titan |Titan children of Gaia  and Uranus |Uranus (the"
 },
 {
+"type": "Greek",
 "name": "Perseus",
 "god": "",
 "abode": "Serifos|Seriphus, then Ancient Argos|Argos",
@@ -2475,6 +2750,7 @@
 "children": "Perses |Perses, Heleus, Alcaeus |Alcaeus, Sthenelus of Mycenae, Electryon, Mestor, Cynurus, Gorgophone |Gorgophone, Autochthe"
 },
 {
+"type": "Hindu",
 "name": "Perseus",
 "god": "Divine Sage  Messenger of the Devas",
 "abode": "Brahmaloka  Vaikuntha",
@@ -2484,6 +2760,7 @@
 "children": "'Narada' (</ref>"
 },
 {
+"type": "Hindu",
 "name": "Lakshmana",
 "god": "Divine Sage  Messenger of the Devas",
 "abode": "Vaikuntha, Kshira Sagara",
@@ -2493,6 +2770,7 @@
 "children": "Angada (Lakshmana's son)|Angada, Chandraketu"
 },
 {
+"type": "Hindu",
 "name": "Saraswati",
 "god": "Personification of the Saraswati RiverGoddess of Knowledge, Music, Art, Speech",
 "abode": "Satyaloka, Manidvipa",
@@ -2502,6 +2780,7 @@
 "children": "Narada</ref>"
 },
 {
+"type": "Hindu",
 "name": "Saraswati",
 "god": "Personification of the Saraswati RiverGoddess of Knowledge, Music, Art, Speech",
 "abode": "Satyaloka, Manidvipa",
@@ -2511,6 +2790,7 @@
 "children": "Bharata |Bharata"
 },
 {
+"type": "Hindu",
 "name": "Ghatotkacha",
 "god": "",
 "abode": "Kamyaka Forest",
@@ -2520,6 +2800,7 @@
 "children": "Anjanaparvan, Meghavarna, Barbarika"
 },
 {
+"type": "Hindu",
 "name": "Kamala",
 "god": "Bestower of Divine Bliss",
 "abode": "Kamyaka Forest",
@@ -2529,6 +2810,7 @@
 "children": "Anjanaparvan, Meghavarna, Barbarika"
 },
 {
+"type": "Hindu",
 "name": "Matangi",
 "god": "Goddess of wisdom, arts, the spoken word and supernatural powers",
 "abode": "On the periphery of traditional society like forests and in speech",
@@ -2538,6 +2820,7 @@
 "children": "Anjanaparvan, Meghavarna, Barbarika"
 },
 {
+"type": "Hindu",
 "name": "Bagalamukhi",
 "god": "The Goddess Who Paralyzes enemies (Suspension)",
 "abode": "Haridra Sarovar (Turmeric Ocean)",
@@ -2547,6 +2830,7 @@
 "children": "Anjanaparvan, Meghavarna, Barbarika"
 },
 {
+"type": "Hindu",
 "name": "Chhinnamasta",
 "god": "Goddess of Self-Sacrifice",
 "abode": "Cremation ground",
@@ -2556,6 +2840,7 @@
 "children": "Anjanaparvan, Meghavarna, Barbarika"
 },
 {
+"type": "Hindu",
 "name": "Bhairavi",
 "god": "Goddess of Kundalini",
 "abode": "Mount Kailash and Manidvipa",
@@ -2565,6 +2850,7 @@
 "children": "Anjanaparvan, Meghavarna, Barbarika"
 },
 {
+"type": "Hindu",
 "name": "Bhairavi",
 "god": "Goddess of Kundalini",
 "abode": "Mount Kailash and Manidvipa",
@@ -2574,6 +2860,7 @@
 "children": "Shachi, the Paulomans<ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Bhairavi",
 "god": "Lord of the Animals",
 "abode": "Mount Kailash and Manidvipa",
@@ -2583,6 +2870,7 @@
 "children": "Shachi, the Paulomans<ref></ref>"
 },
 {
+"type": "Greek",
 "name": "Hebe",
 "god": "",
 "abode": "Mount Olympus",
@@ -2592,6 +2880,7 @@
 "children": "Alexiares and Anicetus"
 },
 {
+"type": "Greek",
 "name": "Erichthonius",
 "god": "King of Dardania (city)|Dardania",
 "abode": "Dardania",
@@ -2601,6 +2890,7 @@
 "children": "Tros"
 },
 {
+"type": "Hindu",
 "name": "Erichthonius",
 "god": "King of Dardania (city)|Dardania",
 "abode": "Dardania",
@@ -2610,6 +2900,7 @@
 "children": "Rama , Bharata|Bharatha , Lakshmana , Shatrughna"
 },
 {
+"type": "Hindu",
 "name": "Dil\u012bpa",
 "god": "King of Dardania (city)|Dardania",
 "abode": "Dardania",
@@ -2619,6 +2910,7 @@
 "children": "Raghu"
 },
 {
+"type": "Hindu",
 "name": "Raghu",
 "god": "King of Dardania (city)|Dardania",
 "abode": "Dardania",
@@ -2628,6 +2920,7 @@
 "children": "Aja of Kosala|Aja"
 },
 {
+"type": "Hindu",
 "name": "Raghu",
 "god": "King of Dardania (city)|Dardania",
 "abode": "Dardania",
@@ -2637,6 +2930,7 @@
 "children": "Rohitashva"
 },
 {
+"type": "Hindu",
 "name": "Kamadhenu",
 "god": "The Cow Mother",
 "abode": "Goloka, Patala or the hermitages of sages, Jamadagni and Vashista",
@@ -2646,6 +2940,7 @@
 "children": "Nandini, Dhenu, Harschika and Subhadra"
 },
 {
+"type": "Hindu",
 "name": "Kamadhenu",
 "god": "The Cow Mother",
 "abode": "Goloka, Patala or the hermitages of sages, Jamadagni and Vashista",
@@ -2655,6 +2950,7 @@
 "children": "Subahu (Shatrughna's son)|Subahu , Shatrughati<ref>[http://www.sacred-texts.com/hin/dutt/ramaconc.htm Ramayana \u2013 Conclusion], translated by Romesh C. Dutt </ref>"
 },
 {
+"type": "Hindu",
 "name": "Kamadhenu",
 "god": "The Cow Mother",
 "abode": "Dandakaranya",
@@ -2664,6 +2960,7 @@
 "children": "Subahu (Shatrughna's son)|Subahu , Shatrughati<ref>[http://www.sacred-texts.com/hin/dutt/ramaconc.htm Ramayana \u2013 Conclusion], translated by Romesh C. Dutt </ref>"
 },
 {
+"type": "Hindu",
 "name": "Kamadhenu",
 "god": "",
 "abode": "Dandakaranya",
@@ -2673,6 +2970,7 @@
 "children": "'Upapandavas'"
 },
 {
+"type": "Greek",
 "name": "Medusa",
 "god": "",
 "abode": "",
@@ -2682,6 +2980,7 @@
 "children": "Pegasus and Chrysaor"
 },
 {
+"type": "Greek",
 "name": "Psyche",
 "god": "Goddess of the soul",
 "abode": "",
@@ -2691,6 +2990,7 @@
 "children": "Hedone"
 },
 {
+"type": "Greek",
 "name": "Calypso",
 "god": "",
 "abode": "Ogygia",
@@ -2700,6 +3000,7 @@
 "children": "By some accounts Latinus, by others Nausithous and Nausinous, the Cephalonians"
 },
 {
+"type": "Greek",
 "name": "Hyacinth",
 "god": "Divine hero of Sparta",
 "abode": "Sparta, Mount Olympus",
@@ -2709,6 +3010,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Tara",
 "god": "Goddess of Protection",
 "abode": "Sparta, Mount Olympus",
@@ -2718,6 +3020,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Eurotas",
 "god": "King of Laconia",
 "abode": "Laconia",
@@ -2727,6 +3030,7 @@
 "children": "Sparta |Sparta and Tiasa"
 },
 {
+"type": "Hindu",
 "name": "Eurotas",
 "god": "King of Laconia",
 "abode": "Laconia",
@@ -2736,6 +3040,7 @@
 "children": "Lakshmana and Shatrughna"
 },
 {
+"type": "Hindu",
 "name": "Gayatri",
 "god": "Mother of the Vedas Personification of the Gayatri Mantra",
 "abode": "Satyaloka, Manidvipa",
@@ -2745,6 +3050,7 @@
 "children": "Lakshmana and Shatrughna"
 },
 {
+"type": "Greek",
 "name": "Phoebe",
 "god": "Oracular Goddess",
 "abode": "Satyaloka, Manidvipa",
@@ -2754,6 +3060,7 @@
 "children": "Lakshmana and Shatrughna"
 },
 {
+"type": "Greek",
 "name": "Phaethon",
 "god": "Oracular Goddess",
 "abode": "Satyaloka, Manidvipa",
@@ -2763,6 +3070,7 @@
 "children": "Lakshmana and Shatrughna"
 },
 {
+"type": "Greek",
 "name": "Ananke",
 "god": "Personification of Necessity and Inevitability",
 "abode": "The cosmos",
@@ -2772,6 +3080,7 @@
 "children": "Lakshmana and Shatrughna"
 },
 {
+"type": "Hindu",
 "name": "Gopis",
 "god": "Personification of Necessity and Inevitability",
 "abode": "Goloka, Vrindavan, Barsana",
@@ -2781,6 +3090,7 @@
 "children": "Lakshmana and Shatrughna"
 },
 {
+"type": "Greek",
 "name": "Amphictyon",
 "god": "King of Locris orThermopylae and Athens",
 "abode": "The name of Amphictyon is a back-formation from ''Amphictyons'', plural, from Latin ''Amphictyones'',  from Greek ''Amphiktyones, Amphiktiones'', literally, \"neighbors\" or \"those dwelling around\" from ''amphi- + -ktyones, -ktiones'' (from ''ktizein'' to found); akin to Sanskrit ''k\u1e63eti'' he dwells, ''k\u1e63iti'' abode, Avestan ''shitish'' dwelling, Armenian ''\u0161en'' inhabited, cultivated.",
@@ -2790,6 +3100,7 @@
 "children": "Physcus, Aetolus, Itonus and a daughter"
 },
 {
+"type": "Hindu",
 "name": "Rahu",
 "god": "Solar eclipses and North Lunar Node; Head of Svarbhanu",
 "abode": "Rahu kala|R\u0101hu K\u0101la",
@@ -2799,6 +3110,7 @@
 "children": "Physcus, Aetolus, Itonus and a daughter"
 },
 {
+"type": "Greek",
 "name": "Hyas",
 "god": "Ancestor of the Hyantes(i.e. Boeotians)",
 "abode": "Boeotia",
@@ -2808,6 +3120,7 @@
 "children": "Hyades"
 },
 {
+"type": "Greek",
 "name": "Clio",
 "god": "Goddess of history and lyre playing",
 "abode": "Mount Olympus",
@@ -2817,6 +3130,7 @@
 "children": "Hymen |Hymenaeus, Hyacinth |Hyacinthus"
 },
 {
+"type": "Hindu",
 "name": "Clio",
 "god": "Goddess of history and lyre playing",
 "abode": "Mount Olympus",
@@ -2826,6 +3140,7 @@
 "children": "Banasura, Ratanamala, and Vajrajwala"
 },
 {
+"type": "Greek",
 "name": "Dione",
 "god": "Goddess of history and lyre playing",
 "abode": "Mount Olympus",
@@ -2835,6 +3150,7 @@
 "children": "Aphrodite"
 },
 {
+"type": "Greek",
 "name": "Arete",
 "god": "Goddess of excellence and virtue",
 "abode": "Mount Olympus",
@@ -2844,6 +3160,7 @@
 "children": "Aphrodite"
 },
 {
+"type": "Hindu",
 "name": "Mariamman",
 "god": "Goddess of Rain and Fertility",
 "abode": "Earth",
@@ -2853,6 +3170,7 @@
 "children": "Aphrodite"
 },
 {
+"type": "Hindu",
 "name": "Jagannath",
 "god": "Goddess of Rain and Fertility",
 "abode": "Nilachal|Mount Nila",
@@ -2862,6 +3180,7 @@
 "children": "Aphrodite"
 },
 {
+"type": "Hindu",
 "name": "Mangala",
 "god": "God of the planet Mars",
 "abode": "Mangalaloka",
@@ -2871,6 +3190,7 @@
 "children": "Aphrodite"
 },
 {
+"type": "Roman",
 "name": "Juno",
 "god": "Queen of the Gods  Goddess of marriage and childbirth",
 "abode": "",
@@ -2880,6 +3200,7 @@
 "children": "Mars |Mars, Vulcan |Vulcan, Bellona |Bellona, Juventas"
 },
 {
+"type": "Hindu",
 "name": "Juno",
 "god": "Queen of the Gods  Goddess of marriage and childbirth",
 "abode": "",
@@ -2889,6 +3210,7 @@
 "children": "Mars |Mars, Vulcan |Vulcan, Bellona |Bellona, Juventas"
 },
 {
+"type": "Roman",
 "name": "Aurora",
 "god": "Personification of dawn",
 "abode": "Sky",
@@ -2898,6 +3220,7 @@
 "children": "Anemoi"
 },
 {
+"type": "Roman",
 "name": "Terra",
 "god": "The personification of the Earth",
 "abode": "Earth",
@@ -2907,6 +3230,7 @@
 "children": "Saturn |Saturn, Ops, Janus"
 },
 {
+"type": "Roman",
 "name": "Terra",
 "god": "Goddess of chance, luck and fate",
 "abode": "Rome",
@@ -2916,6 +3240,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Endymion",
 "god": "Goddess of chance, luck and fate",
 "abode": "Elis or Mount Latmus",
@@ -2925,6 +3250,7 @@
 "children": "Narcissus |Narcissus, Aetolus, son of Endymion|Aetolus, Eurypyle, Eurycyda, Paeon |Paeon, Epeius, fifty daughters with Selene"
 },
 {
+"type": "Roman",
 "name": "Endymion",
 "god": "Goddess of flowers and the season of spring",
 "abode": "Elysium",
@@ -2934,6 +3260,7 @@
 "children": "Karpos|Carpus"
 },
 {
+"type": "Greek",
 "name": "Maia",
 "god": "The Arcadia (region)|Arcadian Pleiades (Greek mythology)|Pleiad Nymph",
 "abode": "Mount Kyllini|Mount Cyllene, Arcadia",
@@ -2943,6 +3270,7 @@
 "children": "Hermes"
 },
 {
+"type": "Greek",
 "name": "Aeagina Asopis",
 "god": "Eponymous Nymph of Aegina",
 "abode": "Phlius, later Aegina",
@@ -2952,6 +3280,7 @@
 "children": "Hermes"
 },
 {
+"type": "Greek",
 "name": "Pontus",
 "god": "",
 "abode": "Sea",
@@ -2961,6 +3290,7 @@
 "children": "Hermes"
 },
 {
+"type": "Hindu",
 "name": "Aja",
 "god": "",
 "abode": "Sea",
@@ -2970,6 +3300,7 @@
 "children": "Dasharatha"
 },
 {
+"type": "Hindu",
 "name": "Shakambhari",
 "god": "Goddess of Nourishment",
 "abode": "Sea",
@@ -2979,6 +3310,7 @@
 "children": "Dasharatha"
 },
 {
+"type": "Greek",
 "name": "Electra",
 "god": "The Samothrace|Samothracian Pleiades|Pleiad Nymph",
 "abode": "Mount Kyllini|Mt. Cyllene on Arcadia (region)|Arcadia or later Mt. Saon on Samothrace",
@@ -2988,6 +3320,7 @@
 "children": "&  Dardanus |Dardanus, Iasion (or Iasus or Eetion |Eetion), Harmonia and, Emathion"
 },
 {
+"type": "Greek",
 "name": "The Pleiades",
 "god": "The Seven Star-nymph Sisters",
 "abode": "Mount Kyllini|Mt. Cyllene on Arcadia (region)|Arcadia",
@@ -2997,6 +3330,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Ushas",
 "god": "The Seven Star-nymph Sisters",
 "abode": "Mount Kyllini|Mt. Cyllene on Arcadia (region)|Arcadia",
@@ -3006,6 +3340,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Hermione",
 "god": "Princess of Sparta",
 "abode": "Sparta",
@@ -3015,6 +3350,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Chrysippus",
 "god": "Princess of Sparta",
 "abode": "Ancient Elis|Elis",
@@ -3024,6 +3360,7 @@
 "children": "Chrysippus was the Illegitimacy|bastard son of Pelops, king of Pisa, Greece|Pisa in the Peloponnesus, and the nymph Axioche<ref>Scholia on Euripides, Orestes |Orestes [https://berkeley.pressbooks.pub/scholia/chapter/orestes-1-100/ 5]</ref><ref>Scholia on Pindar, Olympian Odes [https://scaife.perseus.org/reader/urn:cts:greekLit:tlg5034.tlg001a.perseus-grc1:1.144 1.144]</ref> or Danais.<ref>Pseudo-Plutarch, Greek and Roman Parallel Stories [https://topostext.org/work/270#33 33]</ref> According to Pseudo-Plutarch, of all his children Pelops loved Chrysippus best."
 },
 {
+"type": "Roman",
 "name": "Egeria",
 "god": "Nymph, giver of laws and rituals",
 "abode": "Ancient Elis|Elis",
@@ -3033,6 +3370,7 @@
 "children": "Chrysippus was the Illegitimacy|bastard son of Pelops, king of Pisa, Greece|Pisa in the Peloponnesus, and the nymph Axioche<ref>Scholia on Euripides, Orestes |Orestes [https://berkeley.pressbooks.pub/scholia/chapter/orestes-1-100/ 5]</ref><ref>Scholia on Pindar, Olympian Odes [https://scaife.perseus.org/reader/urn:cts:greekLit:tlg5034.tlg001a.perseus-grc1:1.144 1.144]</ref> or Danais.<ref>Pseudo-Plutarch, Greek and Roman Parallel Stories [https://topostext.org/work/270#33 33]</ref> According to Pseudo-Plutarch, of all his children Pelops loved Chrysippus best."
 },
 {
+"type": "Hindu",
 "name": "Dhanvantari",
 "god": "God of AyurvedaPhysician of the devas",
 "abode": "Samudra",
@@ -3042,6 +3380,7 @@
 "children": "Ketuman"
 },
 {
+"type": "Roman",
 "name": "Caelus",
 "god": "Personification of the heavens",
 "abode": "The sky",
@@ -3051,6 +3390,7 @@
 "children": "Saturn |Saturn, Ops, Janus"
 },
 {
+"type": "Greek",
 "name": "Themiste",
 "god": "Queen of Dardanus (city)|Dardania",
 "abode": "Troy|Ilium (Troy), later Dardania",
@@ -3060,6 +3400,7 @@
 "children": "Anchises and  Acoetes"
 },
 {
+"type": "Hindu",
 "name": "Ratri",
 "god": "Personification of the night",
 "abode": "Troy|Ilium (Troy), later Dardania",
@@ -3069,6 +3410,7 @@
 "children": "Anchises and  Acoetes"
 },
 {
+"type": "Greek",
 "name": "Clytie",
 "god": "Personification of the night",
 "abode": "Boeotia, others",
@@ -3078,6 +3420,7 @@
 "children": "Anchises and  Acoetes"
 },
 {
+"type": "Hindu",
 "name": "Clytie",
 "god": "Personification of the night",
 "abode": "Boeotia, others",
@@ -3087,6 +3430,7 @@
 "children": "Anchises and  Acoetes"
 },
 {
+"type": "Hindu",
 "name": "Clytie",
 "god": "Personification of the night",
 "abode": "Boeotia, others",
@@ -3096,6 +3440,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Clytie",
 "god": "Personification of the night",
 "abode": "Varies per interpretation",
@@ -3105,6 +3450,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Narayana",
 "god": "Protector of the Worlds",
 "abode": "Kshira Sagara",
@@ -3114,6 +3460,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Narayana",
 "god": "Protector of the Worlds",
 "abode": "Kshira Sagara",
@@ -3123,6 +3470,7 @@
 "children": "Priyavrata,Utt\u0101nap\u0101da,\u0100k\u016bti,Devah\u016bti,Prasuti"
 },
 {
+"type": "Hinduism",
 "name": "Sarathi",
 "god": "Protector of the Worlds",
 "abode": "Kshira Sagara",
@@ -3132,6 +3480,7 @@
 "children": "Priyavrata,Utt\u0101nap\u0101da,\u0100k\u016bti,Devah\u016bti,Prasuti"
 },
 {
+"type": "Hindu",
 "name": "Naga",
 "god": "Protector of the Worlds",
 "abode": "Patala",
@@ -3141,6 +3490,7 @@
 "children": "The 'Nagas' (IAST: n\u0101ga; Devan\u0101gar\u012b: '\u0928\u093e\u0917')<ref></ref> They are principally depicted in three forms: as entirely human with snakes on the heads and necks, as common serpents, or as half-human, half"
 },
 {
+"type": "Hindu",
 "name": "Subhadra",
 "god": "Protector of the Worlds",
 "abode": "Patala",
@@ -3150,6 +3500,7 @@
 "children": "Abhimanyu"
 },
 {
+"type": "Roman",
 "name": "Sol Invictus",
 "god": "Sun god",
 "abode": "The sky",
@@ -3159,6 +3510,7 @@
 "children": "Abhimanyu"
 },
 {
+"type": "Hindu",
 "name": "Pradyumna",
 "god": "Sun god",
 "abode": "Dvaraka",
@@ -3168,6 +3520,7 @@
 "children": "Aniruddha"
 },
 {
+"type": "Hindu",
 "name": "Pradyumna",
 "god": "Sun god",
 "abode": "Dvaraka",
@@ -3177,6 +3530,7 @@
 "children": "Mayasura"
 },
 {
+"type": "Hindu",
 "name": "Bahuchara Mata",
 "god": "Goddess of innocence, Mercy, Kindness, Honesty, Sovereignty, self confidence, daughters, eunuchs, integrity and public welfare",
 "abode": "Manidweep",
@@ -3186,6 +3540,7 @@
 "children": "Mayasura"
 },
 {
+"type": "Hindu",
 "name": "Bahuchara Mata",
 "god": "Goddess of innocence, Mercy, Kindness, Honesty, Sovereignty, self confidence, daughters, eunuchs, integrity and public welfare",
 "abode": "Manidweep",
@@ -3195,6 +3550,7 @@
 "children": "Mayasura"
 },
 {
+"type": "Greek",
 "name": "Macris",
 "god": "Eponym of Corfu|Macris",
 "abode": "Euboea, later Macris(i.e. Drepane, Scheria, Phaeacia)",
@@ -3204,6 +3560,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Hrishikesha",
 "god": "Eponym of Corfu|Macris",
 "abode": "Vaikuntha",
@@ -3213,6 +3570,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Hayagriva",
 "god": "God of Wisdom",
 "abode": "Vaikuntha",
@@ -3222,6 +3580,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Vasuki",
 "god": "King of the Serpents",
 "abode": "Kailasha",
@@ -3231,6 +3590,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Vasuki",
 "god": "Goddess of Epic Poetry",
 "abode": "Mount Olympus",
@@ -3240,6 +3600,7 @@
 "children": "Orpheus, Linus of Thrace|Linus, the Corybantes"
 },
 {
+"type": "Hindu",
 "name": "Oesho",
 "god": "",
 "abode": "",
@@ -3249,6 +3610,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Pax",
 "god": "Goddess of Peace",
 "abode": "Rome",
@@ -3258,6 +3620,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Pax",
 "god": "Goddess of Peace",
 "abode": "Svarga",
@@ -3267,6 +3630,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Pax",
 "god": "Goddess of Peace",
 "abode": "Svarga",
@@ -3276,6 +3640,7 @@
 "children": "Hanuman"
 },
 {
+"type": "Hindu",
 "name": "Ranganatha",
 "god": "",
 "abode": "Vaikuntha, Kshira Sagara",
@@ -3285,6 +3650,7 @@
 "children": "Hanuman"
 },
 {
+"type": "Hindu",
 "name": "Lava",
 "god": "",
 "abode": "Vaikuntha, Kshira Sagara",
@@ -3294,6 +3660,7 @@
 "children": "|access-date=14 November 2010 |archive-url=https://web.archive.org/web/20131004215927/http://www.lcuk.org.uk/history.htm |archive-date=4 October 2013 |url-status=dead </ref> and his twin brother Kusha |Kusha, are the children of Rama and Sita in Hindus|Hindu tradition.</ref> Their story is recounted in the Hindu epic, Ramayana and Versions of Ramayana|its other versions. He is said to have a whitish golden complexion like their mother, while Kusha had a blackish complexion like their father."
 },
 {
+"type": "Hindu",
 "name": "Nandi",
 "god": "",
 "abode": "Nandi (-sa|\u0928\u0928\u094d\u0926\u093f}}), also known as Nandikeshwara or Nandideva, is the bull vahana of the Hindu god Shiva. He is also the Dvarapala|guardian deity of Mount Kailash|Kailash, the abode of Shiva. Almost all Shiva temples display stone-images of a seated Nandi, generally facing the main shrine.",
@@ -3303,6 +3670,7 @@
 "children": "|access-date=14 November 2010 |archive-url=https://web.archive.org/web/20131004215927/http://www.lcuk.org.uk/history.htm |archive-date=4 October 2013 |url-status=dead </ref> and his twin brother Kusha |Kusha, are the children of Rama and Sita in Hindus|Hindu tradition.</ref> Their story is recounted in the Hindu epic, Ramayana and Versions of Ramayana|its other versions. He is said to have a whitish golden complexion like their mother, while Kusha had a blackish complexion like their father."
 },
 {
+"type": "Greek",
 "name": "Teucer",
 "god": "Eponymous king of Teucria",
 "abode": "Crete or Attica, later Teucria (Troad)",
@@ -3312,6 +3680,7 @@
 "children": "Batea of Troad|Batea or Arisbe |Arisbe"
 },
 {
+"type": "Hindu",
 "name": "Kamadeva",
 "god": "God of Love, Desire and Pleasure",
 "abode": "Kamaloka",
@@ -3321,6 +3690,7 @@
 "children": "Harsha and Yasha <!--Blacklinked in Rati-->"
 },
 {
+"type": "Hindu",
 "name": "Veer Teja",
 "god": "Hindu",
 "abode": "",
@@ -3330,6 +3700,7 @@
 "children": "Harsha and Yasha <!--Blacklinked in Rati-->"
 },
 {
+"type": "Greek",
 "name": "Thasus",
 "god": "Eponym of Thasos (town)|Thasos",
 "abode": "Phoenicia",
@@ -3339,6 +3710,7 @@
 "children": "Harsha and Yasha <!--Blacklinked in Rati-->"
 },
 {
+"type": "Hindu",
 "name": "Jagatdhatri / Jagadhatri",
 "god": "Eponym of Thasos (town)|Thasos",
 "abode": "Phoenicia",
@@ -3348,6 +3720,7 @@
 "children": "Harsha and Yasha <!--Blacklinked in Rati-->"
 },
 {
+"type": "Hindu",
 "name": "Trishanku",
 "god": "Eponym of Thasos (town)|Thasos",
 "abode": "Phoenicia",
@@ -3357,6 +3730,7 @@
 "children": "Harishchandra"
 },
 {
+"type": "Hindu",
 "name": "Meenakshi",
 "god": "Patron Goddess of Madurai",
 "abode": "Madurai",
@@ -3366,6 +3740,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Meenakshi",
 "god": "Patron Goddess of Madurai",
 "abode": "Madurai",
@@ -3375,6 +3750,7 @@
 "children": "Aruna is found in different, inconsistent Indian legends. In the epic Mahabharata,. 55</ref> he was born prematurely and partially developed from an egg. According to this version, Kashyapa Prajapati's two wives Vinata and Kadru wanted to have children. Kashyapa granted them a boon.</ref> Kadru asked for one thousand 'Dirghadeha'  N\u0101ga  sons, while Vinata wanted only two yet extremely strong 'Divyadeha' . Kashyapa blessed them, and then went away to a forest. Later, Kadru gave birth to one thousand eggs,"
 },
 {
+"type": "Greek",
 "name": "Lelex",
 "god": "First king of Laconia|Lelegia",
 "abode": "Lelegia (later called Laconia)",
@@ -3384,6 +3760,7 @@
 "children": "Lelex was said to be autochthon |autochthonous<ref>Bibliotheca (Pseudo-Apollodorus)|Apollodorus, [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+3.10.3 3.10.3]</ref> or his father was the sun-god Helios or the sea-god Poseidon.<ref name=\":0\">Beck, p. [https://books.google.com/books?id=HGvqDwAAQBAJ&pg=PA59 59]</ref> He was married to the Naiad nymph Cleocharia and became the father of several sons, including Eurotas,<ref>Bibliotheca (Pseudo-Apollodorus)|Apollodorus, 3.10.3</ref> and possibly Myles and Polycaon.<ref>Pausanias |Pausanias, 3.1.1, 3.20.2, 4.1.1 & 4.1.5 </ref> Some called his wife Peridia and their children were Myles, Polyclon, Bomolochus |Bomolochus and Therapne |Therapne.<ref>Scholia ad Euripides, Orestes |Orestes 61.5</ref>"
 },
 {
+"type": "Hindu",
 "name": "Guruvayurappan",
 "god": "God of PreservationGod of Guruvayur",
 "abode": "Vaikuntha",
@@ -3393,6 +3770,7 @@
 "children": "Lelex was said to be autochthon |autochthonous<ref>Bibliotheca (Pseudo-Apollodorus)|Apollodorus, [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+3.10.3 3.10.3]</ref> or his father was the sun-god Helios or the sea-god Poseidon.<ref name=\":0\">Beck, p. [https://books.google.com/books?id=HGvqDwAAQBAJ&pg=PA59 59]</ref> He was married to the Naiad nymph Cleocharia and became the father of several sons, including Eurotas,<ref>Bibliotheca (Pseudo-Apollodorus)|Apollodorus, 3.10.3</ref> and possibly Myles and Polycaon.<ref>Pausanias |Pausanias, 3.1.1, 3.20.2, 4.1.1 & 4.1.5 </ref> Some called his wife Peridia and their children were Myles, Polyclon, Bomolochus |Bomolochus and Therapne |Therapne.<ref>Scholia ad Euripides, Orestes |Orestes 61.5</ref>"
 },
 {
+"type": "Hindu",
 "name": "Guruvayurappan",
 "god": "",
 "abode": "Vaikuntha",
@@ -3402,6 +3780,7 @@
 "children": "Lelex was said to be autochthon |autochthonous<ref>Bibliotheca (Pseudo-Apollodorus)|Apollodorus, [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+3.10.3 3.10.3]</ref> or his father was the sun-god Helios or the sea-god Poseidon.<ref name=\":0\">Beck, p. [https://books.google.com/books?id=HGvqDwAAQBAJ&pg=PA59 59]</ref> He was married to the Naiad nymph Cleocharia and became the father of several sons, including Eurotas,<ref>Bibliotheca (Pseudo-Apollodorus)|Apollodorus, 3.10.3</ref> and possibly Myles and Polycaon.<ref>Pausanias |Pausanias, 3.1.1, 3.20.2, 4.1.1 & 4.1.5 </ref> Some called his wife Peridia and their children were Myles, Polyclon, Bomolochus |Bomolochus and Therapne |Therapne.<ref>Scholia ad Euripides, Orestes |Orestes 61.5</ref>"
 },
 {
+"type": "Greek",
 "name": "Myles",
 "god": "King of Laconia",
 "abode": "Lelegia (later called Laconia)",
@@ -3411,6 +3790,7 @@
 "children": "Eurotas"
 },
 {
+"type": "Greek",
 "name": "Sparta",
 "god": "Queen of Sparta|Lacedaemon",
 "abode": "Laconia",
@@ -3420,6 +3800,7 @@
 "children": "Amyclas of Sparta|Amyclas and Eurydice of Argos|Eurydice"
 },
 {
+"type": "Hindu",
 "name": "Jalandhara",
 "god": "Queen of Sparta|Lacedaemon",
 "abode": "Laconia",
@@ -3429,6 +3810,7 @@
 "children": "Amyclas of Sparta|Amyclas and Eurydice of Argos|Eurydice"
 },
 {
+"type": "Greek",
 "name": "Cleocharia",
 "god": "Naiad queen of Laconia|Lelegia",
 "abode": "Lelegia (later called Laconia)",
@@ -3438,6 +3820,7 @@
 "children": "In some accounts, Lelex's two children were Myles and Polycaon possibly by Cleocharia. In this account, Myles was the father of Eurotas instead.<ref>Pausanias |Pausanias, 3.1.1, 3.20.2, 4.1.1 & 4.1.5</ref>"
 },
 {
+"type": "Greek",
 "name": "Iphimedia",
 "god": "Princess of Ancient Thessaly|Thessaly",
 "abode": "Thessaly",
@@ -3447,6 +3830,7 @@
 "children": "Aloadae , Aloadae and Pancratis"
 },
 {
+"type": "Hindu",
 "name": "Mohini",
 "god": "Princess of Ancient Thessaly|Thessaly",
 "abode": "Thessaly",
@@ -3456,6 +3840,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Aether",
 "god": "Primordial god and personification of the Upper Sky",
 "abode": "Thessaly",
@@ -3465,6 +3850,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Bellona",
 "god": "Goddess of War, Destruction, Conquest, and Bloodlust",
 "abode": "",
@@ -3474,6 +3860,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Ketu",
 "god": "Lunar eclipses, South Lunar NodeBody of Svarbhanu",
 "abode": "Ketuloka",
@@ -3483,6 +3870,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Tripura Sundari",
 "god": "Mother Goddess;One of the Highest Forms of MahadeviThe Governess of the Universe",
 "abode": "Manidvipa / \u015ar\u012b Nagara",
@@ -3492,6 +3880,7 @@
 "children": "Bala Tripurasundari"
 },
 {
+"type": "Hindu",
 "name": "Tripura Sundari",
 "god": "Mother Goddess;One of the Highest Forms of MahadeviThe Governess of the Universe",
 "abode": "Manidvipa / \u015ar\u012b Nagara",
@@ -3501,6 +3890,7 @@
 "children": "Krishna, Balarama (foster-children),Yogamaya"
 },
 {
+"type": "Hindu",
 "name": "Tripura Sundari",
 "god": "Mother Goddess;One of the Highest Forms of MahadeviThe Governess of the Universe",
 "abode": "Manidvipa / \u015ar\u012b Nagara",
@@ -3510,6 +3900,7 @@
 "children": "Sita, Urmila"
 },
 {
+"type": "Hindu",
 "name": "Tripura Sundari",
 "god": "Mother Goddess;One of the Highest Forms of MahadeviThe Governess of the Universe",
 "abode": "Svarga",
@@ -3519,6 +3910,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Perumal",
 "god": "God of Vaikuntha",
 "abode": "Vaikuntha and other 108 Divya Desams",
@@ -3528,6 +3920,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Perumal",
 "god": "God of Vaikuntha",
 "abode": "Lanka",
@@ -3537,6 +3930,7 @@
 "children": "Meghanada and Akshayakumara"
 },
 {
+"type": "Hindu",
 "name": "Perumal",
 "god": "King of Lanka",
 "abode": "Lanka",
@@ -3546,6 +3940,7 @@
 "children": "Trijata , Taranisena , Neela"
 },
 {
+"type": "Hindu",
 "name": "Perumal",
 "god": "King of Lanka",
 "abode": "Lanka",
@@ -3555,6 +3950,7 @@
 "children": "Vikukshi, Nimi |Nimi, and other 98 sons"
 },
 {
+"type": "Hindu",
 "name": "Sita",
 "god": "King of Lanka",
 "abode": "Ayodhya, Saketa",
@@ -3564,6 +3960,7 @@
 "children": "Lava |Lava , Kusha |Kusha"
 },
 {
+"type": "Hindu",
 "name": "Guru Jambheshwar Bhagwan",
 "god": "King of Lanka",
 "abode": "Ayodhya, Saketa",
@@ -3573,6 +3970,7 @@
 "children": "Lava |Lava , Kusha |Kusha"
 },
 {
+"type": "Hindu",
 "name": "Kamakhya",
 "god": "Goddess of Creative Power, Desire and Fertility",
 "abode": "Kamakhya, a mother goddess, Her abode}}Kamakhya Temple is located in the Kamarupa region of Assam, India.<ref name=\"urban256\">\"Seated on top of N\u012blacala hill on the banks of the Brahmaputra river in the state of Assam, Northeast India, Kamakhya temple is one of the oldest and most revered centres of Tantric practice in South Asia. Since at least the eighth century, the region of Kamarupa (the \u2018place\u2019 or \u2018form of desire\u2019, or Assam",
@@ -3582,6 +3980,7 @@
 "children": "Lava |Lava , Kusha |Kusha"
 },
 {
+"type": "Hindu",
 "name": "Madurai Veeran",
 "god": "",
 "abode": "",
@@ -3591,6 +3990,7 @@
 "children": "Lava |Lava , Kusha |Kusha"
 },
 {
+"type": "Hindu",
 "name": "Madurai Veeran",
 "god": "",
 "abode": "",
@@ -3600,6 +4000,7 @@
 "children": "Balarama , Sarana, Sharu, Durmada<ref></ref> ,"
 },
 {
+"type": "Hindu",
 "name": "Dushyant",
 "god": "",
 "abode": "",
@@ -3609,6 +4010,7 @@
 "children": "Bharata |Bharata"
 },
 {
+"type": "Hindu",
 "name": "Nara-Narayana",
 "god": "",
 "abode": "Badrinath",
@@ -3618,6 +4020,7 @@
 "children": "Bharata |Bharata"
 },
 {
+"type": "Hindu",
 "name": "Chitragupta",
 "god": "",
 "abode": "Badrinath",
@@ -3627,6 +4030,7 @@
 "children": "Bharata |Bharata"
 },
 {
+"type": "Hindu",
 "name": "Chitragupta",
 "god": "",
 "abode": "River Nile in Egypt",
@@ -3636,6 +4040,7 @@
 "children": "Bharata |Bharata"
 },
 {
+"type": "Hindu",
 "name": "Sati",
 "god": "Goddess of Power, Marital Felicity and Longevity",
 "abode": "Mount Kailash",
@@ -3645,6 +4050,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Vishvakarma",
 "god": "Architect of the Deva (Hinduism)|devas",
 "abode": "Svarga",
@@ -3654,6 +4060,7 @@
 "children": "Sanjna, Trisiras|Vishvarupa, Barhismati, Chitrangada, Nala |Nala"
 },
 {
+"type": "Hindu",
 "name": "Chandi",
 "god": "The fiery destructive power of Shakti",
 "abode": "Svarga",
@@ -3663,6 +4070,7 @@
 "children": "Sanjna, Trisiras|Vishvarupa, Barhismati, Chitrangada, Nala |Nala"
 },
 {
+"type": "Hindu",
 "name": "Sanjna",
 "god": "Goddess of Clouds and Twilight",
 "abode": "Svarga",
@@ -3672,6 +4080,7 @@
 "children": "Yama |Yama, Yamuna in Hinduism|Yami, Ashvins, Shraddhadeva Manu and Revanta"
 },
 {
+"type": "Hindu",
 "name": "Shravana Kumara",
 "god": "Goddess of Clouds and Twilight",
 "abode": "Svarga",
@@ -3681,6 +4090,7 @@
 "children": "Yama |Yama, Yamuna in Hinduism|Yami, Ashvins, Shraddhadeva Manu and Revanta"
 },
 {
+"type": "Hindu",
 "name": "Shravana Kumara",
 "god": "The Heavenly Builder  The Maker of Divine Implements  Lord of the Womb",
 "abode": "Svarga",
@@ -3690,6 +4100,7 @@
 "children": "Children including Saranyu, Trisiras|Visvarupa and Vritra"
 },
 {
+"type": "Hindu",
 "name": "Revanta",
 "god": "The divine master of horses",
 "abode": "Himalaya",
@@ -3699,6 +4110,7 @@
 "children": "Children including Saranyu, Trisiras|Visvarupa and Vritra"
 },
 {
+"type": "Hindu",
 "name": "Sharabha",
 "god": "",
 "abode": "Himalaya",
@@ -3708,6 +4120,7 @@
 "children": "Children including Saranyu, Trisiras|Visvarupa and Vritra"
 },
 {
+"type": "Hindu",
 "name": "Sharabha",
 "god": "Protects against snake bites",
 "abode": "Dadrewa, Gogamedi, Rajasthan, India.",
@@ -3717,6 +4130,7 @@
 "children": "Children including Saranyu, Trisiras|Visvarupa and Vritra"
 },
 {
+"type": "Hindu",
 "name": "Sharabha",
 "god": "Protects against snake bites",
 "abode": "Dadrewa, Gogamedi, Rajasthan, India.",
@@ -3726,6 +4140,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Sharabha",
 "god": "Guru of the Asuras, Worship  Venus (planet)| Venus",
 "abode": "Patala Loka",
@@ -3735,6 +4150,7 @@
 "children": "Devayani, Ar\u0101, Shanda, Tvasthadhar and Marka<ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Muthappan",
 "god": "<!--No historical or mythological reference available-->",
 "abode": "Kunnathurpadi",
@@ -3744,6 +4160,7 @@
 "children": "<!--No historical or mythological reference available-->"
 },
 {
+"type": "Hindu",
 "name": "Mahakala",
 "god": "God of Time, Maya, Creation, Destruction and Power",
 "abode": "Shmashana|\u015ama\u015b\u0101na (but varies by interpretation)",
@@ -3753,6 +4170,7 @@
 "children": "<!--No historical or mythological reference available-->"
 },
 {
+"type": "Hindu",
 "name": "Bhagiratha",
 "god": "",
 "abode": "Shmashana|\u015ama\u015b\u0101na (but varies by interpretation)",
@@ -3762,6 +4180,7 @@
 "children": "\u015aruta , Ha\u1e43s\u012b"
 },
 {
+"type": "Hindu",
 "name": "Danu",
 "god": "",
 "abode": "Shmashana|\u015ama\u015b\u0101na (but varies by interpretation)",
@@ -3771,6 +4190,7 @@
 "children": "In the Padma Purana, the children of Danu are described:<ref>{{Cite web |last=www.wisdomlib.org |date=2019-07-30 Birth of Devas, Daityas, Birds and Serpents etc. [Chapter 6] |url=https://www.wisdomlib.org/hinduism/book/the-padma-purana/d/doc36"
 },
 {
+"type": "Hindu",
 "name": "Danu",
 "god": "",
 "abode": "Shmashana|\u015ama\u015b\u0101na (but varies by interpretation)",
@@ -3780,6 +4200,7 @@
 "children": "Yadu, Turvashu, Anudruhyu, Druhyu, King Puru|Puru ,Madhavi"
 },
 {
+"type": "Hindu",
 "name": "Danu",
 "god": "",
 "abode": "Shmashana|\u015ama\u015b\u0101na (but varies by interpretation)",
@@ -3789,6 +4210,7 @@
 "children": "Babhru, Sighraga <ref></ref>"
 },
 {
+"type": "Greek",
 "name": "Aceso",
 "god": "Goddess of the healing process and curing of sickness",
 "abode": "",
@@ -3798,6 +4220,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Aceso",
 "god": "Goddess of the healing process and curing of sickness",
 "abode": "",
@@ -3807,6 +4230,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Jahnu",
 "god": "Goddess of the healing process and curing of sickness",
 "abode": "",
@@ -3816,6 +4240,7 @@
 "children": "Bal\u0101k\u0101\u015bva, Sunand\u0101, Ajaka"
 },
 {
+"type": "Hindu",
 "name": "Jahnu",
 "god": "Goddess of the healing process and curing of sickness",
 "abode": "",
@@ -3825,6 +4250,7 @@
 "children": "Bal\u0101k\u0101\u015bva, Sunand\u0101, Ajaka"
 },
 {
+"type": "Hindu",
 "name": "Navadurga",
 "god": "Power, strength, protection, knowledge, wealth, fertility and Moksha",
 "abode": "Manidvipa and Kailasa|Mount Kailash",
@@ -3834,6 +4260,7 @@
 "children": "Bal\u0101k\u0101\u015bva, Sunand\u0101, Ajaka"
 },
 {
+"type": "Hindu",
 "name": "Bhadrakali",
 "god": "",
 "abode": "Kailasha, Manidvipa",
@@ -3843,6 +4270,7 @@
 "children": "Bal\u0101k\u0101\u015bva, Sunand\u0101, Ajaka"
 },
 {
+"type": "Greek",
 "name": "Actaeus",
 "god": "King of Attica",
 "abode": "Attica",
@@ -3852,6 +4280,7 @@
 "children": "Bal\u0101k\u0101\u015bva, Sunand\u0101, Ajaka"
 },
 {
+"type": "Hindu",
 "name": "Actaeus",
 "god": "King of Attica",
 "abode": "Attica",
@@ -3861,6 +4290,7 @@
 "children": "Bal\u0101k\u0101\u015bva, Sunand\u0101, Ajaka"
 },
 {
+"type": "Greek",
 "name": "Antenor",
 "god": "Troy|Trojan Elder",
 "abode": "Troy",
@@ -3870,6 +4300,7 @@
 "children": "Archelochus, Acamas |Acamas, Glaucus |Glaucus, Helicaon, Laodocus, Polybus |Polybus, Agenor of Troy|Agenor, Iphidamas, Co\u00f6n, Laodamas, Demoleon, Eurymachus, Medon |Medon, Thersilochus and Crino, Pedaeus"
 },
 {
+"type": "Hindu",
 "name": "Vibhandaka",
 "god": "Troy|Trojan Elder",
 "abode": "Troy",
@@ -3879,6 +4310,7 @@
 "children": "Rishyashringa"
 },
 {
+"type": "Hindu",
 "name": "Shibi",
 "god": "Troy|Trojan Elder",
 "abode": "Troy",
@@ -3888,6 +4320,7 @@
 "children": "Kapotaroma"
 },
 {
+"type": "Greek",
 "name": "Aion or Aeon",
 "god": "God of Perpetual Time, Eternity, and Zodiac",
 "abode": "beyond the celestial sphere",
@@ -3897,6 +4330,7 @@
 "children": "Aion, god of the ages, in a celestial sphere decorated with zodiacal signs, between a green and a dismantled tree . Before him is the mother-earth Tellus  with four children, the four seasons personified"
 },
 {
+"type": "Hindu",
 "name": "Himavat",
 "god": "",
 "abode": "Himalayas",
@@ -3906,6 +4340,7 @@
 "children": "Ganga in Hinduism|Ganga,Parvati,Mount Mainak|Mainaka,Krau\u00f1ja<ref>https://www.wisdomlib.org/definition/himavan</ref>"
 },
 {
+"type": "Hindu",
 "name": "Vedavati",
 "god": "Possessor of the Vedas",
 "abode": "Himalayas",
@@ -3915,6 +4350,7 @@
 "children": "Ganga in Hinduism|Ganga,Parvati,Mount Mainak|Mainaka,Krau\u00f1ja<ref>https://www.wisdomlib.org/definition/himavan</ref>"
 },
 {
+"type": "Hindu",
 "name": "Bharata",
 "god": "Possessor of the Vedas",
 "abode": "Himalayas",
@@ -3924,6 +4360,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Bharata",
 "god": "Possessor of the Vedas",
 "abode": "Himalayas",
@@ -3933,6 +4370,7 @@
 "children": "Bhumanyu, Bharadvaja"
 },
 {
+"type": "Greek",
 "name": "Melaneus",
 "god": "Famous archer, founder of Oechalia and King of the Dryopes",
 "abode": "",
@@ -3942,6 +4380,7 @@
 "children": "Eurytus and Ambracia |Ambracia"
 },
 {
+"type": "Hindu",
 "name": "Rambha",
 "god": "Famous archer, founder of Oechalia and King of the Dryopes",
 "abode": "Svarga",
@@ -3951,6 +4390,7 @@
 "children": "Eurytus and Ambracia |Ambracia"
 },
 {
+"type": "Hindu",
 "name": "Lakshmi Narayana",
 "god": "",
 "abode": "Lakshmi Narayana or Lakshmi-Narayan (-sa|\u0932\u0915\u094d\u0937\u094d\u092e\u0940-\u0928\u093e\u0930\u093e\u092f\u0923}}, IAST: }}) is the dual representation of the Hinduism|Hindu deities Vishnu, also known as Narayana, and his consort, Lakshmi, traditionally featured in their abode, Vaikuntha. The goddess of prosperity and beauty, Lakshmi, is depicted as standing next to Vishnu, who holds the Panchajanya, Kaumodaki, Padma (Vishnu)|Padma, and the Sudarshana Chakra. Another depiction of Lakshmi-Narayana portrays Lakshmi in the service of Nara",
@@ -3960,6 +4400,7 @@
 "children": "Eurytus and Ambracia |Ambracia"
 },
 {
+"type": "Hindu",
 "name": "Satyaki",
 "god": "",
 "abode": "Lakshmi Narayana or Lakshmi-Narayan (-sa|\u0932\u0915\u094d\u0937\u094d\u092e\u0940-\u0928\u093e\u0930\u093e\u092f\u0923}}, IAST: }}) is the dual representation of the Hinduism|Hindu deities Vishnu, also known as Narayana, and his consort, Lakshmi, traditionally featured in their abode, Vaikuntha. The goddess of prosperity and beauty, Lakshmi, is depicted as standing next to Vishnu, who holds the Panchajanya, Kaumodaki, Padma (Vishnu)|Padma, and the Sudarshana Chakra. Another depiction of Lakshmi-Narayana portrays Lakshmi in the service of Nara",
@@ -3969,6 +4410,7 @@
 "children": "Jaya"
 },
 {
+"type": "Hindu",
 "name": "Hi\u1e0dimba",
 "god": "",
 "abode": "Kamyaka Forest|K\u0101myaka Forest",
@@ -3978,6 +4420,7 @@
 "children": "Jaya"
 },
 {
+"type": "Hindu",
 "name": "Khandoba",
 "god": "",
 "abode": "Jejuri",
@@ -3987,6 +4430,7 @@
 "children": "Jaya"
 },
 {
+"type": "Hindu",
 "name": "Khandoba",
 "god": "",
 "abode": "Jejuri",
@@ -3996,6 +4440,7 @@
 "children": "U\u1e63\u0101|Usha"
 },
 {
+"type": "Hindu",
 "name": "Khandoba",
 "god": "",
 "abode": "Jejuri",
@@ -4005,6 +4450,7 @@
 "children": "U\u1e63\u0101|Usha"
 },
 {
+"type": "Hindu",
 "name": "Khandoba",
 "god": "Goddess of the Fallen",
 "abode": "",
@@ -4014,6 +4460,7 @@
 "children": "\u1e5auma\u1e47v\u0101n, Suhotra, Vasu, Vi\u015bv\u0101vasu, Parashurama<ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Khandoba",
 "god": "Goddess of the Earth",
 "abode": "Dv\u0101rak\u0101",
@@ -4023,6 +4470,7 @@
 "children": "\u1e5auma\u1e47v\u0101n, Suhotra, Vasu, Vi\u015bv\u0101vasu, Parashurama<ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Khandoba",
 "god": "Gatekeepers of Vaikuntha",
 "abode": "In Hinduism, Jaya and Vijaya are the two ''Dvarapala|dvarapalakas'' (gatekeepers) of the abode of Vishnu, known as Vaikuntha (meaning ''place of eternal bliss''). Due to a curse by the four Kumaras, they were forced to undergo multiple births as mortals who would be subsequently killed by various avatars of Vishnu. They were incarnated as Hiranyakashipu and Hiranyaksha in the Satya Yuga, Ravana and Kumbhakarna in the Treta Yuga, and finally Shishupala and Dantavakra in the Dvapara Yuga.<ref> web|date=2014-06-12|title=Story of three births of Jay and Vijay who were gatekeepers of Vaikuntha Lok|url=https://iskcondesiretree.com/profiles/blogs/story-of-three-births-of-jay-and-vijay-who-were-gatekeepers-of|access-date=2021-05-14|website=ISKCON Desire Tree !}}",
@@ -4032,6 +4480,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Katyayani",
 "god": "Goddess of Power",
 "abode": "",
@@ -4041,6 +4490,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Katyayani",
 "god": "Goddess of Power",
 "abode": "",
@@ -4050,6 +4500,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Padmavati",
 "god": "Mother Goddess",
 "abode": "Tirumala",
@@ -4059,6 +4510,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Cepheus",
 "god": "King of Aethiopia",
 "abode": "Tirumala",
@@ -4068,6 +4520,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Raktab\u012bja",
 "god": "King of Aethiopia",
 "abode": "Tirumala",
@@ -4077,6 +4530,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Santoshi Mata",
 "god": "Goddess of satisfaction",
 "abode": "Ganeshloka",
@@ -4086,6 +4540,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Kritavarma",
 "god": "Goddess of satisfaction",
 "abode": "Ganeshloka",
@@ -4095,6 +4550,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Kritavarma",
 "god": "",
 "abode": "Ganeshloka",
@@ -4104,6 +4560,7 @@
 "children": "Legends of Kadru detail her relationship with her elder sister Vinata, who was also one of Kashyapa's many wives. In one story, Kadru and Vinata vie to bear the children of Kashyapa who are more powerful than the other. While Kadru gives birth to a thousand nagas, Vinata bears two sons, Aru\u1e47a and Garuda. Kadru is also portrayed as more scheming and wily than Vinata. She challenges Vinata to guess the colour of the tail of Uchchaihshravas, the divine white horse. After Vinata says the tail is white, Kadru tricks Vinata by directing her sons to coil around t"
 },
 {
+"type": "Hindu",
 "name": "Shani",
 "god": "Saturn",
 "abode": "Shaniloka",
@@ -4113,6 +4570,7 @@
 "children": "Legends of Kadru detail her relationship with her elder sister Vinata, who was also one of Kashyapa's many wives. In one story, Kadru and Vinata vie to bear the children of Kashyapa who are more powerful than the other. While Kadru gives birth to a thousand nagas, Vinata bears two sons, Aru\u1e47a and Garuda. Kadru is also portrayed as more scheming and wily than Vinata. She challenges Vinata to guess the colour of the tail of Uchchaihshravas, the divine white horse. After Vinata says the tail is white, Kadru tricks Vinata by directing her sons to coil around t"
 },
 {
+"type": "Hindu",
 "name": "Devi Kanya Kumari",
 "god": "",
 "abode": "Kanyakumari",
@@ -4122,6 +4580,7 @@
 "children": "Legends of Kadru detail her relationship with her elder sister Vinata, who was also one of Kashyapa's many wives. In one story, Kadru and Vinata vie to bear the children of Kashyapa who are more powerful than the other. While Kadru gives birth to a thousand nagas, Vinata bears two sons, Aru\u1e47a and Garuda. Kadru is also portrayed as more scheming and wily than Vinata. She challenges Vinata to guess the colour of the tail of Uchchaihshravas, the divine white horse. After Vinata says the tail is white, Kadru tricks Vinata by directing her sons to coil around t"
 },
 {
+"type": "Hindu",
 "name": "Devi Kanya Kumari",
 "god": "",
 "abode": "Kanyakumari",
@@ -4131,6 +4590,7 @@
 "children": "Yadu, Turvashas|Turvasu, Yayati#Children of Devayani|Madhavi"
 },
 {
+"type": "Hindu",
 "name": "Matrika",
 "god": "Goddesses of War, Children and Emancipation.",
 "abode": "",
@@ -4140,6 +4600,7 @@
 "children": "Yadu, Turvashas|Turvasu, Yayati#Children of Devayani|Madhavi"
 },
 {
+"type": "Hindu",
 "name": "Karni Mata",
 "god": "Goddess of Power and Victory",
 "abode": "Western Rajasthan(Marwar and Bikaner)",
@@ -4149,6 +4610,7 @@
 "children": "Yadu, Turvashas|Turvasu, Yayati#Children of Devayani|Madhavi"
 },
 {
+"type": "Hindu",
 "name": "Harita",
 "god": "Goddess of Power and Victory",
 "abode": "Western Rajasthan(Marwar and Bikaner)",
@@ -4158,6 +4620,7 @@
 "children": "Yadu, Turvashas|Turvasu, Yayati#Children of Devayani|Madhavi"
 },
 {
+"type": "Hindu",
 "name": "Shurpanakha",
 "god": "Goddess of Power and Victory",
 "abode": "Lanka (Ramayana)|Lanka",
@@ -4167,6 +4630,7 @@
 "children": "Yadu, Turvashas|Turvasu, Yayati#Children of Devayani|Madhavi"
 },
 {
+"type": "Hindu",
 "name": "Nagaraja",
 "god": "",
 "abode": "Patala",
@@ -4176,6 +4640,7 @@
 "children": "Hindu texts refer to three main beings by this title: Shesha, Takshaka, and Vasuki. All of them are the children of  the rishi Kashyapa and Kadru."
 },
 {
+"type": "Roman",
 "name": "Nagaraja",
 "god": "Goddess of enjoyment, sensual pleasure, bliss and delight",
 "abode": "Patala",
@@ -4185,6 +4650,7 @@
 "children": "Hindu texts refer to three main beings by this title: Shesha, Takshaka, and Vasuki. All of them are the children of  the rishi Kashyapa and Kadru."
 },
 {
+"type": "Greek",
 "name": "The Machae",
 "god": "Personifications of Battle",
 "abode": "Greek underworld|Underworld (possibly)",
@@ -4194,6 +4660,7 @@
 "children": "The Machai were the children of Eris |Eris<ref>Hesiod, Theogony 228</ref> and siblings to other vicious personifications like the Hysminai, the Androktasiai, and the Phonoi."
 },
 {
+"type": "Hindu",
 "name": "Urmila",
 "god": "Personifications of Battle",
 "abode": "Greek underworld|Underworld (possibly)",
@@ -4203,6 +4670,7 @@
 "children": "Angada (Lakshmana's son)|Angada , Chandraketu<ref>[http://www.sacred-texts.com/hin/dutt/ramaconc.htm Ramayana \u2013 Conclusion], translated by Romesh C. Dutt </ref> Somada"
 },
 {
+"type": "Hindu",
 "name": "Urmila",
 "god": "Gods of Health and Medicine",
 "abode": "Greek underworld|Underworld (possibly)",
@@ -4212,6 +4680,7 @@
 "children": "There are varying accounts, but Ashvins are generally mentioned as the sons of the sun god Surya and his wife Sanjna. In the epic Mahabharata, the Pandava twins Nakula and Sahadeva were the children of the Ashvins."
 },
 {
+"type": "Hindu",
 "name": "Pabhuji Ki Phad",
 "god": "Rabari tribals",
 "abode": "Rajasthan",
@@ -4221,6 +4690,7 @@
 "children": "There are varying accounts, but Ashvins are generally mentioned as the sons of the sun god Surya and his wife Sanjna. In the epic Mahabharata, the Pandava twins Nakula and Sahadeva were the children of the Ashvins."
 },
 {
+"type": "Hindu",
 "name": "Pabhuji Ki Phad",
 "god": "Rabari tribals",
 "abode": "Rajasthan",
@@ -4230,6 +4700,7 @@
 "children": "There are varying accounts, but Ashvins are generally mentioned as the sons of the sun god Surya and his wife Sanjna. In the epic Mahabharata, the Pandava twins Nakula and Sahadeva were the children of the Ashvins."
 },
 {
+"type": "Hindu",
 "name": "Ranganayaki",
 "god": "Rabari tribals",
 "abode": "Vaikuntha",
@@ -4239,6 +4710,7 @@
 "children": "There are varying accounts, but Ashvins are generally mentioned as the sons of the sun god Surya and his wife Sanjna. In the epic Mahabharata, the Pandava twins Nakula and Sahadeva were the children of the Ashvins."
 },
 {
+"type": "Greek",
 "name": "Perses",
 "god": "",
 "abode": "",
@@ -4248,6 +4720,7 @@
 "children": "Hecate, Chariclo"
 },
 {
+"type": "Greek",
 "name": "Babalon",
 "god": "Mother of Abominations",
 "abode": "",
@@ -4257,6 +4730,7 @@
 "children": ""
 },
 {
+"type": "Greek/Roman",
 "name": "Glycon",
 "god": "",
 "abode": "",
@@ -4266,6 +4740,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Glycon",
 "god": "",
 "abode": "",
@@ -4275,6 +4750,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Tilottama",
 "god": "",
 "abode": "Svarga (heaven)",
@@ -4284,6 +4760,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Alcyone",
 "god": "The Ancient Elis|Elean Pleiades|Pleiad Nymph",
 "abode": "Mount Kyllini|Mt. Cyllene on Arcadia (region)|Arcadia, later",
@@ -4293,6 +4770,7 @@
 "children": "Oenomaus and Evenus of Aetolia|Evenus, Hippodamia |Hippodamia"
 },
 {
+"type": "Hindu",
 "name": "Vithoba Vitthala",
 "god": "The Ancient Elis|Elean Pleiades|Pleiad Nymph",
 "abode": "Pandharpur",
@@ -4302,6 +4780,7 @@
 "children": "Oenomaus and Evenus of Aetolia|Evenus, Hippodamia |Hippodamia"
 },
 {
+"type": "Hindu",
 "name": "Vithoba Vitthala",
 "god": "The Ancient Elis|Elean Pleiades|Pleiad Nymph",
 "abode": "Deotsidh, Gufa-Baba Balak Nath, Hamirpur district, Himachal Pradesh|Hamirpur District, Himachal Pradesh, India",
@@ -4311,6 +4790,7 @@
 "children": "Oenomaus and Evenus of Aetolia|Evenus, Hippodamia |Hippodamia"
 },
 {
+"type": "Hindu",
 "name": "Bhringi",
 "god": "The Ancient Elis|Elean Pleiades|Pleiad Nymph",
 "abode": "According to the Shiva Purana and Tamil language|Tamil Sthala purana|Sthala Puranas, all the rishis who paid homage to Shiva also offered their veneration to Parvati, the consort of Shiva. One day, Sage Bhringi visited Mount Kailash|Kail\u0101sa, the abode of Shiva, and expressed his desire to circumambulate only Shiva. As he started to go around Shiva, Parvati required that he circumambulate her as well, stating that they were two halves of the same being. Bhringi, however, was so focused on Shiva that he had no desire to go around Parvati. Observing this, Parvati sat on Shiva's lap, making it difficult for Bhringi to go around Shiva alone. Undeterred, Bhringi assumed the form of a female beetle (Bh\u1e5b\u1e45g\u012b) and attempted to fly between the two. Infuriated, Parvati cursed the sage to become physically weak, which caused him to collapse, unable to support his bo",
@@ -4320,6 +4800,7 @@
 "children": "Oenomaus and Evenus of Aetolia|Evenus, Hippodamia |Hippodamia"
 },
 {
+"type": "Hindu",
 "name": "Anaranya",
 "god": "The Ancient Elis|Elean Pleiades|Pleiad Nymph",
 "abode": "According to the Shiva Purana and Tamil language|Tamil Sthala purana|Sthala Puranas, all the rishis who paid homage to Shiva also offered their veneration to Parvati, the consort of Shiva. One day, Sage Bhringi visited Mount Kailash|Kail\u0101sa, the abode of Shiva, and expressed his desire to circumambulate only Shiva. As he started to go around Shiva, Parvati required that he circumambulate her as well, stating that they were two halves of the same being. Bhringi, however, was so focused on Shiva that he had no desire to go around Parvati. Observing this, Parvati sat on Shiva's lap, making it difficult for Bhringi to go around Shiva alone. Undeterred, Bhringi assumed the form of a female beetle (Bh\u1e5b\u1e45g\u012b) and attempted to fly between the two. Infuriated, Parvati cursed the sage to become physically weak, which caused him to collapse, unable to support his bo",
@@ -4329,6 +4810,7 @@
 "children": "Prishadashva"
 },
 {
+"type": "Hindu",
 "name": "Anasuya",
 "god": "The Ancient Elis|Elean Pleiades|Pleiad Nymph",
 "abode": "According to the Shiva Purana and Tamil language|Tamil Sthala purana|Sthala Puranas, all the rishis who paid homage to Shiva also offered their veneration to Parvati, the consort of Shiva. One day, Sage Bhringi visited Mount Kailash|Kail\u0101sa, the abode of Shiva, and expressed his desire to circumambulate only Shiva. As he started to go around Shiva, Parvati required that he circumambulate her as well, stating that they were two halves of the same being. Bhringi, however, was so focused on Shiva that he had no desire to go around Parvati. Observing this, Parvati sat on Shiva's lap, making it difficult for Bhringi to go around Shiva alone. Undeterred, Bhringi assumed the form of a female beetle (Bh\u1e5b\u1e45g\u012b) and attempted to fly between the two. Infuriated, Parvati cursed the sage to become physically weak, which caused him to collapse, unable to support his bo",
@@ -4338,6 +4820,7 @@
 "children": "Dattatreya , Chandra , Durvasa , Shubhatreyi"
 },
 {
+"type": "Greek",
 "name": "Corybas",
 "god": "",
 "abode": "Samothrace, later Phrygia",
@@ -4347,6 +4830,7 @@
 "children": "Ida |Ida"
 },
 {
+"type": "Hindu",
 "name": "Corybas",
 "god": "King of the Bears",
 "abode": "Samothrace, later Phrygia",
@@ -4356,6 +4840,7 @@
 "children": "Jambavati"
 },
 {
+"type": "Hindu",
 "name": "Angada",
 "god": "King of the Bears",
 "abode": "Samothrace, later Phrygia",
@@ -4365,6 +4850,7 @@
 "children": "Dhruva <ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Sudarshana Chakra",
 "god": "King of the Bears",
 "abode": "Samothrace, later Phrygia",
@@ -4374,6 +4860,7 @@
 "children": "Dhruva <ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Sudalai Madan",
 "god": "",
 "abode": "Cremation grounds, chariot streets, temple towers",
@@ -4383,6 +4870,7 @@
 "children": "Dhruva <ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Ayyanar",
 "god": "Guardian deity",
 "abode": "",
@@ -4392,6 +4880,7 @@
 "children": "Dhruva <ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Pidari",
 "god": "Guardian deity",
 "abode": "",
@@ -4401,6 +4890,7 @@
 "children": "Dhruva <ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Pidari",
 "god": "Guardian deity",
 "abode": "",
@@ -4410,6 +4900,7 @@
 "children": "Dhruva <ref></ref>"
 },
 {
+"type": "Hindu",
 "name": "Pidari",
 "god": "Guardian deity",
 "abode": "River Nile in Egypt",
@@ -4419,6 +4910,7 @@
 "children": "Nilus was one of 3,000 river gods children of the Titans Oceanus and his sister-wife Tethys |Tethys.<ref>Hesiod, Theogony [https://www.perseus.tufts.edu/hopper/text?doc=Hes.+Th.+337&fromdoc=Perseus%3Atext%3A1999.01.0130 337 ff]; Gaius Julius Hyginus|Hyginus, Fabulae [https://topostext.org/work/206#0.2 Preface].</ref> He was father to several children, of these included Memphis |Memphis<ref name=\":0\" /> (mother of Libya |Libya by Epaphus a king of Egypt), as well as a son named Nilus Ankhmemiphis (the father of Achiroe|Anchinoe and Telephassa)."
 },
 {
+"type": "Greek",
 "name": "Euphrosyne",
 "god": "Goddess of good cheer, joy and mirth",
 "abode": "Mount Olympus",
@@ -4428,6 +4920,7 @@
 "children": "Nilus was one of 3,000 river gods children of the Titans Oceanus and his sister-wife Tethys |Tethys.<ref>Hesiod, Theogony [https://www.perseus.tufts.edu/hopper/text?doc=Hes.+Th.+337&fromdoc=Perseus%3Atext%3A1999.01.0130 337 ff]; Gaius Julius Hyginus|Hyginus, Fabulae [https://topostext.org/work/206#0.2 Preface].</ref> He was father to several children, of these included Memphis |Memphis<ref name=\":0\" /> (mother of Libya |Libya by Epaphus a king of Egypt), as well as a son named Nilus Ankhmemiphis (the father of Achiroe|Anchinoe and Telephassa)."
 },
 {
+"type": "Hindu",
 "name": "Sheetala",
 "god": "Goddess of Ailments",
 "abode": "Mount Olympus",
@@ -4437,6 +4930,7 @@
 "children": "Nilus was one of 3,000 river gods children of the Titans Oceanus and his sister-wife Tethys |Tethys.<ref>Hesiod, Theogony [https://www.perseus.tufts.edu/hopper/text?doc=Hes.+Th.+337&fromdoc=Perseus%3Atext%3A1999.01.0130 337 ff]; Gaius Julius Hyginus|Hyginus, Fabulae [https://topostext.org/work/206#0.2 Preface].</ref> He was father to several children, of these included Memphis |Memphis<ref name=\":0\" /> (mother of Libya |Libya by Epaphus a king of Egypt), as well as a son named Nilus Ankhmemiphis (the father of Achiroe|Anchinoe and Telephassa)."
 },
 {
+"type": "Greek",
 "name": "Philotes",
 "god": "Personification of Friendship",
 "abode": "Mount Olympus",
@@ -4446,6 +4940,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Philotes",
 "god": "Personification of Friendship",
 "abode": "Mount Olympus",
@@ -4455,6 +4950,7 @@
 "children": "Subahu (Shatrughna's son)|Subahu , Shatrughati"
 },
 {
+"type": "Hindu",
 "name": "Philotes",
 "god": "Personification of Friendship",
 "abode": "Mount Olympus",
@@ -4464,6 +4960,7 @@
 "children": "Taksha, Pushkala"
 },
 {
+"type": "Hindu",
 "name": "Lavanasura",
 "god": "Personification of Friendship",
 "abode": "Mount Olympus",
@@ -4473,6 +4970,7 @@
 "children": "Taksha, Pushkala"
 },
 {
+"type": "Hindu",
 "name": "Kusha",
 "god": "Personification of Friendship",
 "abode": "Mount Olympus",
@@ -4482,6 +4980,7 @@
 "children": "'Kusha', also rendered 'Kusa' (Sanskrit: \u0915\u0941\u0936) and his twin brother Lava |Lava are the children of Rama and Sita in Hinduism|Hindu tradition. Their story is recounted in the Hindu epic Ramayana, and Versions of Ramayana|its other versions."
 },
 {
+"type": "Hindu",
 "name": "Kusha",
 "god": "Personification of Friendship",
 "abode": "Mount Olympus",
@@ -4491,6 +4990,7 @@
 "children": "Characters in the Mahabharata#Ayus|Ayus, Amavasu, Vishvayu or Vanayus, Shrutayu or Dhimat, Shatayu , and Dridhayu"
 },
 {
+"type": "Hindu",
 "name": "Kusha",
 "god": "Personification of Friendship",
 "abode": "Devaloka",
@@ -4500,6 +5000,7 @@
 "children": "Marisha"
 },
 {
+"type": "Hindu",
 "name": "Kusha",
 "god": "Personification of Friendship",
 "abode": "Devaloka",
@@ -4509,6 +5010,7 @@
 "children": "Marisha"
 },
 {
+"type": "Hindu",
 "name": "Kali",
 "god": "Demon of Sin",
 "abode": "Naraka",
@@ -4518,6 +5020,7 @@
 "children": "Dumvishnu,Niraswati,Vishbrahma"
 },
 {
+"type": "Hindu",
 "name": "Kali",
 "god": "Demon of Sin",
 "abode": "Naraka",
@@ -4527,6 +5030,7 @@
 "children": "Rama  ,"
 },
 {
+"type": "Hindu",
 "name": "Yama",
 "god": "God of Death and Justice",
 "abode": "Naraka (Hinduism)|Naraka (Yamaloka)",
@@ -4536,6 +5040,7 @@
 "children": "Rama  ,"
 },
 {
+"type": "Hindu",
 "name": "Sudama",
 "god": "God of Death and Justice",
 "abode": "Naraka (Hinduism)|Naraka (Yamaloka)",
@@ -4545,6 +5050,7 @@
 "children": "In their legend, Sudama and Krishna study together as children at Sandipani's Ashram|ashrama, believed to have been at Ujjain. Leading a life of abject poverty, Sudama's wife urges him to go to Krishna, and request his assistance. Carrying some handfuls of parched rice as a gift, Sudama visits his old friend at Dvaraka, who receives him with honour. After discerning Sudama's unrevealed poverty, Krishna creates various luxurious palaces for his friend where his hut had stood, which the former sees when he r"
 },
 {
+"type": "Hindu",
 "name": "Revati",
 "god": "Goddess of Opulence",
 "abode": "Vaikuntha",
@@ -4554,6 +5060,7 @@
 "children": "Nishatha , Ulmuka"
 },
 {
+"type": "Hindu",
 "name": "Revati",
 "god": "Goddess of Opulence",
 "abode": "Vaikuntha",
@@ -4563,6 +5070,7 @@
 "children": "Nishatha , Ulmuka"
 },
 {
+"type": "Hindu",
 "name": "Mitra",
 "god": "God of friendship, oaths and the morning sun",
 "abode": "Devaloka",
@@ -4572,6 +5080,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Ganga",
 "god": "Personification of the Ganges River  Goddess of Forgiveness and Purification",
 "abode": "Devaloka",
@@ -4581,6 +5090,7 @@
 "children": "Bhishma"
 },
 {
+"type": "Hindu",
 "name": "Iravan",
 "god": "Personification of the Ganges River  Goddess of Forgiveness and Purification",
 "abode": "Devaloka",
@@ -4590,6 +5100,7 @@
 "children": "Bhishma"
 },
 {
+"type": "Hindu",
 "name": "Valli",
 "god": "Goddess of Icchashakti",
 "abode": "Skandaloka",
@@ -4599,6 +5110,7 @@
 "children": "Bhishma"
 },
 {
+"type": "Hindu",
 "name": "Mahakali",
 "god": "Mother GoddessGoddess of Time and Death",
 "abode": "Manidvipa",
@@ -4608,6 +5120,7 @@
 "children": "Bhishma"
 },
 {
+"type": "Hindu",
 "name": "Tripurantaka",
 "god": "God of Protection and destroyer of darkness and evil",
 "abode": "Tripura, Plane (esotericism)|Bhuloka or Mount Kailash",
@@ -4617,6 +5130,7 @@
 "children": "Ganesha, Kartikeya, Ayyappan, Ashokasundari, Manasa, Jyoti |Jyoti and Rudra|Rudra-Sarvani"
 },
 {
+"type": "Hindu",
 "name": "Jivdani Mata",
 "god": "God of Wealth of Life",
 "abode": "",
@@ -4626,6 +5140,7 @@
 "children": "Ganesha, Kartikeya, Ayyappan, Ashokasundari, Manasa, Jyoti |Jyoti and Rudra|Rudra-Sarvani"
 },
 {
+"type": "Hindu",
 "name": "[[Dashavatara]] Sequence",
 "god": "God of Wealth of Life",
 "abode": "",
@@ -4635,6 +5150,7 @@
 "children": "Ganesha, Kartikeya, Ayyappan, Ashokasundari, Manasa, Jyoti |Jyoti and Rudra|Rudra-Sarvani"
 },
 {
+"type": "Hindu",
 "name": "Radha Krishna",
 "god": "God and Goddess of Love,<ref>{{cite book|title=Alternative Krishnas: Regional and Vernacular Variations on a Hindu Deity|url=https://books.google.com/books?id=0SJ73GHSCF8C&pg=PA65|author=Guy Beck|publisher=Suny Press|year=2005|pages=64\u201381|isbn=9780791464151|access-date=2021-04-22|archive-date=2023-01-15|archive-url=https://web.archive.org/web/20230115162309/https://books.google.com/books?id=0SJ73GHSCF8C&p",
 "abode": "list|Goloka|Vaikuntha| Vrindavan|Barsana}}",
@@ -4644,6 +5160,7 @@
 "children": "Ganesha, Kartikeya, Ayyappan, Ashokasundari, Manasa, Jyoti |Jyoti and Rudra|Rudra-Sarvani"
 },
 {
+"type": "Greek",
 "name": "Polydorus",
 "god": "King of Thebes, Greece|Thebes",
 "abode": "Thebes",
@@ -4653,6 +5170,7 @@
 "children": "Labdacus"
 },
 {
+"type": "Greek",
 "name": "Alexiares and Anticetus",
 "god": "King of Thebes, Greece|Thebes",
 "abode": "Mount Olympus",
@@ -4662,6 +5180,7 @@
 "children": "Labdacus"
 },
 {
+"type": "Roman",
 "name": "Mors",
 "god": "Personification of Death",
 "abode": "",
@@ -4671,6 +5190,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Kunti",
 "god": "",
 "abode": "",
@@ -4680,6 +5200,7 @@
 "children": "'Pre-marital'"
 },
 {
+"type": "Greek",
 "name": "Acacus",
 "god": "Eponymous King of Acacesium",
 "abode": "Arcadia",
@@ -4689,6 +5210,7 @@
 "children": "'Pre-marital'"
 },
 {
+"type": "Greek",
 "name": "Oizys",
 "god": "Personification of Misery",
 "abode": "Arcadia",
@@ -4698,6 +5220,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Uddhava",
 "god": "Personification of Misery",
 "abode": "Arcadia",
@@ -4707,6 +5230,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Tinjis",
 "god": "Queen of Ancient Libya|Libya",
 "abode": "Libya",
@@ -4716,6 +5240,7 @@
 "children": "Alceis or Barce |Barce and,Iphinoe |Iphinoe , Sufax"
 },
 {
+"type": "Greek",
 "name": "Sufax",
 "god": "Founder of Tangier",
 "abode": "Libya",
@@ -4725,6 +5250,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Dysnomia",
 "god": "Personification of Lawlessness",
 "abode": "Greek underworld|Underworld (possibly)",
@@ -4734,6 +5260,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Aergia",
 "god": "Personification of sloth, idleness, indolence and laziness",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4743,6 +5270,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Aidos",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4752,6 +5280,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Bakasura",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4761,6 +5290,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Mukasura",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4770,6 +5300,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Samaleswari",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4779,6 +5310,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Samaleswari",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4788,6 +5320,7 @@
 "children": "List_of_characters_in_the_Mahabharata#Vajra|Vajra and Mrigaketana</ref>"
 },
 {
+"type": "Hindu",
 "name": "Asamanjasa",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4797,6 +5330,7 @@
 "children": "Amshuman"
 },
 {
+"type": "Hindu",
 "name": "Asamanjasa",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4806,6 +5340,7 @@
 "children": "Amshuman"
 },
 {
+"type": "Hindu",
 "name": "Asamanjasa",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4815,6 +5350,7 @@
 "children": "Amshuman"
 },
 {
+"type": "Hindu",
 "name": "Karkotaka",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4824,6 +5360,7 @@
 "children": "'Karkotaka' (</ref>"
 },
 {
+"type": "Hindu",
 "name": "Karkotaka",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4833,6 +5370,7 @@
 "children": "'Karkotaka' (</ref>"
 },
 {
+"type": "Hindu",
 "name": "Karkotaka",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4842,6 +5380,7 @@
 "children": "Pippalada"
 },
 {
+"type": "Hindu",
 "name": "Karkotaka",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Greek Underworld|Underworld (specifically in the House of Hypnos)",
@@ -4851,6 +5390,7 @@
 "children": "'Shishupala' (</ref>"
 },
 {
+"type": "Hindu",
 "name": "Shantadurga",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Keloshi Kavlem Shanta Durga Temple",
@@ -4860,6 +5400,7 @@
 "children": "'Shishupala' (</ref>"
 },
 {
+"type": "Hindu",
 "name": "Shantadurga",
 "god": "Goddess of shame, modesty, respect, and humility.",
 "abode": "Keloshi Kavlem Shanta Durga Temple",
@@ -4869,6 +5410,7 @@
 "children": "'Shishupala' (</ref>"
 },
 {
+"type": "Hindu",
 "name": "Mhalsa",
 "god": "",
 "abode": "",
@@ -4878,6 +5420,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Mandavya",
 "god": "",
 "abode": "",
@@ -4887,6 +5430,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Mandhatra",
 "god": "",
 "abode": "",
@@ -4896,6 +5440,7 @@
 "children": "Purukutsa, Ambarisha, and Muchukunda"
 },
 {
+"type": "Hindu",
 "name": "The Four Kumaras",
 "god": "",
 "abode": "Brahmaloka",
@@ -4905,6 +5450,7 @@
 "children": "The 'Kumaras' are four sages  from the Puranic texts of Hinduism who roam the universe as children,</ref> generally named Sanaka kumara, Sanatana kumara, Sanandana kumara and Sanat kumara. They are described as the first mind-born creations and sons of the creator-god Brahma. Born from Brahma's mind, the four Kumaras undertook lifelong vows of celibacy  against the wishes of their father. They are said to wander throughout the materialistic and spiritualistic universe without any desire but with purpose to teach., and always travelled together."
 },
 {
+"type": "Hindu",
 "name": "Ushana",
 "god": "",
 "abode": "Brahmaloka",
@@ -4914,6 +5460,7 @@
 "children": "Shiteyus"
 },
 {
+"type": "Hindu",
 "name": "Virochana",
 "god": "",
 "abode": "Brahmaloka",
@@ -4923,6 +5470,7 @@
 "children": "Mahabali"
 },
 {
+"type": "Hindu",
 "name": "Surapadma",
 "god": "",
 "abode": "Brahmaloka",
@@ -4932,6 +5480,7 @@
 "children": "Banukopan, Iraniyan, various other sons"
 },
 {
+"type": "Hindu",
 "name": "Nachiketa",
 "god": "",
 "abode": "Brahmaloka",
@@ -4941,6 +5490,7 @@
 "children": "Banukopan, Iraniyan, various other sons"
 },
 {
+"type": "Hindu",
 "name": "Bhudevi",
 "god": "Goddess of the Earth",
 "abode": "Bhuloka and Dyuloka",
@@ -4950,6 +5500,7 @@
 "children": "Narakasura, Mangala, Sita"
 },
 {
+"type": "Hindu",
 "name": "Potu Raju",
 "god": "Goddess of the Earth",
 "abode": "Bhuloka and Dyuloka",
@@ -4959,6 +5510,7 @@
 "children": "Narakasura, Mangala, Sita"
 },
 {
+"type": "Hindu",
 "name": "Narishyanta",
 "god": "Goddess of the Earth",
 "abode": "Bhuloka and Dyuloka",
@@ -4968,6 +5520,7 @@
 "children": "Dama"
 },
 {
+"type": "Hindu",
 "name": "Narishyanta",
 "god": "Queen of the Deva (Hinduism)|Devas",
 "abode": "Amaravati (mythology)|Amaravati, Indraloka, Svarga",
@@ -4977,6 +5530,7 @@
 "children": "Jayanta, Rishabha, Midhusha, Jayanti |Jayanti, Devasena"
 },
 {
+"type": "Greek",
 "name": "Meriones",
 "god": "Achaean Leader",
 "abode": "Crete",
@@ -4986,6 +5540,7 @@
 "children": "Jayanta, Rishabha, Midhusha, Jayanti |Jayanti, Devasena"
 },
 {
+"type": "Hindu",
 "name": "Mahiravana",
 "god": "Achaean Leader",
 "abode": "Patala",
@@ -4995,6 +5550,7 @@
 "children": "Jayanta, Rishabha, Midhusha, Jayanti |Jayanti, Devasena"
 },
 {
+"type": "Hindu",
 "name": "Prithu",
 "god": "Achaean Leader",
 "abode": "Patala",
@@ -5004,6 +5560,7 @@
 "children": "Vijitsatva"
 },
 {
+"type": "Hindu",
 "name": "Prithu",
 "god": "King of Mathura",
 "abode": "Patala",
@@ -5013,6 +5570,7 @@
 "children": "Kamsa"
 },
 {
+"type": "Hindu",
 "name": "Danavas",
 "god": "King of Mathura",
 "abode": "<!-- or  -->",
@@ -5022,6 +5580,7 @@
 "children": "| offspring = <!-- or -->"
 },
 {
+"type": "Greek",
 "name": "Ponos",
 "god": "Personification of Toil",
 "abode": "",
@@ -5031,6 +5590,7 @@
 "children": "| offspring = <!-- or -->"
 },
 {
+"type": "Hindu",
 "name": "Ponos",
 "god": "Personification of Toil",
 "abode": "",
@@ -5040,6 +5600,7 @@
 "children": "| offspring = <!-- or -->"
 },
 {
+"type": "Greek",
 "name": "Despoina",
 "god": "Personification of Toil",
 "abode": "Arcadia (region)|Arcadia",
@@ -5049,6 +5610,7 @@
 "children": "| offspring = <!-- or -->"
 },
 {
+"type": "Hindu",
 "name": "Takshaka",
 "god": "",
 "abode": "Indrapuri",
@@ -5058,6 +5620,7 @@
 "children": "| offspring = <!-- or -->"
 },
 {
+"type": "Hindu",
 "name": "Takshaka",
 "god": "",
 "abode": "Indrapuri",
@@ -5067,6 +5630,7 @@
 "children": "Ikshvaku, Dhrishta, Narishyanta, Dishta, Nriga, Karusha, Saryati, Nabhaga, Pranshu, Prisadhra<ref>https://www.wisdomlib.org/definition/vaivasvata-manu</ref>,Ila |Ila<ref>https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc241624.html</ref>"
 },
 {
+"type": "Hindu",
 "name": "Alakshmi",
 "god": "Goddess of Misfortune and Grief",
 "abode": "Indrapuri",
@@ -5076,6 +5640,7 @@
 "children": "Ikshvaku, Dhrishta, Narishyanta, Dishta, Nriga, Karusha, Saryati, Nabhaga, Pranshu, Prisadhra<ref>https://www.wisdomlib.org/definition/vaivasvata-manu</ref>,Ila |Ila<ref>https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc241624.html</ref>"
 },
 {
+"type": "Greek",
 "name": "Dike",
 "god": "Goddess of justice and the spirit of moral order and fair judgement",
 "abode": "Mount Olympus",
@@ -5085,6 +5650,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Acacallis",
 "god": "Princess of Crete",
 "abode": "Crete",
@@ -5094,6 +5660,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Manyu",
 "god": "Princess of Crete",
 "abode": "Crete",
@@ -5103,6 +5670,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Epirus",
 "god": "Eponym of Epirus (ancient state)|Epirus",
 "abode": "Thebes",
@@ -5112,6 +5680,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Philomelus",
 "god": "Inventor of the chariot",
 "abode": "",
@@ -5121,6 +5690,7 @@
 "children": "Parias |Parias"
 },
 {
+"type": "Greek",
 "name": "Pallas",
 "god": "God of Warcraft",
 "abode": "",
@@ -5130,6 +5700,7 @@
 "children": "Nike |Nike, Kratos |Kratos, Bia |Bia, Zelus, occasionally Selene and Eos"
 },
 {
+"type": "Greek",
 "name": "Pallas",
 "god": "Eponymous King of Pallantium (Arcadia)|Pallantion",
 "abode": "Arcadia",
@@ -5139,6 +5710,7 @@
 "children": "Nike |Nike, Kratos |Kratos, Bia |Bia, Zelus, occasionally Selene and Eos"
 },
 {
+"type": "Greek",
 "name": "Cydoemus",
 "god": "Personification of Confusion",
 "abode": "Greek underworld|Underworld (possibly)",
@@ -5148,6 +5720,7 @@
 "children": "Nike |Nike, Kratos |Kratos, Bia |Bia, Zelus, occasionally Selene and Eos"
 },
 {
+"type": "Hindu",
 "name": "Cydoemus",
 "god": "Personification of Confusion",
 "abode": "Greek underworld|Underworld (possibly)",
@@ -5157,6 +5730,7 @@
 "children": "Vajramusthi, Virupaksha, Durmukha, Suptaghna, Yajnakopa, Matta, Unmatta ,Anala"
 },
 {
+"type": "Greek",
 "name": "Nike",
 "god": "Goddess of victory",
 "abode": "Mount Olympus",
@@ -5166,6 +5740,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Karuppu Sami",
 "god": "Patroller of Boundaries",
 "abode": "",
@@ -5175,6 +5750,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Karuppu Sami",
 "god": "Patroller of Boundaries",
 "abode": "",
@@ -5184,6 +5760,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Vulcan",
 "god": "God of fire, metalworking, and the forge",
 "abode": "under the island of Vulcano",
@@ -5193,6 +5770,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Phoenix",
 "god": "Eponym of Phoenicia",
 "abode": "Phoenicia",
@@ -5202,6 +5780,7 @@
 "children": "Europa and Phineus or, Carme |Carme, Cilix, Phineus and Doryclus, Europa, Astypalaea|Astypale, Phoenice |Phoenice and Peirus |Peirus, Europa and Astypalaea, Adonis, Cadmus, Europa and Thasus, Cepheus"
 },
 {
+"type": "Greek",
 "name": "Abia",
 "god": "Nursemaid of Hyllus or Glenus, sons of Heracles",
 "abode": "Messenia, Ire (Abia)",
@@ -5211,6 +5790,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Acanthis",
 "god": "Transformed into a bird",
 "abode": "",
@@ -5220,6 +5800,7 @@
 "children": "In Antoninus Liberalis, Metamorphoses, 7 recounts the whole story of Acanthis and her family's unfortunate fate:<blockquote>Autonous, son of Melaneus and Hippodamia, had as sons Erodius, Anthus, Schoeneus and Acanthus, with a daughter 'Acanthis' to whom the gods granted great beauty. Autonous acquired many herds of horses which were pastured by his wife Hippodamia and their children. Now because he neglected husbandry, no crops were produced by the extensive lands of Autonous which bore only rushes and thistles. For this reason he named his children after such plants: Acanthus, Schoeneus and Acanthis, and his oldest son Erodius, because his lands had been eroded."
 },
 {
+"type": "Hindu",
 "name": "Aakash Bhairav",
 "god": "Sky",
 "abode": "",
@@ -5229,6 +5810,7 @@
 "children": "The temple of Akash Bhairav is supposed to have been a palace of the first king of Nepal, Kiranti King Yalambar around 3100\u20133500 years back. The surrounding of Akash Bhairav is known as Yen to symbolize Ne of Nepal. Ne means Midland in Kiranti language. The head of the Aakash Bhairav was dug up several hundred years ago in Kathmandu. It is taken out once a year on the occasion of Yenya Festival and blessed by the Kumari |Kumari, the living goddess who lives in the nearby Kumarichok. This ceremony is held in the month of August/September. During the ceremony, large number of worshippers come to visit this temple. They offer Peda , flowers, money and several others things. We could have witnessed the late dynasty exchanging the swords with that of Akash Bhairav, most recently by the previous king Gyanendra of Nepal and late King Birendra of Nepal before him. In reality, they had made the offering and shown deep respect towards the historic icon.<ref></ref>"
 },
 {
+"type": "Greek",
 "name": "Abrota or Habrote",
 "god": "Megara|Megarian Queen",
 "abode": "Boeotia, Megara",
@@ -5238,6 +5820,7 @@
 "children": "The temple of Akash Bhairav is supposed to have been a palace of the first king of Nepal, Kiranti King Yalambar around 3100\u20133500 years back. The surrounding of Akash Bhairav is known as Yen to symbolize Ne of Nepal. Ne means Midland in Kiranti language. The head of the Aakash Bhairav was dug up several hundred years ago in Kathmandu. It is taken out once a year on the occasion of Yenya Festival and blessed by the Kumari |Kumari, the living goddess who lives in the nearby Kumarichok. This ceremony is held in the month of August/September. During the ceremony, large number of worshippers come to visit this temple. They offer Peda , flowers, money and several others things. We could have witnessed the late dynasty exchanging the swords with that of Akash Bhairav, most recently by the previous king Gyanendra of Nepal and late King Birendra of Nepal before him. In reality, they had made the offering and shown deep respect towards the historic icon.<ref></ref>"
 },
 {
+"type": "Greek",
 "name": "Acamas",
 "god": "Exiled Prince of Athens",
 "abode": "Athens, later Euboea",
@@ -5247,6 +5830,7 @@
 "children": "The temple of Akash Bhairav is supposed to have been a palace of the first king of Nepal, Kiranti King Yalambar around 3100\u20133500 years back. The surrounding of Akash Bhairav is known as Yen to symbolize Ne of Nepal. Ne means Midland in Kiranti language. The head of the Aakash Bhairav was dug up several hundred years ago in Kathmandu. It is taken out once a year on the occasion of Yenya Festival and blessed by the Kumari |Kumari, the living goddess who lives in the nearby Kumarichok. This ceremony is held in the month of August/September. During the ceremony, large number of worshippers come to visit this temple. They offer Peda , flowers, money and several others things. We could have witnessed the late dynasty exchanging the swords with that of Akash Bhairav, most recently by the previous king Gyanendra of Nepal and late King Birendra of Nepal before him. In reality, they had made the offering and shown deep respect towards the historic icon.<ref></ref>"
 },
 {
+"type": "Greek",
 "name": "Achaeus",
 "god": "Eponym of the Achaeans (tribe)|Achaean race",
 "abode": "Athens, Lacedaemon, Achaea in Phthiotis",
@@ -5256,6 +5840,7 @@
 "children": "In Greek mythology, 'Achaeus' or 'Achaios' (</ref> derived from \u03b1\u03c7\u03bf\u03c2 achos, 'grief, pain, woe') was, according to nearly all traditions, a son of Xuthus and Creusa |Creusa, and consequently a brother of Ion |Ion and grandson of Hellen.<ref>Hesiod, Catalogue of Women|Ehoiai fr. 10a.20\u20134</ref> His children were Archander and Architeles."
 },
 {
+"type": "Greek",
 "name": "Achaeus",
 "god": "Eponym of the Achaeans (tribe)|Achaean race",
 "abode": "River Nile in Egypt",
@@ -5265,6 +5850,7 @@
 "children": "'Achiro\u00eb'(Ancient Greek: \u1f08\u03c7\u03b9\u03c1\u03cc\u03b7) </ref> She was also the wife of Belus |Belus, by whom she became the mother of Aegyptus and Danaus, and, according to some accounts, Cepheus, King of Aethiopia|Cepheus, and Phineus |Phineus. Otherwise, the possible mother of this children and spouse of Belus was called Side |Side, eponym of Sidon in Phoenicia."
 },
 {
+"type": "Hindu",
 "name": "Khatvanga",
 "god": "Eponym of the Achaeans (tribe)|Achaean race",
 "abode": "River Nile in Egypt",
@@ -5274,6 +5860,7 @@
 "children": "'Achiro\u00eb'(Ancient Greek: \u1f08\u03c7\u03b9\u03c1\u03cc\u03b7) </ref> She was also the wife of Belus |Belus, by whom she became the mother of Aegyptus and Danaus, and, according to some accounts, Cepheus, King of Aethiopia|Cepheus, and Phineus |Phineus. Otherwise, the possible mother of this children and spouse of Belus was called Side |Side, eponym of Sidon in Phoenicia."
 },
 {
+"type": "Hindu",
 "name": "Khatvanga",
 "god": "Eponym of the Achaeans (tribe)|Achaean race",
 "abode": "River Nile in Egypt",
@@ -5283,6 +5870,7 @@
 "children": "'Achiro\u00eb'(Ancient Greek: \u1f08\u03c7\u03b9\u03c1\u03cc\u03b7) </ref> She was also the wife of Belus |Belus, by whom she became the mother of Aegyptus and Danaus, and, according to some accounts, Cepheus, King of Aethiopia|Cepheus, and Phineus |Phineus. Otherwise, the possible mother of this children and spouse of Belus was called Side |Side, eponym of Sidon in Phoenicia."
 },
 {
+"type": "Hindu",
 "name": "Vishrava",
 "god": "Eponym of the Achaeans (tribe)|Achaean race",
 "abode": "River Nile in Egypt",
@@ -5292,6 +5880,7 @@
 "children": "Kubera, Ravana, Kumbhakarna, Vibhishana ,Surpanakha"
 },
 {
+"type": "Hindu",
 "name": "Manasa",
 "god": "Goddess of Serpents",
 "abode": "River Nile in Egypt",
@@ -5301,6 +5890,7 @@
 "children": "Astika |Astika"
 },
 {
+"type": "Hindu",
 "name": "Angala Paramesvari Amman",
 "god": "",
 "abode": "Mel Malayanoor",
@@ -5310,6 +5900,7 @@
 "children": "Astika |Astika"
 },
 {
+"type": "Greek",
 "name": "Olganos",
 "god": "River God",
 "abode": "",
@@ -5319,6 +5910,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Kakudmi",
 "god": "River God",
 "abode": "",
@@ -5328,6 +5920,7 @@
 "children": "Revati"
 },
 {
+"type": "Greek",
 "name": "Eirene",
 "god": "Goddess of peace",
 "abode": "",
@@ -5337,6 +5930,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Ashta Lakshmi",
 "god": "Goddess of ProsperitySupreme Goddess in Vaishnavism",
 "abode": "Vaikuntha, Manidvipa",
@@ -5346,6 +5940,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Heramba Ganapati",
 "god": "",
 "abode": "",
@@ -5355,6 +5950,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Limos",
 "god": "Personification of",
 "abode": "Greek underworld|Underworld",
@@ -5364,6 +5960,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Kushadhvaja",
 "god": "Personification of",
 "abode": "Greek underworld|Underworld",
@@ -5373,6 +5970,7 @@
 "children": "Mandavi, Shrutakirti"
 },
 {
+"type": "Greek",
 "name": "Apollonis",
 "god": "Goddess of the inspiration of literature, science and the arts",
 "abode": "Greek underworld|Underworld",
@@ -5382,6 +5980,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Apollonis",
 "god": "Goddess of the inspiration of literature, science and the arts",
 "abode": "Greek underworld|Underworld",
@@ -5391,6 +5990,7 @@
 "children": "Druhyu, Anudruhyu, Puru"
 },
 {
+"type": "Greek",
 "name": "Zacynthus",
 "god": "Eponymous founder of Zacynthus|Zacynthos",
 "abode": "(1) Arcadia (region)|Arcadia or(2) Dardania",
@@ -5400,6 +6000,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Enodia",
 "god": "Goddess of Roads, Ghosts, Purification, Protection, the City, and Cemeteries",
 "abode": "Pherae",
@@ -5409,6 +6010,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Vasavi Kanyaka Parameshvari",
 "god": "",
 "abode": "Pherae",
@@ -5418,6 +6020,7 @@
 "children": ""
 },
 {
+"type": "Greek",
 "name": "Pandora",
 "god": "Princess of Phthia",
 "abode": "Phthia, Ancient Thessaly|Thessaly",
@@ -5427,6 +6030,7 @@
 "children": "Graecus, Latinus, Melera and Pandorus"
 },
 {
+"type": "Hindu",
 "name": "Vinata",
 "god": "",
 "abode": "Phthia, Ancient Thessaly|Thessaly",
@@ -5436,6 +6040,7 @@
 "children": "Vinata is a daughter of Daksha. Kadru is her elder sister, and when they both lived with Kashyapa as his wives, and attended to all his comforts, he blessed them by granting each of them a boon.<ref></ref> Kadru asked for a thousand n\u0101ga|naga sons who should be valiant. Prompted by her sister's demand for sons, Vinata asked for only two sons, who should be more powerful and brighter than Kadru's children. Kashyapa granted them their wishes. After his wives be"
 },
 {
+"type": "Hindu",
 "name": "Muneeswarar",
 "god": "",
 "abode": "Phthia, Ancient Thessaly|Thessaly",
@@ -5445,6 +6050,7 @@
 "children": "Vinata is a daughter of Daksha. Kadru is her elder sister, and when they both lived with Kashyapa as his wives, and attended to all his comforts, he blessed them by granting each of them a boon.<ref></ref> Kadru asked for a thousand n\u0101ga|naga sons who should be valiant. Prompted by her sister's demand for sons, Vinata asked for only two sons, who should be more powerful and brighter than Kadru's children. Kashyapa granted them their wishes. After his wives be"
 },
 {
+"type": "Greek",
 "name": "Epiphron",
 "god": "Personification of Prudence",
 "abode": "Greek underworld|Underworld (possibly)",
@@ -5454,6 +6060,7 @@
 "children": "Vinata is a daughter of Daksha. Kadru is her elder sister, and when they both lived with Kashyapa as his wives, and attended to all his comforts, he blessed them by granting each of them a boon.<ref></ref> Kadru asked for a thousand n\u0101ga|naga sons who should be valiant. Prompted by her sister's demand for sons, Vinata asked for only two sons, who should be more powerful and brighter than Kadru's children. Kashyapa granted them their wishes. After his wives be"
 },
 {
+"type": "Hindu",
 "name": "Muthappan",
 "god": "<!--eg. god of death-->",
 "abode": "",
@@ -5463,6 +6070,7 @@
 "children": "Vinata is a daughter of Daksha. Kadru is her elder sister, and when they both lived with Kashyapa as his wives, and attended to all his comforts, he blessed them by granting each of them a boon.<ref></ref> Kadru asked for a thousand n\u0101ga|naga sons who should be valiant. Prompted by her sister's demand for sons, Vinata asked for only two sons, who should be more powerful and brighter than Kadru's children. Kashyapa granted them their wishes. After his wives be"
 },
 {
+"type": "Hindu",
 "name": "Khodiyar",
 "god": "<!--eg. god of death-->",
 "abode": "",
@@ -5472,6 +6080,7 @@
 "children": "Mahm\u016bd then went to a \u015aiva temple in the wilderness to fast and pray for children. On the 8th day \u015aiva appeared and granted Ga\u1e0dhv\u012b seven daughters and a son. Several"
 },
 {
+"type": "Hindu",
 "name": "Nathamuni",
 "god": "<!--eg. god of death-->",
 "abode": "",
@@ -5481,6 +6090,7 @@
 "children": "Mahm\u016bd then went to a \u015aiva temple in the wilderness to fast and pray for children. On the 8th day \u015aiva appeared and granted Ga\u1e0dhv\u012b seven daughters and a son. Several"
 },
 {
+"type": "Hindu",
 "name": "Nathamuni",
 "god": "God of Desire",
 "abode": "Alakapuri",
@@ -5490,6 +6100,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "V\u0101sudeva",
 "god": "God of Desire",
 "abode": "",
@@ -5499,6 +6110,7 @@
 "children": "Pradyumna, Samba (Krishna's son)|Samba"
 },
 {
+"type": "Greek",
 "name": "Aglaurus",
 "god": "Princess of Athens",
 "abode": "Athens",
@@ -5508,6 +6120,7 @@
 "children": "Pradyumna, Samba (Krishna's son)|Samba"
 },
 {
+"type": "Hindu",
 "name": "Aglaurus",
 "god": "Princess of Athens",
 "abode": "Athens",
@@ -5517,6 +6130,7 @@
 "children": "Pradyumna, Samba (Krishna's son)|Samba"
 },
 {
+"type": "Hindu",
 "name": "Annapurna Devi",
 "god": "nourishment",
 "abode": "",
@@ -5526,6 +6140,7 @@
 "children": "Pradyumna, Samba (Krishna's son)|Samba"
 },
 {
+"type": "Hindu",
 "name": "Annapurna",
 "god": "Goddess of Food and Nourishment",
 "abode": "Mount Kailash",
@@ -5535,6 +6150,7 @@
 "children": "Pradyumna, Samba (Krishna's son)|Samba"
 },
 {
+"type": "Hindu",
 "name": "Annapurna",
 "god": "Goddess of Food and Nourishment",
 "abode": "Kishkindha",
@@ -5544,6 +6160,7 @@
 "children": "Angada"
 },
 {
+"type": "Hindu",
 "name": "Ganesh ()",
 "god": "Goddess of Food and Nourishment",
 "abode": "Kishkindha",
@@ -5553,6 +6170,7 @@
 "children": "Angada"
 },
 {
+"type": "Greek",
 "name": "Acamas or Akamas",
 "god": "Lieutenant of the Dardanians (Trojan)|Dardanians",
 "abode": "Dardanus (city)|Dardania",
@@ -5562,6 +6180,7 @@
 "children": "Angada"
 },
 {
+"type": "Greek",
 "name": "Ganymede",
 "god": "Cupbearer to the gods",
 "abode": "Mount Olympus",
@@ -5571,6 +6190,7 @@
 "children": "Angada"
 },
 {
+"type": "Hindu",
 "name": "Ganymede",
 "god": "Cupbearer to the gods",
 "abode": "Mount Olympus",
@@ -5580,6 +6200,7 @@
 "children": "Rukmi , Rukmini"
 },
 {
+"type": "Greek",
 "name": "Eros",
 "god": "God of love, lust, desire and sexPrimordial god and personification of Love",
 "abode": "Mount Olympus",
@@ -5589,6 +6210,7 @@
 "children": "Rukmi , Rukmini"
 },
 {
+"type": "Greek",
 "name": "Cronus",
 "god": "God of the harvest<!--please do not add Time as that refers to Chronos, which is a different figure as per disambig and name / comp-mythology section-->",
 "abode": "list|Mount Othrys (formerly)}}|Tartarus}}",
@@ -5598,6 +6220,7 @@
 "children": "Rukmi , Rukmini"
 },
 {
+"type": "Roman",
 "name": "Saturn",
 "god": "God of the Capitol, time, wealth, agriculture, and liberation",
 "abode": "Capitoline Hill",
@@ -5607,6 +6230,7 @@
 "children": "Jupiter |Jupiter, Neptune |Neptune, Pluto |Pluto, Juno |Juno, Ceres |Ceres and Vesta |Vesta"
 },
 {
+"type": "Greek",
 "name": "Gaia",
 "god": "Primordial goddess and personification of the Earth",
 "abode": "Earth",
@@ -5616,6 +6240,7 @@
 "children": "Jupiter |Jupiter, Neptune |Neptune, Pluto |Pluto, Juno |Juno, Ceres |Ceres and Vesta |Vesta"
 },
 {
+"type": "Greek",
 "name": "Uranus",
 "god": "Primordial god and personification of the Sky and Aether (classical element)|Heavens",
 "abode": "",
@@ -5625,6 +6250,7 @@
 "children": "The Titans, the Cyclopes, the Hecatoncheires,  the Erinyes , the Giants |Giants, the Meliae, and Aphrodite<ref>According to Hesiod, Theogony [https://www.perseus.tufts.edu/hopper/text?doc=Hes.+Th.+183 183\u2013200], Aphrodite was born from Uranus' severed genitals, but according to Homer, Aphrodite was the daughter of Zeus (Iliad [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:3.374 3.374], [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:20.105 20.105]; Odyssey [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng1:8.308 8.308], [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng1:8.320 320]) and Dione |Dione (Iliad [http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:5.370 5.370\u201371]), see Gantz, pp. 99\u2013100.</ref>"
 },
 {
+"type": "Greek",
 "name": "Ceto",
 "god": "Greek sea gods|Sea goddess",
 "abode": "Sea",
@@ -5634,6 +6260,7 @@
 "children": "'Ceto'  is a Greek primordial deities|primordial Greek sea gods|sea goddess in Greek mythology, the daughter of Pontus |Pontus and his mother, Gaia |Gaia. As a mythological figure, she is considered to be one of the most ancient deities, and bore a host of monstrous children fathered by Phorcys, another child of Gaia and Pontus. The small Solar System body 65489 Ceto was named after her, and its satellite after Phorcys."
 },
 {
+"type": "Hindu",
 "name": "Kali",
 "god": "Mother Goddess;",
 "abode": "Cremation grounds (but varies by interpretation), Manidvipa",
@@ -5643,6 +6270,7 @@
 "children": "'Ceto'  is a Greek primordial deities|primordial Greek sea gods|sea goddess in Greek mythology, the daughter of Pontus |Pontus and his mother, Gaia |Gaia. As a mythological figure, she is considered to be one of the most ancient deities, and bore a host of monstrous children fathered by Phorcys, another child of Gaia and Pontus. The small Solar System body 65489 Ceto was named after her, and its satellite after Phorcys."
 },
 {
+"type": "Hindu",
 "name": "Vishnu",
 "god": "God of Preservation",
 "abode": "* Vaikuntha (Narayana)",
@@ -5652,6 +6280,7 @@
 "children": "'Ceto'  is a Greek primordial deities|primordial Greek sea gods|sea goddess in Greek mythology, the daughter of Pontus |Pontus and his mother, Gaia |Gaia. As a mythological figure, she is considered to be one of the most ancient deities, and bore a host of monstrous children fathered by Phorcys, another child of Gaia and Pontus. The small Solar System body 65489 Ceto was named after her, and its satellite after Phorcys."
 },
 {
+"type": "Hindu",
 "name": "Ganesha",
 "god": "God of New Beginnings, Wisdom and Luck  Remover of ObstaclesSupreme God (Ganapatya)",
 "abode": "* Vaikuntha (Narayana)",
@@ -5661,6 +6290,7 @@
 "children": "'Ceto'  is a Greek primordial deities|primordial Greek sea gods|sea goddess in Greek mythology, the daughter of Pontus |Pontus and his mother, Gaia |Gaia. As a mythological figure, she is considered to be one of the most ancient deities, and bore a host of monstrous children fathered by Phorcys, another child of Gaia and Pontus. The small Solar System body 65489 Ceto was named after her, and its satellite after Phorcys."
 },
 {
+"type": "Hindu",
 "name": "Rama",
 "god": "",
 "abode": "}}",
@@ -5670,6 +6300,7 @@
 "children": "'Ceto'  is a Greek primordial deities|primordial Greek sea gods|sea goddess in Greek mythology, the daughter of Pontus |Pontus and his mother, Gaia |Gaia. As a mythological figure, she is considered to be one of the most ancient deities, and bore a host of monstrous children fathered by Phorcys, another child of Gaia and Pontus. The small Solar System body 65489 Ceto was named after her, and its satellite after Phorcys."
 },
 {
+"type": "Roman",
 "name": "Mars",
 "god": "God of war, guardian of agriculture and the Roman people",
 "abode": "",
@@ -5679,6 +6310,7 @@
 "children": "Romulus and Remus, Cupid"
 },
 {
+"type": "Greek",
 "name": "Algos",
 "god": "Personification of Pain",
 "abode": "Greek underworld|Underworld",
@@ -5688,6 +6320,7 @@
 "children": "Romulus and Remus, Cupid"
 },
 {
+"type": "Hindu",
 "name": "Algos",
 "god": "Personification of Pain",
 "abode": "Greek underworld|Underworld",
@@ -5697,6 +6330,7 @@
 "children": "Romulus and Remus, Cupid"
 },
 {
+"type": "Greek",
 "name": "Velchanos",
 "god": "<!-- or god_of / Alusi_of -->",
 "abode": "<!-- or  -->",
@@ -5706,6 +6340,7 @@
 "children": "Romulus and Remus, Cupid"
 },
 {
+"type": "Hindu",
 "name": "Nimi",
 "god": "<!-- or god_of / Alusi_of -->",
 "abode": "<!-- or  -->",
@@ -5715,6 +6350,7 @@
 "children": "Romulus and Remus, Cupid"
 },
 {
+"type": "Greek",
 "name": "Lacedaemon",
 "god": "Eponymous king of Sparta|Lacedaemon",
 "abode": "Laconia",
@@ -5724,6 +6360,7 @@
 "children": "In a rare version of the myth, Taygete was the wife of Lacedaemon and their children were Himerus |Himerus and Cleodice.<ref>Pseudo-Plutarch, De fluviis [https://www.perseus.tufts.edu/h"
 },
 {
+"type": "Greek",
 "name": "Priapus",
 "god": "God of fertility, vegetables, nature, livestock, fruit, beekeeping, sex, genitals, masculinity, and gardens",
 "abode": "",
@@ -5733,6 +6370,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Sol",
 "god": "God of the Sun",
 "abode": "Sky",
@@ -5742,6 +6380,7 @@
 "children": ""
 },
 {
+"type": "Roman",
 "name": "Sol",
 "god": "God of the Sun",
 "abode": "deity|type=Greek|name=Acallaris|deity_of=Trojan Queen|member_of=the Royal House of Troy|image=|alt=|caption=|other_names=|hiro=|Old_Norse=|Devanagari=|Sanskrit_transliteration=|Tamil_script=|Tamil_transliteration=|Kannada_script=|Kannada_transliteration=|script_name=|script=|affiliation=|cult_center=Troy|planet=|mantra=|weapon=|battles=|artifacts=|animals=|symbol=|height=|age=|tree=|day=|color=|number=|consort=Tros (mythology)|Tros|parents=Eumedes|siblings=|offspring=Assaracus|predecessor=|successor=|army=|mount=|texts=|Greek_equivalent=|Roman_equivalent=|Etruscan_equivalent=|Christian_equivalent=|Slavic_equivalent=|Hinduism_equivalent=|Canaanite_equivalent=|region=|ethnic_group=|festivals=}}",
@@ -5751,6 +6390,7 @@
 "children": "In Greek mythology, 'Acallaris' (Ancient Greek: \u1f08\u03ba\u03b1\u03bb\u03bb\u03b1\u03c1\u03af\u03c2) was the daughter of Eumedes. According to some accounts she married the Trojan king, Tros |Tros of whom she had a son Assaracus, also a king of Troy.<ref name=\":2\">Dionysius of Halicarnassus, [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/1C*.html#62.2 Antiquitates Romanae 1.62.2]</ref> Some writers gave the name Callirhoe |Callirrhoe, daughter of the river god Scamander as the wife of Tros and became the mother of his sons.<ref>Bibliotheca (Pseudo-Apollodorus)|Pseudo-Apollodorus, Bibliotheca [https://www.perseus.tufts.edu/hopper/text?doc=Apollod.+3.12.2&fromdoc=Perseus%3Atext%3A1999.01.0022:book=3:chapter=12&highlight=Callirrhoe 3.12.2]</ref><ref>Tzetzes on Lycophron, 29</ref><ref>Scholiast on Homer's Iliad 20.231 who refers to Hellanicus of Lesbos|Hellanicus as his authority</ref> Other possible children of Tros and Acallaris are Ilus |Ilus, Ganymede |Ganymede, Cleopatra |Cleopatra and Cleomestra.<ref>Dictys Cretensis, Trojan War Chronicle ["
 },
 {
+"type": "Hindu",
 "name": "Sol",
 "god": "God of the SunRuler of the Planets",
 "abode": "deity|type=Greek|name=Acallaris|deity_of=Trojan Queen|member_of=the Royal House of Troy|image=|alt=|caption=|other_names=|hiro=|Old_Norse=|Devanagari=|Sanskrit_transliteration=|Tamil_script=|Tamil_transliteration=|Kannada_script=|Kannada_transliteration=|script_name=|script=|affiliation=|cult_center=Troy|planet=|mantra=|weapon=|battles=|artifacts=|animals=|symbol=|height=|age=|tree=|day=|color=|number=|consort=Tros (mythology)|Tros|parents=Eumedes|siblings=|offspring=Assaracus|predecessor=|successor=|army=|mount=|texts=|Greek_equivalent=|Roman_equivalent=|Etruscan_equivalent=|Christian_equivalent=|Slavic_equivalent=|Hinduism_equivalent=|Canaanite_equivalent=|region=|ethnic_group=|festivals=}}",
@@ -5760,6 +6400,7 @@
 "children": "Vaivasvata Manu, Yama |Yama, Suvarchala, Yami, Ashvins, Revanta, Shani, Tapati, Savarni Manu, Sugriva, and"
 },
 {
+"type": "Hindu",
 "name": "Brahma",
 "god": "God of Creation",
 "abode": "Satyaloka or Brahmaloka, Pushkara",
@@ -5769,6 +6410,7 @@
 "children": "Manasputra|Mind-born children including Angiras |Angiras, Atri, Bhrigu, Chitragupta, Daksha, Himavan, Jambavan, Kamadeva|Kama, Kratu, Four Kumaras|Kumaras, Marichi, Narada, Pulaha, Pulastya, Shatarupa, Svayambhuva Manu Vashishtha"
 },
 {
+"type": "Greek",
 "name": "Parion",
 "god": "Eponym of Parium|Parion",
 "abode": "",
@@ -5778,6 +6420,7 @@
 "children": ""
 },
 {
+"type": "Hindu",
 "name": "Budha",
 "god": "Nature  Mercury (planet)| Mercury",
 "abode": "Budhaloka",
@@ -5787,6 +6430,7 @@
 "children": "Pururavas"
 },
 {
+"type": "Roman",
 "name": "Cupid",
 "god": "God of desire, erotic love, attraction, and affection",
 "abode": "",
@@ -5796,6 +6440,7 @@
 "children": "Voluptas"
 },
 {
+"type": "Hindu",
 "name": "Banbibi \u09ac\u09a8\u09ac\u09bf\u09ac\u09bf",
 "god": "God of desire, erotic love, attraction, and affection",
 "abode": "",
@@ -5805,6 +6450,7 @@
 "children": "Voluptas"
 },
 {
+"type": "Hindu",
 "name": "Varahi",
 "god": "Commander of the Matrikas",
 "abode": "Vaikuntha",
@@ -5814,6 +6460,7 @@
 "children": "<!-- Reference required for Chandochanda-->"
 },
 {
+"type": "Hindu",
 "name": "Varahi",
 "god": "Commander of the Matrikas",
 "abode": "Vaikuntha",
@@ -5823,6 +6470,7 @@
 "children": "Bila  and Bili"
 },
 {
+"type": "Hindu",
 "name": "Varahi",
 "god": "Commander of the Matrikas",
 "abode": "Vaikuntha",
@@ -5832,6 +6480,7 @@
 "children": "Bila  and Bili"
 },
 {
+"type": "Greek",
 "name": "Telecleia",
 "god": "Queen of Thrace",
 "abode": "Troy|Ilium (Troy), later Thrace",
@@ -5841,6 +6490,7 @@
 "children": "Theano of Troy|Theano and Hecuba"
 },
 {
+"type": "Greek",
 "name": "Alipherus",
 "god": "Eponymous King of Aliphera (Greece)|Aliphera",
 "abode": "Arcadia",
@@ -5850,6 +6500,7 @@
 "children": "Theano of Troy|Theano and Hecuba"
 },
 {
+"type": "Greek",
 "name": "Merope",
 "god": "The Corinthian Pleiades|Pleiad Nymph",
 "abode": "Mount Kyllini|Mt. Cyllene on Arcadia (region)|Arcadia or later Corinth or Chios",
@@ -5859,6 +6510,7 @@
 "children": "Glaucus of Corinth|Glaukos, Ornytion (Porphyrion |Porphyrion), Thersander and Almus of Orchomenus|Almus"
 },
 {
+"type": "Greek",
 "name": "Deucalion",
 "god": "King of Crete",
 "abode": "Crete",
@@ -5868,6 +6520,7 @@
 "children": "Glaucus of Corinth|Glaukos, Ornytion (Porphyrion |Porphyrion), Thersander and Almus of Orchomenus|Almus"
 },
 {
+"type": "Roman",
 "name": "Salacia",
 "god": "Goddess of salt water",
 "abode": "Sea|The Sea",
@@ -5877,6 +6530,7 @@
 "children": "Glaucus of Corinth|Glaukos, Ornytion (Porphyrion |Porphyrion), Thersander and Almus of Orchomenus|Almus"
 },
 {
+"type": "Greek",
 "name": "Glaucus",
 "god": "Captain of the Lycia|Lycian contingent",
 "abode": "Lycia",
@@ -5886,6 +6540,7 @@
 "children": "Glaucus of Corinth|Glaukos, Ornytion (Porphyrion |Porphyrion), Thersander and Almus of Orchomenus|Almus"
 },
 {
+"type": "Greek",
 "name": "Glaucus",
 "god": "Prince of  Crete",
 "abode": "Crete",
@@ -5895,6 +6550,7 @@
 "children": "Glaucus of Corinth|Glaukos, Ornytion (Porphyrion |Porphyrion), Thersander and Almus of Orchomenus|Almus"
 },
 {
+"type": "Hindu",
 "name": "Jumadi",
 "god": "abundance",
 "abode": "Jambudv\u012bpa|world",
@@ -5904,6 +6560,7 @@
 "children": "Glaucus of Corinth|Glaukos, Ornytion (Porphyrion |Porphyrion), Thersander and Almus of Orchomenus|Almus"
 },
 {
+"type": "Greek",
 "name": "Orpheus",
 "god": "",
 "abode": "Pimpleia, Pieria (regional unit)|Pieria",
@@ -5913,6 +6570,7 @@
 "children": "Musaeus of Athens|Musaeus"
 },
 {
+"type": "Hindu",
 "name": "Sandipani",
 "god": "",
 "abode": "Pimpleia, Pieria (regional unit)|Pieria",
@@ -5922,6 +6580,7 @@
 "children": "Musaeus of Athens|Musaeus"
 },
 {
+"type": "Hindu",
 "name": "Sandipani",
 "god": "",
 "abode": "Pimpleia, Pieria (regional unit)|Pieria",
@@ -5929,5 +6588,155 @@
 "parent": "Oeagrus or Apollo and Calliope",
 "sibling": "The Graces, Linus of Thrace",
 "children": "Musaeus of Athens|Musaeus"
+},
+{
+"type": "Hindu",
+"name": "Jwala Ji",
+"god": "",
+"abode": "Pimpleia, Pieria (regional unit)|Pieria",
+"symbol": "Lyre",
+"parent": "Oeagrus or Apollo and Calliope",
+"sibling": "The Graces, Linus of Thrace",
+"children": "Musaeus of Athens|Musaeus"
+},
+{
+"type": "Greek",
+"name": "Nicaea",
+"god": "huntress and naiad nymph of Astacia",
+"abode": "Nicaea or Lake Ascanius in Bithynia",
+"symbol": "",
+"parent": "Sangarius and Cybele",
+"sibling": "",
+"children": "In Greek mythology, 'Nicaea'  or 'Nikaia' is a Naiad nymph (\"the Astacid nymph\", as referred to by Nonnus) of the springs or fountain of the ancient Greek colony of Nicaea|Nikaia in Bithynia  or else the goddess of the adjacent lake Ascanius. She is the daughter of the river-god Sangarius |Sangarius and the mother-goddess Cybele.<ref>William Smith |William Smith, Dictionary of Greek and Roman Biography and Mythology [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DN%3Aentry+group%3D5%3Aentry%3Dnicaea-bio-1 Nicaea 1]</ref> By the god of wine, Dionysus, she mothered Telete  and Satyrus, as well as other children."
+},
+{
+"type": "Hindu",
+"name": "Bhuvaneshvari",
+"god": "One of the Highest Forms of Mahadevi and Supreme Being in Shaktism",
+"abode": "Manidvipa",
+"symbol": "",
+"parent": "Sangarius and Cybele",
+"sibling": "",
+"children": "In Greek mythology, 'Nicaea'  or 'Nikaia' is a Naiad nymph (\"the Astacid nymph\", as referred to by Nonnus) of the springs or fountain of the ancient Greek colony of Nicaea|Nikaia in Bithynia  or else the goddess of the adjacent lake Ascanius. She is the daughter of the river-god Sangarius |Sangarius and the mother-goddess Cybele.<ref>William Smith |William Smith, Dictionary of Greek and Roman Biography and Mythology [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DN%3Aentry+group%3D5%3Aentry%3Dnicaea-bio-1 Nicaea 1]</ref> By the god of wine, Dionysus, she mothered Telete  and Satyrus, as well as other children."
+},
+{
+"type": "Hindu",
+"name": "Prathyangira",
+"god": "Goddess of Victory",
+"abode": "",
+"symbol": "",
+"parent": "Sangarius and Cybele",
+"sibling": "",
+"children": "In Greek mythology, 'Nicaea'  or 'Nikaia' is a Naiad nymph (\"the Astacid nymph\", as referred to by Nonnus) of the springs or fountain of the ancient Greek colony of Nicaea|Nikaia in Bithynia  or else the goddess of the adjacent lake Ascanius. She is the daughter of the river-god Sangarius |Sangarius and the mother-goddess Cybele.<ref>William Smith |William Smith, Dictionary of Greek and Roman Biography and Mythology [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DN%3Aentry+group%3D5%3Aentry%3Dnicaea-bio-1 Nicaea 1]</ref> By the god of wine, Dionysus, she mothered Telete  and Satyrus, as well as other children."
+},
+{
+"type": "Hindu",
+"name": "Pratyangira",
+"god": "Goddess of Victory",
+"abode": "",
+"symbol": "",
+"parent": "Sangarius and Cybele",
+"sibling": "",
+"children": "In Greek mythology, 'Nicaea'  or 'Nikaia' is a Naiad nymph (\"the Astacid nymph\", as referred to by Nonnus) of the springs or fountain of the ancient Greek colony of Nicaea|Nikaia in Bithynia  or else the goddess of the adjacent lake Ascanius. She is the daughter of the river-god Sangarius |Sangarius and the mother-goddess Cybele.<ref>William Smith |William Smith, Dictionary of Greek and Roman Biography and Mythology [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DN%3Aentry+group%3D5%3Aentry%3Dnicaea-bio-1 Nicaea 1]</ref> By the god of wine, Dionysus, she mothered Telete  and Satyrus, as well as other children."
+},
+{
+"type": "Greek",
+"name": "Bellerophon",
+"god": "Slayer of the Chimera (mythology)|Chimera",
+"abode": "Potniae, later Argos, Peloponnese|Argos and Lycia",
+"symbol": "",
+"parent": "Poseidon and Eurynome, Glaucus of Corinth|Glaucus and Eurymede",
+"sibling": "Deliades |Deliades",
+"children": "In Greek mythology, 'Nicaea'  or 'Nikaia' is a Naiad nymph (\"the Astacid nymph\", as referred to by Nonnus) of the springs or fountain of the ancient Greek colony of Nicaea|Nikaia in Bithynia  or else the goddess of the adjacent lake Ascanius. She is the daughter of the river-god Sangarius |Sangarius and the mother-goddess Cybele.<ref>William Smith |William Smith, Dictionary of Greek and Roman Biography and Mythology [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DN%3Aentry+group%3D5%3Aentry%3Dnicaea-bio-1 Nicaea 1]</ref> By the god of wine, Dionysus, she mothered Telete  and Satyrus, as well as other children."
+},
+{
+"type": "Hindu",
+"name": "Acintya, TunggalSanghyang Widhi Wasa",
+"god": "Slayer of the Chimera (mythology)|Chimera",
+"abode": "Potniae, later Argos, Peloponnese|Argos and Lycia",
+"symbol": "empty throne",
+"parent": "Poseidon and Eurynome, Glaucus of Corinth|Glaucus and Eurymede",
+"sibling": "Deliades |Deliades",
+"children": "In Greek mythology, 'Nicaea'  or 'Nikaia' is a Naiad nymph (\"the Astacid nymph\", as referred to by Nonnus) of the springs or fountain of the ancient Greek colony of Nicaea|Nikaia in Bithynia  or else the goddess of the adjacent lake Ascanius. She is the daughter of the river-god Sangarius |Sangarius and the mother-goddess Cybele.<ref>William Smith |William Smith, Dictionary of Greek and Roman Biography and Mythology [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DN%3Aentry+group%3D5%3Aentry%3Dnicaea-bio-1 Nicaea 1]</ref> By the god of wine, Dionysus, she mothered Telete  and Satyrus, as well as other children."
+},
+{
+"type": "Hindu",
+"name": "Acintya, TunggalSanghyang Widhi Wasa",
+"god": "Slayer of the Chimera (mythology)|Chimera",
+"abode": "Potniae, later Argos, Peloponnese|Argos and Lycia",
+"symbol": "empty throne",
+"parent": "Chyavana , Arushi",
+"sibling": "Deliades |Deliades",
+"children": "Ruchika , Kandali (daughter - wife of Durvasa)<ref>Brahmavaivarta Purana Sri-Krishna Janma Khanda  Chapter 24.Verse 10 English translation by Shantilal Nagar Parimal Publications Link: https://archive.org/details/brahma-vaivarta-purana-all-four-kandas-english-translation</ref>"
+},
+{
+"type": "Hindu",
+"name": "Varatantu",
+"god": "Slayer of the Chimera (mythology)|Chimera",
+"abode": "Potniae, later Argos, Peloponnese|Argos and Lycia",
+"symbol": "empty throne",
+"parent": "Chyavana , Arushi",
+"sibling": "Deliades |Deliades",
+"children": "In regional tradition, he is believed to have had a large ashram in Bharuch district|Bharuch for the education of children in the kingdom of the second Ikshvaku dynasty|Raghu, the grandfather of Rama."
+},
+{
+"type": "Hindu",
+"name": "Shiva & Vishnu",
+"god": "Slayer of the Chimera (mythology)|Chimera",
+"abode": "Potniae, later Argos, Peloponnese|Argos and Lycia",
+"symbol": "empty throne",
+"parent": "Chyavana , Arushi",
+"sibling": "Deliades |Deliades",
+"children": "In regional tradition, he is believed to have had a large ashram in Bharuch district|Bharuch for the education of children in the kingdom of the second Ikshvaku dynasty|Raghu, the grandfather of Rama."
+},
+{
+"type": "Hindu",
+"name": "Tridevi",
+"god": "Supreme Trinity of the UniverseCreation, preservation, and destructionPara Brahman, the Supreme Being",
+"abode": "* Satyaloka (Saraswati)",
+"symbol": "empty throne",
+"parent": "Chyavana , Arushi",
+"sibling": "Deliades |Deliades",
+"children": "In regional tradition, he is believed to have had a large ashram in Bharuch district|Bharuch for the education of children in the kingdom of the second Ikshvaku dynasty|Raghu, the grandfather of Rama."
+},
+{
+"type": "Greek",
+"name": "Harpalus",
+"god": "Prince of Sparta",
+"abode": "Sparta",
+"symbol": "empty throne",
+"parent": "Amyclas of Sparta|Amyclas and Diomede",
+"sibling": "Argalus, Cynortas, Hyacinth |Hyacinthus, Laodamia , Hegesandra|Hegesandre and ?Polyboea,half-sister by Amyclas:,?Daphne",
+"children": "Dereites|Deritus"
+},
+{
+"type": "Hindu",
+"name": "Kesari",
+"god": "Prince of Sparta",
+"abode": "Kishkindha",
+"symbol": "empty throne",
+"parent": "Amyclas of Sparta|Amyclas and Diomede",
+"sibling": "Bharadvaja, Kacha |Kacha",
+"children": "Hanuman"
+},
+{
+"type": "Hindu",
+"name": "Ila/Il\u0101",
+"god": "",
+"abode": "Budhaloka",
+"symbol": "empty throne",
+"parent": "Amyclas of Sparta|Amyclas and Diomede",
+"sibling": "Ikshvaku and 9 others",
+"children": "Pururavas ,Utkala, Gaya and Vinatashva"
+},
+{
+"type": "Hindu",
+"name": "Shri Devi Bambar Baini",
+"god": "",
+"abode": "Budhaloka",
+"symbol": "empty throne",
+"parent": "Amyclas of Sparta|Amyclas and Diomede",
+"sibling": "Ikshvaku and 9 others",
+"children": "Pururavas ,Utkala, Gaya and Vinatashva"
 }
 ]

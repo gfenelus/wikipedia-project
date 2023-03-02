@@ -44,6 +44,7 @@ def write_json(my_json):
 #iterate through elements of each page 
 for event, element in etree.iterparse(xmlB, tag="{http://www.mediawiki.org/xml/export-0.10/}text"):
     pageCount += 1
+    #prints a notification for every 100,000th page
     if pageCount%100000 == 0:
         print("pages parsed: ", pageCount)
 
@@ -60,7 +61,9 @@ for event, element in etree.iterparse(xmlB, tag="{http://www.mediawiki.org/xml/e
 
             #parse wiki text in to readable format
             for each in splitInfo:
-                
+                if "| type" in each:
+                    type = re.sub(r"\|\s*(type)\s*=", "", each) 
+
                 if "| name" in each:
                     name = re.sub(r"\|\s*(name)\s*=", "", each)
                     name = re.sub("'", "", name)
@@ -142,6 +145,7 @@ for event, element in etree.iterparse(xmlB, tag="{http://www.mediawiki.org/xml/e
            
             #CREATE deity profile in JSON
             my_json = {
+                "type": type.strip(),
                 "name": name.strip(),
                 "god": god.strip(),
                 "abode": abode.strip(),
